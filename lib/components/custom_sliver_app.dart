@@ -59,7 +59,7 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
                           opacity: opacity,
                           child: Text(
                             this.captionText,
-                            style: Styles.pFancy,
+                            style: Styles.p,
                           ),
                         );
                       }

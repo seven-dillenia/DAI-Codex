@@ -25,7 +25,7 @@ class Styles {
     fontSize: 32,
   );
 
-  static const TextStyle pFancy = TextStyle(
+  static const TextStyle p = TextStyle(
     fontFamily: 'Estre',
     color: Styles.white,
     fontSize: 18,
