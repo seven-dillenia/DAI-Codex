@@ -1,0 +1,32 @@
+name: dai_codex
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/tarots/characters/
+
+  fonts:
+    - family: Inquisition
+      fonts:
+        - asset: assets/fonts/Inquisition.ttf
+    - family: Estre
+      fonts:
+        - asset: assets/fonts/estre.ttf
