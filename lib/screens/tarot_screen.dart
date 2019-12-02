@@ -18,71 +18,67 @@ class _TarotScreenState extends State<TarotScreen> {
     return Scaffold(
       backgroundColor: Styles.black,
       body: SafeArea(
-        child: Container(
-          child: CustomScrollView(
-            slivers: <Widget>[
-              SliverPersistentHeader(
-                delegate: CustomSliverAppBar(
-                  expandedHeight: 70,
-                  minHeight: 70,
-                  headerText: "Character",
-                  leading: Align(
-                    alignment: Alignment.centerLeft,
-                    child: IconButton(
-                      onPressed: () {
-                        Navigator.of(context).pop();
-                      },
-                      icon: Icon(
-                        FontAwesomeIcons.chevronLeft,
-                        color: Colors.white,
-                      ),
+        child: CustomScrollView(
+          slivers: <Widget>[
+            SliverPersistentHeader(
+              delegate: CustomSliverAppBar(
+                expandedHeight: 70,
+                minHeight: 70,
+                headerText: "Character",
+                leading: Align(
+                  alignment: Alignment.centerLeft,
+                  child: IconButton(
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                    },
+                    icon: Icon(
+                      FontAwesomeIcons.chevronLeft,
+                      color: Colors.white,
                     ),
                   ),
                 ),
-                pinned: false,
-                floating: true,
               ),
-              SliverList(
-                delegate: SliverChildListDelegate([
-                  SizedBox(height: Styles.bigSpacing),
-                  Container(
-                    margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
-                    child: Wrap(
-                      direction: Axis.horizontal,
-                      alignment: WrapAlignment.center,
-                      spacing: Styles.superSmallSpacing,
-                      runSpacing: Styles.superSmallSpacing,
-                      children: <Widget>[
-                        TarotCard(
-                          imagePath: "assets/tarots/characters/cass.png",
-                        ),
-                        Container(
-                          width: 185,
-                          // color: Colors.blue,
-                          child: Image.asset('assets/tarots/characters/cass.png'),
-                        ),
-                        Container(
-                          width: 185,
-                          color: Colors.red,
-                          child: Image.asset('assets/tarots/characters/cass.png'),
-                        ),
-                        Container(
-                          width: 185,
-                          color: Colors.blue,
-                          child: Image.asset('assets/tarots/characters/cass.png'),
-                        )
-                      ],
-                    ),
+              pinned: false,
+              floating: true,
+            ),
+            SliverList(
+              delegate: SliverChildListDelegate([
+                SizedBox(height: Styles.bigSpacing),
+                Container(
+                  margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
+                  child: Wrap(
+                    direction: Axis.horizontal,
+                    alignment: WrapAlignment.center,
+                    spacing: Styles.superSmallSpacing,
+                    runSpacing: Styles.superSmallSpacing,
+                    children: <Widget>[
+                      TarotCard(
+                        imagePath: "assets/tarots/characters/cass.png",
+                      ),
+                      Container(
+                        width: 185,
+                        // color: Colors.blue,
+                        child: Image.asset('assets/tarots/characters/cass.png'),
+                      ),
+                      Container(
+                        width: 185,
+                        color: Colors.red,
+                        child: Image.asset('assets/tarots/characters/cass.png'),
+                      ),
+                      Container(
+                        width: 185,
+                        color: Colors.blue,
+                        child: Image.asset('assets/tarots/characters/cass.png'),
+                      )
+                    ],
                   ),
-                  SizedBox(height: Styles.bigSpacing)
-                ]),
-              )
-            ],
-          ),
+                ),
+                SizedBox(height: Styles.bigSpacing)
+              ]),
+            )
+          ],
         ),
       ),
     );
   }
 }
-
-
