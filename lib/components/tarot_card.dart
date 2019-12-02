@@ -1,4 +1,5 @@
 import 'package:dai_codex/misc/styles.dart';
+import 'package:dai_codex/screens/codex_screen.dart';
 import 'package:flutter/material.dart';
 
 class TarotCard extends StatefulWidget {
@@ -36,7 +37,7 @@ class _TarotCardState extends State<TarotCard> {
           setState(() {
             this._isTapped = false;
           });
-          // Navigator.of(context).pushNamed(CodexListScreen.id);
+          Navigator.of(context).pushNamed(CodexScreen.id);
         });
       },
       child: AnimatedContainer(
