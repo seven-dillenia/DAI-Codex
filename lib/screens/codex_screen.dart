@@ -1,4 +1,6 @@
+import 'package:dai_codex/components/codex_text.dart';
 import 'package:dai_codex/components/custom_sliver_app.dart';
+import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -10,6 +12,23 @@ class CodexScreen extends StatefulWidget {
 }
 
 class _CodexScreenState extends State<CodexScreen> {
+
+  List<String> lines = new List<String>();
+
+  @override
+  void initState() {
+    super.initState();
+    loadText();
+  }
+
+  void loadText() {
+    Helper().loadMd(context, "assets/codex/characters/Sera.md").then((data) {
+      setState(() {
+        this.lines = data;
+      });
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -43,8 +62,9 @@ class _CodexScreenState extends State<CodexScreen> {
                 SizedBox(height: Styles.bigSpacing),
                 Container(
                   margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
-                  child: SelectableText("something", style: Styles.p,),
-                )
+                  child: CodexText(lines: this.lines,)
+                ),
+                SizedBox(height: Styles.bigSpacing,)
               ]),
             )
           ],
