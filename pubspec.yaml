@@ -23,6 +23,7 @@ flutter:
     - assets/icons/
     - assets/tarots/characters/
     - assets/codex/characters/
+    - assets/json/
 
   fonts:
     - family: Inquisition

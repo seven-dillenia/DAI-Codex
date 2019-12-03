@@ -1,6 +1,8 @@
 import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/components/tarot_card.dart';
+import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
+import 'package:dai_codex/models/tarot_data.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -12,6 +14,23 @@ class TarotScreen extends StatefulWidget {
 
 class _TarotScreenState extends State<TarotScreen> {
   bool isTapped = false;
+  List<CodexData> _tarotDataList = new List<CodexData>();
+
+  @override
+  void initState() {
+    super.initState();
+    getTarotData();
+  }
+
+  // get all the picture picture
+  void getTarotData() {
+    Helper.loadAsset(context, 'assets/json/characters.json').then((data) {
+      setState(() {
+        this._tarotDataList = CodexData.decodeJsonToTarotDataList(data);
+      });
+    });
+    // read the json
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -51,26 +70,7 @@ class _TarotScreenState extends State<TarotScreen> {
                     alignment: WrapAlignment.center,
                     spacing: Styles.superSmallSpacing,
                     runSpacing: Styles.superSmallSpacing,
-                    children: <Widget>[
-                      TarotCard(
-                        imagePath: "assets/tarots/characters/cass.png",
-                      ),
-                      Container(
-                        width: 185,
-                        // color: Colors.blue,
-                        child: Image.asset('assets/tarots/characters/cass.png'),
-                      ),
-                      Container(
-                        width: 185,
-                        color: Colors.red,
-                        child: Image.asset('assets/tarots/characters/cass.png'),
-                      ),
-                      Container(
-                        width: 185,
-                        color: Colors.blue,
-                        child: Image.asset('assets/tarots/characters/cass.png'),
-                      )
-                    ],
+                    children: this._tarotDataList.map((data) => TarotCard(tarot: data,)).toList(),
                   ),
                 ),
                 SizedBox(height: Styles.bigSpacing)

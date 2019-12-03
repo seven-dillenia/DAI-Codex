@@ -7,12 +7,15 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class CodexScreen extends StatefulWidget {
   static const id = "Codex Screen";
+  final String codexFileName;
+
+  CodexScreen({@required this.codexFileName});
+
   @override
   _CodexScreenState createState() => _CodexScreenState();
 }
 
 class _CodexScreenState extends State<CodexScreen> {
-
   List<String> lines = new List<String>();
 
   @override
@@ -22,7 +25,7 @@ class _CodexScreenState extends State<CodexScreen> {
   }
 
   void loadText() {
-    Helper().loadMd(context, "assets/codex/characters/Sera.md").then((data) {
+    Helper.loadMd(context, widget.codexFileName).then((data) {
       setState(() {
         this.lines = data;
       });
