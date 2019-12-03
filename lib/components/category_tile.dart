@@ -50,7 +50,7 @@ class _CategoryTileState extends State<CategoryTile> {
         ),
         child: Text(
           widget.text,
-          style: Styles.h2,
+          style: Styles.h2Fancy,
           textAlign: TextAlign.center,
         ),
       ),

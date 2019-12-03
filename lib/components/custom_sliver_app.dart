@@ -51,7 +51,7 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: this.captionText != null ? CrossAxisAlignment.start : CrossAxisAlignment.center,
                 children: <Widget>[
-                  Text(this.headerText, style: Styles.h1),
+                  Text(this.headerText, style: Styles.h1Fancy),
                   Builder(
                     builder: (context) {
                       if (captionText != null) {
@@ -59,7 +59,7 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
                           opacity: opacity,
                           child: Text(
                             this.captionText,
-                            style: Styles.p,
+                            style: Styles.caption,
                           ),
                         );
                       }
