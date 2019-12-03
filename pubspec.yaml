@@ -22,6 +22,7 @@ flutter:
   assets:
     - assets/icons/
     - assets/tarots/characters/
+    - assets/codex/characters/
 
   fonts:
     - family: Inquisition
@@ -30,3 +31,9 @@ flutter:
     - family: Estre
       fonts:
         - asset: assets/fonts/estre.ttf
+    - family: Caveat
+      fonts:
+        - asset: assets/fonts/Caveat-Regular.ttf
+    - family: Caveat-Bold
+      fonts:
+        - asset: assets/fonts/Caveat-Bold.ttf
