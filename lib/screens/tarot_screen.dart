@@ -2,7 +2,7 @@ import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/components/tarot_card.dart';
 import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
-import 'package:dai_codex/models/tarot_data.dart';
+import 'package:dai_codex/models/codex_data.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -24,7 +24,7 @@ class _TarotScreenState extends State<TarotScreen> {
 
   // get all the picture picture
   void getTarotData() {
-    Helper.loadAsset(context, 'assets/json/characters.json').then((data) {
+    Helper.loadAsset(context, 'assets/json/characters_codex.json').then((data) {
       setState(() {
         this._tarotDataList = CodexData.decodeJsonToTarotDataList(data);
       });
