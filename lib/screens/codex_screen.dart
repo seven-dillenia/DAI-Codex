@@ -2,14 +2,15 @@ import 'package:dai_codex/components/codex_text.dart';
 import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
+import 'package:dai_codex/models/codex_data.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class CodexScreen extends StatefulWidget {
   static const id = "Codex Screen";
-  final String codexFileName;
+  final CodexData codexData;
 
-  CodexScreen({@required this.codexFileName});
+  CodexScreen({@required this.codexData});
 
   @override
   _CodexScreenState createState() => _CodexScreenState();
@@ -25,7 +26,7 @@ class _CodexScreenState extends State<CodexScreen> {
   }
 
   void loadText() {
-    Helper.loadMd(context, widget.codexFileName).then((data) {
+    Helper.loadMd(context, widget.codexData.codexPath).then((data) {
       setState(() {
         this.lines = data;
       });
@@ -43,7 +44,7 @@ class _CodexScreenState extends State<CodexScreen> {
               delegate: CustomSliverAppBar(
                 expandedHeight: 70,
                 minHeight: 70,
-                headerText: "Sera",
+                headerText: widget.codexData.title,
                 leading: Align(
                   alignment: Alignment.centerLeft,
                   child: IconButton(

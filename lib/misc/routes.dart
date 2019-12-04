@@ -12,7 +12,7 @@ class RouteGenerator {
       case TarotScreen.id:
         return MaterialPageRoute(builder: (_) => TarotScreen());
       case CodexScreen.id:
-        return MaterialPageRoute(builder: (_) => CodexScreen(codexFileName: settings.arguments,));
+        return MaterialPageRoute(builder: (_) => CodexScreen(codexData: settings.arguments,));
       default:
         return MaterialPageRoute(builder: (_) => CategoryScreen());
     }
