@@ -9,8 +9,8 @@ class Styles {
   // ----------------------------------- NOTE: Colours
   static const Color black = Color(0xFF232323);
   static const Color white = Color(0xFFDFDFDF);
-  static const Color gold = Color(0xFFcc9026);
-  static const Color shinyGold = Color(0xFFe89834);
+  static const Color goldenBrown = Color(0xFFcc9026);
+  static const Color goldenRetriver = Color(0xFFe89834);
   static const Color yellow = Color(0xFFFBCA3C);
 
   // ----------------------------------- NOTE: Text Styles
@@ -26,7 +26,7 @@ class Styles {
     fontStyle: FontStyle.italic,
     fontWeight: FontWeight.bold,
     fontSize: 20,
-    color: Color(0xFFFBCA3C),
+    color: yellow,
   );
 
   static final TextStyle p = TextStyle(
@@ -39,6 +39,11 @@ class Styles {
 
   static final TextStyle bold = p.copyWith(fontWeight: FontWeight.bold);
   static final TextStyle caption = p.copyWith(fontSize: 20);
+  static final TextStyle boldItalicYellow = p.copyWith(
+    fontStyle: FontStyle.italic,
+    fontWeight: FontWeight.bold,
+    color: yellow,
+  );
 
   // ------------------ NOTE: Characters Text Styles
   static final TextStyle sera = TextStyle(

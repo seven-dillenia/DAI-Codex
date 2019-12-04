@@ -45,7 +45,7 @@ class _CategoryTileState extends State<CategoryTile> {
         width: double.infinity,
         decoration: BoxDecoration(
           color: Styles.black,
-          border: Border(bottom: BorderSide(width: 2, color: Styles.gold)),
+          border: Border(bottom: BorderSide(width: 2, color: Styles.goldenBrown)),
           gradient: this._istapped ? this._gradient : null,
         ),
         child: Text(
