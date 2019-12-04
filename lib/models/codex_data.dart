@@ -14,8 +14,8 @@ class CodexData {
 
   factory CodexData.fromJson(Map<String, dynamic> json) => CodexData(
         title: json["title"],
-        tarotPath: json["image"],
-        codexPath: json["path"],
+        tarotPath: json["tarot_path"],
+        codexPath: json["codex_path"],
       );
 
   Map<String, dynamic> toJson() => {
