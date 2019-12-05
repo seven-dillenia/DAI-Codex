@@ -61,7 +61,7 @@
     },
     {
         "title": "Tal-Vashoth",
-        "codex_path": "assets/codex/groups/tal-vashoth_.md",
+        "codex_path": "assets/codex/groups/tal-vashoth.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "title": "The Grey Wardens",
-        "codex_path": "assets/codex/groups/the_grey_wardens_.md",
+        "codex_path": "assets/codex/groups/the_grey_wardens.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
@@ -141,7 +141,7 @@
     },
     {
         "title": "The Seekers of Truth",
-        "codex_path": "assets/codex/groups/the_seekers_of_truth_.md",
+        "codex_path": "assets/codex/groups/the_seekers_of_truth.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
