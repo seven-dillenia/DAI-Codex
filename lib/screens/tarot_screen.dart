@@ -49,7 +49,10 @@ class _TarotScreenState extends State<TarotScreen> {
                 expandedHeight: 50,
                 minHeight: 40,
                 title: Container(
-                  child: Text(widget.category.name, style: Styles.h1Fancy.copyWith(height: 0.9),),
+                  child: Text(
+                    widget.category.name,
+                    style: Styles.h1Fancy.copyWith(height: 0.9),
+                  ),
                 ),
                 leading: Positioned(
                   top: 0,
@@ -74,17 +77,16 @@ class _TarotScreenState extends State<TarotScreen> {
                 Container(
                   margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
                   child: Wrap(
-                    direction: Axis.horizontal,
-                    alignment: WrapAlignment.center,
-                    spacing: Styles.superSmallSpacing,
-                    runSpacing: Styles.superSmallSpacing,
-                    children: this
-                        ._tarotDataList
-                        .map((data) => TarotCard(
-                              tarot: data,
-                            ))
-                        .toList(),
-                  ),
+                      direction: Axis.horizontal,
+                      alignment: WrapAlignment.center,
+                      spacing: Styles.superSmallSpacing,
+                      runSpacing: Styles.superSmallSpacing,
+                      children: this
+                          ._tarotDataList
+                          .map((data) => TarotCard(
+                                tarot: data,
+                              ))
+                          .toList()),
                 ),
                 SizedBox(height: Styles.bigSpacing)
               ]),

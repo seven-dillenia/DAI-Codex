@@ -27,7 +27,6 @@ class _CategoryScreenState extends State<CategoryScreen> {
                   minHeight: 60,
                   hasBanner: true,
                   margin: EdgeInsets.only(left: 110, top: 10),
-
                   title: Text("Codex", style: Styles.h1Fancy),
                   captionText: "Stories and background from the world of Thedas",
                   leading: Positioned(
@@ -43,9 +42,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
               SliverList(
                 delegate: SliverChildListDelegate([
                   SizedBox(height: Styles.bigSpacing),
-                  Wrap(
-                    children: Data.categories.map((category) => CategoryTile(category: category)).toList(),
-                  ),
+                  Wrap(children: Data.categories.map((category) => CategoryTile(category: category)).toList()),
                   SizedBox(height: Styles.bigSpacing)
                 ]),
               )
