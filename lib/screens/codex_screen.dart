@@ -36,7 +36,7 @@ class _CodexScreenState extends State<CodexScreen> {
   }
 
   void setExpandedHeight() {
-    if(widget.codexData.title.length <= 20) {
+    if(widget.codexData.title.length <= 25) {
       expandedHeight = 50;
     } else if (widget.codexData.title.length <= 40) {
       expandedHeight = 70;
