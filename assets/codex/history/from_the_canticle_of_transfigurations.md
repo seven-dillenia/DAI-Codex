@@ -6,4 +6,5 @@ And boasts not, nor gloats
 Over the misfortunes of the weak, but takes delight
 In the Maker's law and creations, she shall know
 The peace of the Maker's benediction.
-—Canticle of Transfigurations 10:1
+
+——Canticle of Transfigurations 10:1

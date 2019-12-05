@@ -6,4 +6,5 @@ She should see fire and go towards Light.
 The Veil holds no uncertainty for her,
 And she will know no fear of death, for the Maker
 Shall be her beacon and her shield, her foundation and her sword.
-—Transfigurations 10:1, often sung by mourners as they light candles
+
+——Transfigurations 10:1, often sung by mourners as they light candles

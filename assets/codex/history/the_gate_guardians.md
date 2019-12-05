@@ -1,4 +1,7 @@
 And as I walked in the desert, I saw a great armored figure whose form blotted out the sky. At first I took it to be no more than met the eye, a simple spiked statue, but as I approached, this deceptive icon transformed into a warrior as graceful as it was massive, its bladed staff leveled at me with energy crackling from its tip. Though my position was hardly optimal (primal magic burned a few feet from my face), I kept my wits and asked this mighty golem to show me mercy.
+
 The armored figure spoke with a voice to make the sky quake and the stars scream. It sought magic to keep itself alive, it said, and the blood of the earth was the energy on which it survived. Having knowledge of the dwarves and the lyrium they provided to our mages, I directed the golem to the mage Atronis, who lived in nearby Perivantium, and it left without another word.
+
 That is the inspiration for the gate guardians I have designed, as fanciful a tale as it might seem. As for why I have asked that each guardian cast from my designs be inset with a small lyrium rod, I must primarily state that it is mere fancy. If Archon Ishal, gentle autocrat that he is, sees fit to ensure that my statues are known across the empire—I hear that one shall stand in the Western Approach—I would treasure the small hope that someday, I might see one walk again.
-—A tale told by Appius Trius, famed sculptor whose creations all sparked the imagination of those who beheld them, from Artists of Ancient Tevinter
+
+——A tale told by Appius Trius, famed sculptor whose creations all sparked the imagination of those who beheld them, from <i> Artists of Ancient Tevinter </i>

@@ -1,2 +1,3 @@
 Many Tevinter structures litter the wastelands of southwestern Orlais. In the age before the First Blight, the Imperium expanded through the South at an incredible rate, and the lands farthest from Minrathous became home to a great many sites dedicated to magical experimentation, taking advantage of natural weaknesses in the Veil as well as the distance from the Archon's oversight to try ever more dangerous fields of study. As with Aeonar in Ferelden, the laboratories of Orlais were set upon by the followers of Andraste during the uprising, and little remains of them now save crumbled stone.
-—An excerpt from Empire and Imperium by Sister Petrine, Chantry scholar
+
+——An excerpt from <i> Empire and Imperium </i> by Sister Petrine, Chantry scholar
