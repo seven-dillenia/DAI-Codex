@@ -21,9 +21,32 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icons/
-    - assets/tarots/characters/
-    - assets/codex/characters/
+
+    # category path
     - assets/json/
+
+    # tarot
+    - assets/tarots/characters/
+    - assets/tarots/creatures/
+    - assets/tarots/groups/
+    - assets/tarots/history/
+    - assets/tarots/letters_&_notes/
+    - assets/tarots/magic/
+    - assets/tarots/maps/
+    - assets/tarots/places/
+    - assets/tarots/tales/
+
+    # codex
+    - assets/codex/characters/
+    - assets/codex/creatures/
+    - assets/codex/groups/
+    - assets/codex/history/
+    - assets/codex/letters_&_notes/
+    - assets/codex/magic/
+    - assets/codex/maps/
+    - assets/codex/places/
+    - assets/codex/tales/
+
 
   fonts:
     - family: Inquisition
