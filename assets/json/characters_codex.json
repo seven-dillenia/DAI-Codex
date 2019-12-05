@@ -35,14 +35,14 @@
         "tarot_path": "assets/tarots/characters/calpernia.png"
     },
     {
-        "title": "Cassandra and the Last Few Years",
-        "codex_path": "assets/codex/characters/cassandra_and_the_last_few_years.md",
-        "tarot_path": "assets/tarots/characters/cassandra_and_the_last_few_years.png"
-    },
-    {
         "title": "Cassandra Pentaghast",
         "codex_path": "assets/codex/characters/cassandra_pentaghast.md",
         "tarot_path": "assets/tarots/characters/cassandra_pentaghast.png"
+    },
+    {
+        "title": "Cassandra and the Last Few Years",
+        "codex_path": "assets/codex/characters/cassandra_and_the_last_few_years.md",
+        "tarot_path": "assets/tarots/characters/cassandra_and_the_last_few_years.png"
     },
     {
         "title": "Cole",
@@ -75,14 +75,14 @@
         "tarot_path": "assets/tarots/characters/divine_justinia_v.png"
     },
     {
-        "title": "Dorian and the Last Few Years",
-        "codex_path": "assets/codex/characters/dorian_and_the_last_few_years.md",
-        "tarot_path": "assets/tarots/characters/dorian_and_the_last_few_years.png"
-    },
-    {
         "title": "Dorian Pavus",
         "codex_path": "assets/codex/characters/dorian_pavus.md",
         "tarot_path": "assets/tarots/characters/dorian_pavus.png"
+    },
+    {
+        "title": "Dorian and the Last Few Years",
+        "codex_path": "assets/codex/characters/dorian_and_the_last_few_years.md",
+        "tarot_path": "assets/tarots/characters/dorian_and_the_last_few_years.png"
     },
     {
         "title": "Empress Celene Valmont",
@@ -125,14 +125,14 @@
         "tarot_path": "assets/tarots/characters/iron_bull_and_the_last_few_years.png"
     },
     {
-        "title": "Josephine and the Last Few Years",
-        "codex_path": "assets/codex/characters/josephine_and_the_last_few_years.md",
-        "tarot_path": "assets/tarots/characters/josephine_and_the_last_few_years.png"
-    },
-    {
         "title": "Josephine Montilyet",
         "codex_path": "assets/codex/characters/josephine_montilyet.md",
         "tarot_path": "assets/tarots/characters/josephine_montilyet.png"
+    },
+    {
+        "title": "Josephine and the Last Few Years",
+        "codex_path": "assets/codex/characters/josephine_and_the_last_few_years.md",
+        "tarot_path": "assets/tarots/characters/josephine_and_the_last_few_years.png"
     },
     {
         "title": "Lavellan, of the Dalish",
@@ -245,14 +245,14 @@
         "tarot_path": "assets/tarots/characters/trevelyan_the_free_marcher.png"
     },
     {
-        "title": "Varric and the Last Few Years",
-        "codex_path": "assets/codex/characters/varric_and_the_last_few_years.md",
-        "tarot_path": "assets/tarots/characters/varric_and_the_last_few_years.png"
-    },
-    {
         "title": "Varric Tethras",
         "codex_path": "assets/codex/characters/varric_tethras.md",
         "tarot_path": "assets/tarots/characters/varric_tethras.png"
+    },
+    {
+        "title": "Varric and the Last Few Years",
+        "codex_path": "assets/codex/characters/varric_and_the_last_few_years.md",
+        "tarot_path": "assets/tarots/characters/varric_and_the_last_few_years.png"
     },
     {
         "title": "Viddasala",
@@ -260,14 +260,14 @@
         "tarot_path": "assets/tarots/characters/viddasala.png"
     },
     {
-        "title": "Vivienne and the Last Few Years",
-        "codex_path": "assets/codex/characters/vivienne_and_the_last_few_years.md",
-        "tarot_path": "assets/tarots/characters/vivienne_and_the_last_few_years.png"
-    },
-    {
         "title": "Vivienne: Madame de Fer",
         "codex_path": "assets/codex/characters/vivienne_madame_de_fer.md",
         "tarot_path": "assets/tarots/characters/vivienne_madame_de_fer.png"
+    },
+    {
+        "title": "Vivienne and the Last Few Years",
+        "codex_path": "assets/codex/characters/vivienne_and_the_last_few_years.md",
+        "tarot_path": "assets/tarots/characters/vivienne_and_the_last_few_years.png"
     },
     {
         "title": "Warden-Commander Clarel",
