@@ -1,0 +1,3 @@
+--Transcribed from a tale told by a templar in Antiva City, 7:13 StormDemons, of course, have no form in our world. When they enter, either where the Veil is particularly thin or through blood magic summoning, they must take possession of a body.
+When a pride demon takes control of the corpse of a mage, an arcane horror is born. Although they appear to be little more than bones, these are fierce creatures, possessing not only all the spellcasting abilities of a living mage, but also the capacity to heal and even command other animated corpses.
+Dragon Age: Inquisition: In the DA:I version only the transcribed tale appears

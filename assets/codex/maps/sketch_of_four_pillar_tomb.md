@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/0/05/Sketch_of_Four_Pillar_Tomb.jpg/revision/latest/scale-to-width-down/382?cb=20141210040155"alt="Sketch of Four Pillar Tomb"class=""data-image-key="Sketch_of_Four_Pillar_Tomb.jpg"data-image-name="Sketch of Four Pillar Tomb.jpg"width="382"height="400">

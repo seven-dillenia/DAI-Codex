@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/1/1c/Map_of_Watcher%27s_Pass.jpg/revision/latest/scale-to-width-down/395?cb=20141210040519"alt="Map of Watcher&amp;#039;s Pass"class=""data-image-key="Map_of_Watcher%27s_Pass.jpg"data-image-name="Map of Watcher&#39;s Pass.jpg"width="395"height="400">

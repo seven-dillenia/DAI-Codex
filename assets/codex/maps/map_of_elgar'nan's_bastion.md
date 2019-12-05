@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/7/78/Map_of_Elgar%27nan%27s_Bastion.jpg/revision/latest/scale-to-width-down/375?cb=20141210040657"alt="Map of Elgar&amp;#039;nan&amp;#039;s Bastion"class=""data-image-key="Map_of_Elgar%27nan%27s_Bastion.jpg"data-image-name="Map of Elgar&#39;nan&#39;s Bastion.jpg"width="375"height="400">

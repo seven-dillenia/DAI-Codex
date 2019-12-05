@@ -1,0 +1,2 @@
+Beyond Andraste's Mercy, a hundred steps to revelation:
+I don't know what it means. Is it allegory? I don't even know where father got this... mess of rambling. He spent his whole life figuring out that it pointed to objects in the Emerald Graves, and now I have to finish the job. This is going to kill me. Why would his dying wish be that I figure it out? What sort of father asks that of a son?As each clue is discovered it is added to the bottom of the codex, with only the last one found displayed.When the treasure hunt is complete, all clues disappear.

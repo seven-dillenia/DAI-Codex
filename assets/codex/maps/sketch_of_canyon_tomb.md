@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/d/d6/Sketch_of_Canyon_Tomb.jpg/revision/latest/scale-to-width-down/394?cb=20141210040313"alt="Sketch of Canyon Tomb"class=""data-image-key="Sketch_of_Canyon_Tomb.jpg"data-image-name="Sketch of Canyon Tomb.jpg"width="394"height="400">

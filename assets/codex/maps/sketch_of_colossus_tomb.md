@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/a/a0/Sketch_of_Colossus_Tomb.jpg/revision/latest/scale-to-width-down/390?cb=20141210040238"alt="Sketch of Colossus Tomb"class=""data-image-key="Sketch_of_Colossus_Tomb.jpg"data-image-name="Sketch of Colossus Tomb.jpg"width="390"height="400">

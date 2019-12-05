@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/1/13/Map_of_Halin%27sulahn.jpg/revision/latest/scale-to-width-down/383?cb=20141210040601"alt="Map of Halin&amp;#039;sulahn"class=""data-image-key="Map_of_Halin%27sulahn.jpg"data-image-name="Map of Halin&#39;sulahn.jpg"width="383"height="400">

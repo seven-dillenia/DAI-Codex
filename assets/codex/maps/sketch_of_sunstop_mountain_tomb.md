@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/4/40/Sketch_of_Sunstop_Mountain_Tomb.jpg/revision/latest/scale-to-width-down/400?cb=20141210040109"alt="Sketch of Sunstop Mountain Tomb"class=""data-image-key="Sketch_of_Sunstop_Mountain_Tomb.jpg"data-image-name="Sketch of Sunstop Mountain Tomb.jpg"width="400"height="383">

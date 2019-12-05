@@ -1,0 +1,1 @@
+<img src="https://vignette.wikia.nocookie.net/dragonage/images/b/bb/Sketch_of_Chateau_Courtyard.jpg/revision/latest/scale-to-width-down/391?cb=20141210040254"alt="Sketch of Chateau Courtyard"class=""data-image-key="Sketch_of_Chateau_Courtyard.jpg"data-image-name="Sketch of Chateau Courtyard.jpg"width="391"height="400">
