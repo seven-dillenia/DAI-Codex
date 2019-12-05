@@ -2,7 +2,7 @@ import 'package:dai_codex/models/category_data.dart';
 
 class Data {
   static final List<Category> categories = <Category>[
-    Category(name: "Characters", path: "assets/json/characters_codex.json"),
+    Category(name: "Characters", path: "assets/json/characters.json"),
     Category(name: "Creatures", path: "assets/json/creatures.json"),
     Category(name: "History", path: "assets/json/history.json"),
     Category(name: "Magic", path: "assets/json/magic.json"),
