@@ -30,7 +30,7 @@ flutter:
     - assets/tarots/creatures/
     - assets/tarots/groups/
     - assets/tarots/history/
-    - assets/tarots/letters_&_notes/
+    - assets/tarots/letters_and_notes/
     - assets/tarots/magic/
     - assets/tarots/maps/
     - assets/tarots/places/
@@ -41,7 +41,7 @@ flutter:
     - assets/codex/creatures/
     - assets/codex/groups/
     - assets/codex/history/
-    - assets/codex/letters_&_notes/
+    - assets/codex/letters_and_notes/
     - assets/codex/magic/
     - assets/codex/maps/
     - assets/codex/places/
