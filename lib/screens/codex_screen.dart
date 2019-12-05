@@ -18,13 +18,11 @@ class CodexScreen extends StatefulWidget {
 
 class _CodexScreenState extends State<CodexScreen> {
   List<String> lines = new List<String>();
-  double expandedHeight = 0;
 
   @override
   void initState() {
     super.initState();
     loadText();
-    setExpandedHeight();
   }
 
   void loadText() {
@@ -35,13 +33,14 @@ class _CodexScreenState extends State<CodexScreen> {
     });
   }
 
-  void setExpandedHeight() {
-    if(widget.codexData.title.length <= 25) {
-      expandedHeight = 50;
-    } else if (widget.codexData.title.length <= 40) {
-      expandedHeight = 70;
+  double setExpandedHeight() {
+    double appWidth = MediaQuery.of(context).size.width - 100;
+    int textWidth = widget.codexData.title.length * 10;
+
+    if (textWidth > appWidth) {
+      return 60;
     } else {
-      expandedHeight = 90;
+      return 50;
     }
   }
 
@@ -54,7 +53,7 @@ class _CodexScreenState extends State<CodexScreen> {
           slivers: <Widget>[
             SliverPersistentHeader(
               delegate: CustomSliverAppBar(
-                expandedHeight: this.expandedHeight,
+                expandedHeight: setExpandedHeight(),
                 minHeight: 36,
                 title: Flexible(
                   child: Container(
