@@ -1,0 +1,332 @@
+[
+    {
+        "title": "Bruiser",
+        "codex_path": "assets/codex/creatures/bruiser.md",
+        "tarot_path": "assets/tarots/creatures/bruiser.png"
+    },
+    {
+        "title": "Corpse (Inquisition)",
+        "codex_path": "assets/codex/creatures/corpse_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/corpse_(inquisition).png"
+    },
+    {
+        "title": "Archers",
+        "codex_path": "assets/codex/creatures/archers.md",
+        "tarot_path": "assets/tarots/creatures/archers.png"
+    },
+    {
+        "title": "Bogfisher",
+        "codex_path": "assets/codex/creatures/bogfisher.md",
+        "tarot_path": "assets/tarots/creatures/bogfisher.png"
+    },
+    {
+        "title": "Fear",
+        "codex_path": "assets/codex/creatures/fear.md",
+        "tarot_path": "assets/tarots/creatures/fear.png"
+    },
+    {
+        "title": "Black Wolf",
+        "codex_path": "assets/codex/creatures/black_wolf.md",
+        "tarot_path": "assets/tarots/creatures/black_wolf.png"
+    },
+    {
+        "title": "Cretahl",
+        "codex_path": "assets/codex/creatures/cretahl.md",
+        "tarot_path": "assets/tarots/creatures/cretahl.png"
+    },
+    {
+        "title": "Behemoth",
+        "codex_path": "assets/codex/creatures/behemoth.md",
+        "tarot_path": "assets/tarots/creatures/behemoth.png"
+    },
+    {
+        "title": "A Horsemaster's Notes on Mounts",
+        "codex_path": "assets/codex/creatures/a_horsemaster's_notes_on_mounts.md",
+        "tarot_path": "assets/tarots/creatures/a_horsemaster's_notes_on_mounts.png"
+    },
+    {
+        "title": "Bear (Inquisition)",
+        "codex_path": "assets/codex/creatures/bear_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/bear_(inquisition).png"
+    },
+    {
+        "title": "Hurlock (Inquisition)",
+        "codex_path": "assets/codex/creatures/hurlock_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/hurlock_(inquisition).png"
+    },
+    {
+        "title": "Guardsman",
+        "codex_path": "assets/codex/creatures/guardsman.md",
+        "tarot_path": "assets/tarots/creatures/guardsman.png"
+    },
+    {
+        "title": "Arcane Horror",
+        "codex_path": "assets/codex/creatures/arcane_horror.md",
+        "tarot_path": "assets/tarots/creatures/arcane_horror.png"
+    },
+    {
+        "title": "Bronto",
+        "codex_path": "assets/codex/creatures/bronto.md",
+        "tarot_path": "assets/tarots/creatures/bronto.png"
+    },
+    {
+        "title": "Prowler",
+        "codex_path": "assets/codex/creatures/prowler.md",
+        "tarot_path": "assets/tarots/creatures/prowler.png"
+    },
+    {
+        "title": "Despair Demon",
+        "codex_path": "assets/codex/creatures/despair_demon.md",
+        "tarot_path": "assets/tarots/creatures/despair_demon.png"
+    },
+    {
+        "title": "Giant",
+        "codex_path": "assets/codex/creatures/giant.md",
+        "tarot_path": "assets/tarots/creatures/giant.png"
+    },
+    {
+        "title": "Rage Demon",
+        "codex_path": "assets/codex/creatures/rage_demon.md",
+        "tarot_path": "assets/tarots/creatures/rage_demon.png"
+    },
+    {
+        "title": "Red Templar Guardsman",
+        "codex_path": "assets/codex/creatures/red_templar_guardsman.md",
+        "tarot_path": "assets/tarots/creatures/red_templar_guardsman.png"
+    },
+    {
+        "title": "August Ram",
+        "codex_path": "assets/codex/creatures/august_ram.md",
+        "tarot_path": "assets/tarots/creatures/august_ram.png"
+    },
+    {
+        "title": "Ram",
+        "codex_path": "assets/codex/creatures/ram.md",
+        "tarot_path": "assets/tarots/creatures/ram.png"
+    },
+    {
+        "title": "Mage",
+        "codex_path": "assets/codex/creatures/mage.md",
+        "tarot_path": "assets/tarots/creatures/mage.png"
+    },
+    {
+        "title": "Ghoul (Inquisition)",
+        "codex_path": "assets/codex/creatures/ghoul_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/ghoul_(inquisition).png"
+    },
+    {
+        "title": "Revenant",
+        "codex_path": "assets/codex/creatures/revenant.md",
+        "tarot_path": "assets/tarots/creatures/revenant.png"
+    },
+    {
+        "title": "Shriek (Inquisition)",
+        "codex_path": "assets/codex/creatures/shriek_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/shriek_(inquisition).png"
+    },
+    {
+        "title": "Fennec",
+        "codex_path": "assets/codex/creatures/fennec.md",
+        "tarot_path": "assets/tarots/creatures/fennec.png"
+    },
+    {
+        "title": "Envy",
+        "codex_path": "assets/codex/creatures/envy.md",
+        "tarot_path": "assets/tarots/creatures/envy.png"
+    },
+    {
+        "title": "Dragonling",
+        "codex_path": "assets/codex/creatures/dragonling.md",
+        "tarot_path": "assets/tarots/creatures/dragonling.png"
+    },
+    {
+        "title": "Darkspawn",
+        "codex_path": "assets/codex/creatures/darkspawn.md",
+        "tarot_path": "assets/tarots/creatures/darkspawn.png"
+    },
+    {
+        "title": "Druffalo",
+        "codex_path": "assets/codex/creatures/druffalo.md",
+        "tarot_path": "assets/tarots/creatures/druffalo.png"
+    },
+    {
+        "title": "Mabari War Hound",
+        "codex_path": "assets/codex/creatures/mabari_war_hound.md",
+        "tarot_path": "assets/tarots/creatures/mabari_war_hound.png"
+    },
+    {
+        "title": "Hurlock Alpha (Inquisition)",
+        "codex_path": "assets/codex/creatures/hurlock_alpha_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/hurlock_alpha_(inquisition).png"
+    },
+    {
+        "title": "Great Bear",
+        "codex_path": "assets/codex/creatures/great_bear.md",
+        "tarot_path": "assets/tarots/creatures/great_bear.png"
+    },
+    {
+        "title": "Pride Demon (Inquisition)",
+        "codex_path": "assets/codex/creatures/pride_demon_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/pride_demon_(inquisition).png"
+    },
+    {
+        "title": "Darkspawn (Inquisition)",
+        "codex_path": "assets/codex/creatures/darkspawn_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/darkspawn_(inquisition).png"
+    },
+    {
+        "title": "Deepstalker",
+        "codex_path": "assets/codex/creatures/deepstalker.md",
+        "tarot_path": "assets/tarots/creatures/deepstalker.png"
+    },
+    {
+        "title": "Foot Soldier",
+        "codex_path": "assets/codex/creatures/foot_soldier.md",
+        "tarot_path": "assets/tarots/creatures/foot_soldier.png"
+    },
+    {
+        "title": "Wraith",
+        "codex_path": "assets/codex/creatures/wraith.md",
+        "tarot_path": "assets/tarots/creatures/wraith.png"
+    },
+    {
+        "title": "Nightmare (Inquisition)",
+        "codex_path": "assets/codex/creatures/nightmare_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/nightmare_(inquisition).png"
+    },
+    {
+        "title": "Phoenix",
+        "codex_path": "assets/codex/creatures/phoenix.md",
+        "tarot_path": "assets/tarots/creatures/phoenix.png"
+    },
+    {
+        "title": "Darkspawn Emissary",
+        "codex_path": "assets/codex/creatures/darkspawn_emissary.md",
+        "tarot_path": "assets/tarots/creatures/darkspawn_emissary.png"
+    },
+    {
+        "title": "Horror",
+        "codex_path": "assets/codex/creatures/horror.md",
+        "tarot_path": "assets/tarots/creatures/horror.png"
+    },
+    {
+        "title": "Red Templars",
+        "codex_path": "assets/codex/creatures/red_templars.md",
+        "tarot_path": "assets/tarots/creatures/red_templars.png"
+    },
+    {
+        "title": "Gurn",
+        "codex_path": "assets/codex/creatures/gurn.md",
+        "tarot_path": "assets/tarots/creatures/gurn.png"
+    },
+    {
+        "title": "Red Templar Foot Soldier",
+        "codex_path": "assets/codex/creatures/red_templar_foot_soldier.md",
+        "tarot_path": "assets/tarots/creatures/red_templar_foot_soldier.png"
+    },
+    {
+        "title": "Poison Spider",
+        "codex_path": "assets/codex/creatures/poison_spider.md",
+        "tarot_path": "assets/tarots/creatures/poison_spider.png"
+    },
+    {
+        "title": "Wyvern",
+        "codex_path": "assets/codex/creatures/wyvern.md",
+        "tarot_path": "assets/tarots/creatures/wyvern.png"
+    },
+    {
+        "title": "Nug (Inquisition)",
+        "codex_path": "assets/codex/creatures/nug_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/nug_(inquisition).png"
+    },
+    {
+        "title": "Snoufleur",
+        "codex_path": "assets/codex/creatures/snoufleur.md",
+        "tarot_path": "assets/tarots/creatures/snoufleur.png"
+    },
+    {
+        "title": "Genlock (Inquisition)",
+        "codex_path": "assets/codex/creatures/genlock_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/genlock_(inquisition).png"
+    },
+    {
+        "title": "Lurker",
+        "codex_path": "assets/codex/creatures/lurker.md",
+        "tarot_path": "assets/tarots/creatures/lurker.png"
+    },
+    {
+        "title": "Giant Spider (Inquisition)",
+        "codex_path": "assets/codex/creatures/giant_spider_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/giant_spider_(inquisition).png"
+    },
+    {
+        "title": "Terror",
+        "codex_path": "assets/codex/creatures/terror.md",
+        "tarot_path": "assets/tarots/creatures/terror.png"
+    },
+    {
+        "title": "Tusket",
+        "codex_path": "assets/codex/creatures/tusket.md",
+        "tarot_path": "assets/tarots/creatures/tusket.png"
+    },
+    {
+        "title": "Spellbinder",
+        "codex_path": "assets/codex/creatures/spellbinder.md",
+        "tarot_path": "assets/tarots/creatures/spellbinder.png"
+    },
+    {
+        "title": "Red Templar Knight",
+        "codex_path": "assets/codex/creatures/red_templar_knight.md",
+        "tarot_path": "assets/tarots/creatures/red_templar_knight.png"
+    },
+    {
+        "title": "Gurgut",
+        "codex_path": "assets/codex/creatures/gurgut.md",
+        "tarot_path": "assets/tarots/creatures/gurgut.png"
+    },
+    {
+        "title": "Hyena",
+        "codex_path": "assets/codex/creatures/hyena.md",
+        "tarot_path": "assets/tarots/creatures/hyena.png"
+    },
+    {
+        "title": "Varghest",
+        "codex_path": "assets/codex/creatures/varghest.md",
+        "tarot_path": "assets/tarots/creatures/varghest.png"
+    },
+    {
+        "title": "Ogre (Inquisition)",
+        "codex_path": "assets/codex/creatures/ogre_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/ogre_(inquisition).png"
+    },
+    {
+        "title": "Red Templar Archers",
+        "codex_path": "assets/codex/creatures/red_templar_archers.md",
+        "tarot_path": "assets/tarots/creatures/red_templar_archers.png"
+    },
+    {
+        "title": "Shadow",
+        "codex_path": "assets/codex/creatures/shadow.md",
+        "tarot_path": "assets/tarots/creatures/shadow.png"
+    },
+    {
+        "title": "Shade",
+        "codex_path": "assets/codex/creatures/shade.md",
+        "tarot_path": "assets/tarots/creatures/shade.png"
+    },
+    {
+        "title": "Quillback",
+        "codex_path": "assets/codex/creatures/quillback.md",
+        "tarot_path": "assets/tarots/creatures/quillback.png"
+    },
+    {
+        "title": "Halla (Inquisition)",
+        "codex_path": "assets/codex/creatures/halla_(inquisition).md",
+        "tarot_path": "assets/tarots/creatures/halla_(inquisition).png"
+    },
+    {
+        "title": "Dragon",
+        "codex_path": "assets/codex/creatures/dragon.md",
+        "tarot_path": "assets/tarots/creatures/dragon.png"
+    }
+]

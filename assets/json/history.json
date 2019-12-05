@@ -1,0 +1,517 @@
+[
+    {
+        "title": "Chronicles of a Forgotten War",
+        "codex_path": "assets/codex/history/chronicles_of_a_forgotten_war.md",
+        "tarot_path": "assets/tarots/history/chronicles_of_a_forgotten_war.png"
+    },
+    {
+        "title": "Champions of the Just",
+        "codex_path": "assets/codex/history/champions_of_the_just.md",
+        "tarot_path": "assets/tarots/history/champions_of_the_just.png"
+    },
+    {
+        "title": "Here Lies the Abyss",
+        "codex_path": "assets/codex/history/here_lies_the_abyss.md",
+        "tarot_path": "assets/tarots/history/here_lies_the_abyss.png"
+    },
+    {
+        "title": "Inquisitor Ameridan",
+        "codex_path": "assets/codex/history/inquisitor_ameridan.md",
+        "tarot_path": "assets/tarots/history/inquisitor_ameridan.png"
+    },
+    {
+        "title": "Titans",
+        "codex_path": "assets/codex/history/titans.md",
+        "tarot_path": "assets/tarots/history/titans.png"
+    },
+    {
+        "title": "The Colossus of Orlais",
+        "codex_path": "assets/codex/history/the_colossus_of_orlais.md",
+        "tarot_path": "assets/tarots/history/the_colossus_of_orlais.png"
+    },
+    {
+        "title": "Dirthamen: Keeper of Secrets",
+        "codex_path": "assets/codex/history/dirthamen_keeper_of_secrets.md",
+        "tarot_path": "assets/tarots/history/dirthamen_keeper_of_secrets.png"
+    },
+    {
+        "title": "The First Blight: Chapter 1",
+        "codex_path": "assets/codex/history/the_first_blight_chapter_1.md",
+        "tarot_path": "assets/tarots/history/the_first_blight_chapter_1.png"
+    },
+    {
+        "title": "The Emerald Knights",
+        "codex_path": "assets/codex/history/the_emerald_knights.md",
+        "tarot_path": "assets/tarots/history/the_emerald_knights.png"
+    },
+    {
+        "title": "The First Blight: Chapter 2",
+        "codex_path": "assets/codex/history/the_first_blight_chapter_2.md",
+        "tarot_path": "assets/tarots/history/the_first_blight_chapter_2.png"
+    },
+    {
+        "title": "June: God of the Craft",
+        "codex_path": "assets/codex/history/june_god_of_the_craft.md",
+        "tarot_path": "assets/tarots/history/june_god_of_the_craft.png"
+    },
+    {
+        "title": "The Mason's Tales: Freed Are Slaves",
+        "codex_path": "assets/codex/history/the_mason's_tales_freed_are_slaves.md",
+        "tarot_path": "assets/tarots/history/the_mason's_tales_freed_are_slaves.png"
+    },
+    {
+        "title": "The First Grand Enchanter",
+        "codex_path": "assets/codex/history/the_first_grand_enchanter.md",
+        "tarot_path": "assets/tarots/history/the_first_grand_enchanter.png"
+    },
+    {
+        "title": "The Mason's Tales: Invasion",
+        "codex_path": "assets/codex/history/the_mason's_tales_invasion.md",
+        "tarot_path": "assets/tarots/history/the_mason's_tales_invasion.png"
+    },
+    {
+        "title": "From the Canticle of Transfigurations",
+        "codex_path": "assets/codex/history/from_the_canticle_of_transfigurations.md",
+        "tarot_path": "assets/tarots/history/from_the_canticle_of_transfigurations.png"
+    },
+    {
+        "title": "At What Cost",
+        "codex_path": "assets/codex/history/at_what_cost.md",
+        "tarot_path": "assets/tarots/history/at_what_cost.png"
+    },
+    {
+        "title": "Illustrated Periodical",
+        "codex_path": "assets/codex/history/illustrated_periodical.md",
+        "tarot_path": "assets/tarots/history/illustrated_periodical.png"
+    },
+    {
+        "title": "The First Blight: Chapter 4",
+        "codex_path": "assets/codex/history/the_first_blight_chapter_4.md",
+        "tarot_path": "assets/tarots/history/the_first_blight_chapter_4.png"
+    },
+    {
+        "title": "Not of Heroes: United in Hatred",
+        "codex_path": "assets/codex/history/not_of_heroes_united_in_hatred.md",
+        "tarot_path": "assets/tarots/history/not_of_heroes_united_in_hatred.png"
+    },
+    {
+        "title": "The Exalted March of the Dales",
+        "codex_path": "assets/codex/history/the_exalted_march_of_the_dales.md",
+        "tarot_path": "assets/tarots/history/the_exalted_march_of_the_dales.png"
+    },
+    {
+        "title": "Doom Upon All the World",
+        "codex_path": "assets/codex/history/doom_upon_all_the_world.md",
+        "tarot_path": "assets/tarots/history/doom_upon_all_the_world.png"
+    },
+    {
+        "title": "The Long Walk to Halamshiral",
+        "codex_path": "assets/codex/history/the_long_walk_to_halamshiral.md",
+        "tarot_path": "assets/tarots/history/the_long_walk_to_halamshiral.png"
+    },
+    {
+        "title": "Emperor Florian",
+        "codex_path": "assets/codex/history/emperor_florian.md",
+        "tarot_path": "assets/tarots/history/emperor_florian.png"
+    },
+    {
+        "title": "Hargrave Keep",
+        "codex_path": "assets/codex/history/hargrave_keep.md",
+        "tarot_path": "assets/tarots/history/hargrave_keep.png"
+    },
+    {
+        "title": "Siege Equipment in Thedas",
+        "codex_path": "assets/codex/history/siege_equipment_in_thedas.md",
+        "tarot_path": "assets/tarots/history/siege_equipment_in_thedas.png"
+    },
+    {
+        "title": "The Mystery and Meaning of Eight Silks",
+        "codex_path": "assets/codex/history/the_mystery_and_meaning_of_eight_silks.md",
+        "tarot_path": "assets/tarots/history/the_mystery_and_meaning_of_eight_silks.png"
+    },
+    {
+        "title": "Twins in Shadow",
+        "codex_path": "assets/codex/history/twins_in_shadow.md",
+        "tarot_path": "assets/tarots/history/twins_in_shadow.png"
+    },
+    {
+        "title": "Elgar'nan: God of Vengeance",
+        "codex_path": "assets/codex/history/elgar'nan_god_of_vengeance.md",
+        "tarot_path": "assets/tarots/history/elgar'nan_god_of_vengeance.png"
+    },
+    {
+        "title": "The Conclave",
+        "codex_path": "assets/codex/history/the_conclave.md",
+        "tarot_path": "assets/tarots/history/the_conclave.png"
+    },
+    {
+        "title": "Not of Heroes: Division and Distance",
+        "codex_path": "assets/codex/history/not_of_heroes_division_and_distance.md",
+        "tarot_path": "assets/tarots/history/not_of_heroes_division_and_distance.png"
+    },
+    {
+        "title": "In Your Heart Shall Burn",
+        "codex_path": "assets/codex/history/in_your_heart_shall_burn.md",
+        "tarot_path": "assets/tarots/history/in_your_heart_shall_burn.png"
+    },
+    {
+        "title": "Ghilan'nain: Mother of the Halla",
+        "codex_path": "assets/codex/history/ghilan'nain_mother_of_the_halla.md",
+        "tarot_path": "assets/tarots/history/ghilan'nain_mother_of_the_halla.png"
+    },
+    {
+        "title": "Fen'Harel: The Dread Wolf",
+        "codex_path": "assets/codex/history/fen'harel_the_dread_wolf.md",
+        "tarot_path": "assets/tarots/history/fen'harel_the_dread_wolf.png"
+    },
+    {
+        "title": "Mad Emperor Reville",
+        "codex_path": "assets/codex/history/mad_emperor_reville.md",
+        "tarot_path": "assets/tarots/history/mad_emperor_reville.png"
+    },
+    {
+        "title": "The First Inquisition",
+        "codex_path": "assets/codex/history/the_first_inquisition.md",
+        "tarot_path": "assets/tarots/history/the_first_inquisition.png"
+    },
+    {
+        "title": "The Dales: A Promise Lost",
+        "codex_path": "assets/codex/history/the_dales_a_promise_lost.md",
+        "tarot_path": "assets/tarots/history/the_dales_a_promise_lost.png"
+    },
+    {
+        "title": "The Mystery of June",
+        "codex_path": "assets/codex/history/the_mystery_of_june.md",
+        "tarot_path": "assets/tarots/history/the_mystery_of_june.png"
+    },
+    {
+        "title": "Elgar'nan: God of Vengeance",
+        "codex_path": "assets/codex/history/elgar'nan_god_of_vengeance.md",
+        "tarot_path": "assets/tarots/history/elgar'nan_god_of_vengeance.png"
+    },
+    {
+        "title": "Wicked Eyes and Wicked Hearts",
+        "codex_path": "assets/codex/history/wicked_eyes_and_wicked_hearts.md",
+        "tarot_path": "assets/tarots/history/wicked_eyes_and_wicked_hearts.png"
+    },
+    {
+        "title": "The Mason's Tales: Sacrifice",
+        "codex_path": "assets/codex/history/the_mason's_tales_sacrifice.md",
+        "tarot_path": "assets/tarots/history/the_mason's_tales_sacrifice.png"
+    },
+    {
+        "title": "Sylaise: the Hearthkeeper",
+        "codex_path": "assets/codex/history/sylaise_the_hearthkeeper.md",
+        "tarot_path": "assets/tarots/history/sylaise_the_hearthkeeper.png"
+    },
+    {
+        "title": "Old Elven Writing",
+        "codex_path": "assets/codex/history/old_elven_writing.md",
+        "tarot_path": "assets/tarots/history/old_elven_writing.png"
+    },
+    {
+        "title": "The Secret Tongue of Slaves",
+        "codex_path": "assets/codex/history/the_secret_tongue_of_slaves.md",
+        "tarot_path": "assets/tarots/history/the_secret_tongue_of_slaves.png"
+    },
+    {
+        "title": "The Guardian",
+        "codex_path": "assets/codex/history/the_guardian.md",
+        "tarot_path": "assets/tarots/history/the_guardian.png"
+    },
+    {
+        "title": "From the Canticle of Threnodies",
+        "codex_path": "assets/codex/history/from_the_canticle_of_threnodies.md",
+        "tarot_path": "assets/tarots/history/from_the_canticle_of_threnodies.png"
+    },
+    {
+        "title": "Arlathan: Part One",
+        "codex_path": "assets/codex/history/arlathan_part_one.md",
+        "tarot_path": "assets/tarots/history/arlathan_part_one.png"
+    },
+    {
+        "title": "Orlesian Caprice Coins",
+        "codex_path": "assets/codex/history/orlesian_caprice_coins.md",
+        "tarot_path": "assets/tarots/history/orlesian_caprice_coins.png"
+    },
+    {
+        "title": "The Maker",
+        "codex_path": "assets/codex/history/the_maker.md",
+        "tarot_path": "assets/tarots/history/the_maker.png"
+    },
+    {
+        "title": "Ancient Elven Writing",
+        "codex_path": "assets/codex/history/ancient_elven_writing.md",
+        "tarot_path": "assets/tarots/history/ancient_elven_writing.png"
+    },
+    {
+        "title": "Andruil: Goddess of the Hunt",
+        "codex_path": "assets/codex/history/andruil_goddess_of_the_hunt.md",
+        "tarot_path": "assets/tarots/history/andruil_goddess_of_the_hunt.png"
+    },
+    {
+        "title": "Unreadable Elven Writing",
+        "codex_path": "assets/codex/history/unreadable_elven_writing.md",
+        "tarot_path": "assets/tarots/history/unreadable_elven_writing.png"
+    },
+    {
+        "title": "Old Chantry Trail Signs",
+        "codex_path": "assets/codex/history/old_chantry_trail_signs.md",
+        "tarot_path": "assets/tarots/history/old_chantry_trail_signs.png"
+    },
+    {
+        "title": "A Study of the Fifth Blight, Vol. Two",
+        "codex_path": "assets/codex/history/a_study_of_the_fifth_blight_vol._two.md",
+        "tarot_path": "assets/tarots/history/a_study_of_the_fifth_blight_vol._two.png"
+    },
+    {
+        "title": "Ville Montevelan",
+        "codex_path": "assets/codex/history/ville_montevelan.md",
+        "tarot_path": "assets/tarots/history/ville_montevelan.png"
+    },
+    {
+        "title": "Way of the Champion",
+        "codex_path": "assets/codex/history/way_of_the_champion.md",
+        "tarot_path": "assets/tarots/history/way_of_the_champion.png"
+    },
+    {
+        "title": "Falon'Din: Friend of the Dead, the Guide",
+        "codex_path": "assets/codex/history/falon'din_friend_of_the_dead_the_guide.md",
+        "tarot_path": "assets/tarots/history/falon'din_friend_of_the_dead_the_guide.png"
+    },
+    {
+        "title": "The Qun",
+        "codex_path": "assets/codex/history/the_qun.md",
+        "tarot_path": "assets/tarots/history/the_qun.png"
+    },
+    {
+        "title": "Dwarven Inscriptions: Hissing Wastes",
+        "codex_path": "assets/codex/history/dwarven_inscriptions_hissing_wastes.md",
+        "tarot_path": "assets/tarots/history/dwarven_inscriptions_hissing_wastes.png"
+    },
+    {
+        "title": "Untranslatable Elven Writing",
+        "codex_path": "assets/codex/history/untranslatable_elven_writing.md",
+        "tarot_path": "assets/tarots/history/untranslatable_elven_writing.png"
+    },
+    {
+        "title": "The Wrath of Heaven",
+        "codex_path": "assets/codex/history/the_wrath_of_heaven.md",
+        "tarot_path": "assets/tarots/history/the_wrath_of_heaven.png"
+    },
+    {
+        "title": "Worn Pillars",
+        "codex_path": "assets/codex/history/worn_pillars.md",
+        "tarot_path": "assets/tarots/history/worn_pillars.png"
+    },
+    {
+        "title": "What Pride Had Wrought",
+        "codex_path": "assets/codex/history/what_pride_had_wrought.md",
+        "tarot_path": "assets/tarots/history/what_pride_had_wrought.png"
+    },
+    {
+        "title": "Vir Dirthara: Exile of the Forbidden Ones",
+        "codex_path": "assets/codex/history/vir_dirthara_exile_of_the_forbidden_ones.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_exile_of_the_forbidden_ones.png"
+    },
+    {
+        "title": "Superstitions of the Royal Family",
+        "codex_path": "assets/codex/history/superstitions_of_the_royal_family.md",
+        "tarot_path": "assets/tarots/history/superstitions_of_the_royal_family.png"
+    },
+    {
+        "title": "A Study of the Fifth Blight, Vol. One",
+        "codex_path": "assets/codex/history/a_study_of_the_fifth_blight_vol._one.md",
+        "tarot_path": "assets/tarots/history/a_study_of_the_fifth_blight_vol._one.png"
+    },
+    {
+        "title": "Ritual Tower",
+        "codex_path": "assets/codex/history/ritual_tower.md",
+        "tarot_path": "assets/tarots/history/ritual_tower.png"
+    },
+    {
+        "title": "Way of the Assassin",
+        "codex_path": "assets/codex/history/way_of_the_assassin.md",
+        "tarot_path": "assets/tarots/history/way_of_the_assassin.png"
+    },
+    {
+        "title": "Queen Asha of Antiva",
+        "codex_path": "assets/codex/history/queen_asha_of_antiva.md",
+        "tarot_path": "assets/tarots/history/queen_asha_of_antiva.png"
+    },
+    {
+        "title": "A Journal on Dwarven Ruins",
+        "codex_path": "assets/codex/history/a_journal_on_dwarven_ruins.md",
+        "tarot_path": "assets/tarots/history/a_journal_on_dwarven_ruins.png"
+    },
+    {
+        "title": "The Mason's Tales: The Fall",
+        "codex_path": "assets/codex/history/the_mason's_tales_the_fall.md",
+        "tarot_path": "assets/tarots/history/the_mason's_tales_the_fall.png"
+    },
+    {
+        "title": "Andraste: Bride of the Maker",
+        "codex_path": "assets/codex/history/andraste_bride_of_the_maker.md",
+        "tarot_path": "assets/tarots/history/andraste_bride_of_the_maker.png"
+    },
+    {
+        "title": "In Hushed Whispers",
+        "codex_path": "assets/codex/history/in_hushed_whispers.md",
+        "tarot_path": "assets/tarots/history/in_hushed_whispers.png"
+    },
+    {
+        "title": "Vir Dirthara: The Deepest Fade",
+        "codex_path": "assets/codex/history/vir_dirthara_the_deepest_fade.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_the_deepest_fade.png"
+    },
+    {
+        "title": "The Rebel God",
+        "codex_path": "assets/codex/history/the_rebel_god.md",
+        "tarot_path": "assets/tarots/history/the_rebel_god.png"
+    },
+    {
+        "title": "Not of Heroes: Maferath and Sacrifice",
+        "codex_path": "assets/codex/history/not_of_heroes_maferath_and_sacrifice.md",
+        "tarot_path": "assets/tarots/history/not_of_heroes_maferath_and_sacrifice.png"
+    },
+    {
+        "title": "Par Vollen: The Occupied North",
+        "codex_path": "assets/codex/history/par_vollen_the_occupied_north.md",
+        "tarot_path": "assets/tarots/history/par_vollen_the_occupied_north.png"
+    },
+    {
+        "title": "Vir Dirthara: A Flowering Imago",
+        "codex_path": "assets/codex/history/vir_dirthara_a_flowering_imago.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_a_flowering_imago.png"
+    },
+    {
+        "title": "A Chant for the Departed",
+        "codex_path": "assets/codex/history/a_chant_for_the_departed.md",
+        "tarot_path": "assets/tarots/history/a_chant_for_the_departed.png"
+    },
+    {
+        "title": "The Gate Guardians",
+        "codex_path": "assets/codex/history/the_gate_guardians.md",
+        "tarot_path": "assets/tarots/history/the_gate_guardians.png"
+    },
+    {
+        "title": "Way of the Necromancer",
+        "codex_path": "assets/codex/history/way_of_the_necromancer.md",
+        "tarot_path": "assets/tarots/history/way_of_the_necromancer.png"
+    },
+    {
+        "title": "Vir Dirthara: Attentive Listeners",
+        "codex_path": "assets/codex/history/vir_dirthara_attentive_listeners.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_attentive_listeners.png"
+    },
+    {
+        "title": "Arlathan: Part Two",
+        "codex_path": "assets/codex/history/arlathan_part_two.md",
+        "tarot_path": "assets/tarots/history/arlathan_part_two.png"
+    },
+    {
+        "title": "Vir Dirthara: Duel of a Hundred Years",
+        "codex_path": "assets/codex/history/vir_dirthara_duel_of_a_hundred_years.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_duel_of_a_hundred_years.png"
+    },
+    {
+        "title": "The First Blight: Chapter 3",
+        "codex_path": "assets/codex/history/the_first_blight_chapter_3.md",
+        "tarot_path": "assets/tarots/history/the_first_blight_chapter_3.png"
+    },
+    {
+        "title": "Way of the Artificer",
+        "codex_path": "assets/codex/history/way_of_the_artificer.md",
+        "tarot_path": "assets/tarots/history/way_of_the_artificer.png"
+    },
+    {
+        "title": "The Women of All War",
+        "codex_path": "assets/codex/history/the_women_of_all_war.md",
+        "tarot_path": "assets/tarots/history/the_women_of_all_war.png"
+    },
+    {
+        "title": "Way of the Knight-Enchanter",
+        "codex_path": "assets/codex/history/way_of_the_knight-enchanter.md",
+        "tarot_path": "assets/tarots/history/way_of_the_knight-enchanter.png"
+    },
+    {
+        "title": "Vir Dirthara: Homecoming",
+        "codex_path": "assets/codex/history/vir_dirthara_homecoming.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_homecoming.png"
+    },
+    {
+        "title": "Memorials of the Second Exalted March",
+        "codex_path": "assets/codex/history/memorials_of_the_second_exalted_march.md",
+        "tarot_path": "assets/tarots/history/memorials_of_the_second_exalted_march.png"
+    },
+    {
+        "title": "A Celebration Of Wardens",
+        "codex_path": "assets/codex/history/a_celebration_of_wardens.md",
+        "tarot_path": "assets/tarots/history/a_celebration_of_wardens.png"
+    },
+    {
+        "title": "Vir Dirthara: Signs of Victory",
+        "codex_path": "assets/codex/history/vir_dirthara_signs_of_victory.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_signs_of_victory.png"
+    },
+    {
+        "title": "Vir Dirthara: Birds of Fancy",
+        "codex_path": "assets/codex/history/vir_dirthara_birds_of_fancy.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_birds_of_fancy.png"
+    },
+    {
+        "title": "Winter Palace",
+        "codex_path": "assets/codex/history/winter_palace.md",
+        "tarot_path": "assets/tarots/history/winter_palace.png"
+    },
+    {
+        "title": "Not of Heroes: The Death of Diversity",
+        "codex_path": "assets/codex/history/not_of_heroes_the_death_of_diversity.md",
+        "tarot_path": "assets/tarots/history/not_of_heroes_the_death_of_diversity.png"
+    },
+    {
+        "title": "Mythal: the Great Protector",
+        "codex_path": "assets/codex/history/mythal_the_great_protector.md",
+        "tarot_path": "assets/tarots/history/mythal_the_great_protector.png"
+    },
+    {
+        "title": "Way of the Tempest",
+        "codex_path": "assets/codex/history/way_of_the_tempest.md",
+        "tarot_path": "assets/tarots/history/way_of_the_tempest.png"
+    },
+    {
+        "title": "Vir Dirthara: Raising the Sonallium",
+        "codex_path": "assets/codex/history/vir_dirthara_raising_the_sonallium.md",
+        "tarot_path": "assets/tarots/history/vir_dirthara_raising_the_sonallium.png"
+    },
+    {
+        "title": "Way of the Reaver",
+        "codex_path": "assets/codex/history/way_of_the_reaver.md",
+        "tarot_path": "assets/tarots/history/way_of_the_reaver.png"
+    },
+    {
+        "title": "The Perendale War",
+        "codex_path": "assets/codex/history/the_perendale_war.md",
+        "tarot_path": "assets/tarots/history/the_perendale_war.png"
+    },
+    {
+        "title": "Way of the Rift Mage",
+        "codex_path": "assets/codex/history/way_of_the_rift_mage.md",
+        "tarot_path": "assets/tarots/history/way_of_the_rift_mage.png"
+    },
+    {
+        "title": "The Lion of Orlais (Inquisition)",
+        "codex_path": "assets/codex/history/the_lion_of_orlais_(inquisition).md",
+        "tarot_path": "assets/tarots/history/the_lion_of_orlais_(inquisition).png"
+    },
+    {
+        "title": "The Mason's Tales: The Archdemon",
+        "codex_path": "assets/codex/history/the_mason's_tales_the_archdemon.md",
+        "tarot_path": "assets/tarots/history/the_mason's_tales_the_archdemon.png"
+    },
+    {
+        "title": "Way of the Templar",
+        "codex_path": "assets/codex/history/way_of_the_templar.md",
+        "tarot_path": "assets/tarots/history/way_of_the_templar.png"
+    }
+]

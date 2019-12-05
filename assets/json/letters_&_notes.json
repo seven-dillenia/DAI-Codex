@@ -1,0 +1,422 @@
+[
+    {
+        "title": "A Challenge!",
+        "codex_path": "assets/codex/letters_&_notes/a_challenge!.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_challenge!.png"
+    },
+    {
+        "title": "A Different Darkspawn?",
+        "codex_path": "assets/codex/letters_&_notes/a_different_darkspawn?.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_different_darkspawn?.png"
+    },
+    {
+        "title": "A Father's Letter",
+        "codex_path": "assets/codex/letters_&_notes/a_father's_letter.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_father's_letter.png"
+    },
+    {
+        "title": "A Grey Warden's Journal",
+        "codex_path": "assets/codex/letters_&_notes/a_grey_warden's_journal.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_grey_warden's_journal.png"
+    },
+    {
+        "title": "A Letter by a Burning Candle",
+        "codex_path": "assets/codex/letters_&_notes/a_letter_by_a_burning_candle.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_letter_by_a_burning_candle.png"
+    },
+    {
+        "title": "A Letter from the Carta",
+        "codex_path": "assets/codex/letters_&_notes/a_letter_from_the_carta.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_letter_from_the_carta.png"
+    },
+    {
+        "title": "A Letter from the Hero of Ferelden",
+        "codex_path": "assets/codex/letters_&_notes/a_letter_from_the_hero_of_ferelden.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_letter_from_the_hero_of_ferelden.png"
+    },
+    {
+        "title": "A Letter from Warden-Commander Clarel",
+        "codex_path": "assets/codex/letters_&_notes/a_letter_from_warden-commander_clarel.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_letter_from_warden-commander_clarel.png"
+    },
+    {
+        "title": "A Letter to Revered Mother Giselle",
+        "codex_path": "assets/codex/letters_&_notes/a_letter_to_revered_mother_giselle.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_letter_to_revered_mother_giselle.png"
+    },
+    {
+        "title": "A Midwife's Journal",
+        "codex_path": "assets/codex/letters_&_notes/a_midwife's_journal.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_midwife's_journal.png"
+    },
+    {
+        "title": "A Miner's Journal",
+        "codex_path": "assets/codex/letters_&_notes/a_miner's_journal.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_miner's_journal.png"
+    },
+    {
+        "title": "A Page from a Journal, Edges Scorched",
+        "codex_path": "assets/codex/letters_&_notes/a_page_from_a_journal_edges_scorched.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_page_from_a_journal_edges_scorched.png"
+    },
+    {
+        "title": "A Sand-Covered Note",
+        "codex_path": "assets/codex/letters_&_notes/a_sand-covered_note.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_sand-covered_note.png"
+    },
+    {
+        "title": "A Supply List",
+        "codex_path": "assets/codex/letters_&_notes/a_supply_list.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_supply_list.png"
+    },
+    {
+        "title": "A Torn Diary",
+        "codex_path": "assets/codex/letters_&_notes/a_torn_diary.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_torn_diary.png"
+    },
+    {
+        "title": "A Worn Diary",
+        "codex_path": "assets/codex/letters_&_notes/a_worn_diary.md",
+        "tarot_path": "assets/tarots/letters_&_notes/a_worn_diary.png"
+    },
+    {
+        "title": "An Unsigned Letter",
+        "codex_path": "assets/codex/letters_&_notes/an_unsigned_letter.md",
+        "tarot_path": "assets/tarots/letters_&_notes/an_unsigned_letter.png"
+    },
+    {
+        "title": "An Unsigned Letter in the Hinterlands",
+        "codex_path": "assets/codex/letters_&_notes/an_unsigned_letter_in_the_hinterlands.md",
+        "tarot_path": "assets/tarots/letters_&_notes/an_unsigned_letter_in_the_hinterlands.png"
+    },
+    {
+        "title": "Apostate Widris's Journal",
+        "codex_path": "assets/codex/letters_&_notes/apostate_widris's_journal.md",
+        "tarot_path": "assets/tarots/letters_&_notes/apostate_widris's_journal.png"
+    },
+    {
+        "title": "Blood-Splattered Notes",
+        "codex_path": "assets/codex/letters_&_notes/blood-splattered_notes.md",
+        "tarot_path": "assets/tarots/letters_&_notes/blood-splattered_notes.png"
+    },
+    {
+        "title": "Blood-Spotted Venatori Diary",
+        "codex_path": "assets/codex/letters_&_notes/blood-spotted_venatori_diary.md",
+        "tarot_path": "assets/tarots/letters_&_notes/blood-spotted_venatori_diary.png"
+    },
+    {
+        "title": "Charred Notebook",
+        "codex_path": "assets/codex/letters_&_notes/charred_notebook.md",
+        "tarot_path": "assets/tarots/letters_&_notes/charred_notebook.png"
+    },
+    {
+        "title": "Construction Orders",
+        "codex_path": "assets/codex/letters_&_notes/construction_orders.md",
+        "tarot_path": "assets/tarots/letters_&_notes/construction_orders.png"
+    },
+    {
+        "title": "Crumpled Letter",
+        "codex_path": "assets/codex/letters_&_notes/crumpled_letter.md",
+        "tarot_path": "assets/tarots/letters_&_notes/crumpled_letter.png"
+    },
+    {
+        "title": "Crumpled Missive",
+        "codex_path": "assets/codex/letters_&_notes/crumpled_missive.md",
+        "tarot_path": "assets/tarots/letters_&_notes/crumpled_missive.png"
+    },
+    {
+        "title": "Daerwin's Mouth",
+        "codex_path": "assets/codex/letters_&_notes/daerwin's_mouth.md",
+        "tarot_path": "assets/tarots/letters_&_notes/daerwin's_mouth.png"
+    },
+    {
+        "title": "Demons of the Stone",
+        "codex_path": "assets/codex/letters_&_notes/demons_of_the_stone.md",
+        "tarot_path": "assets/tarots/letters_&_notes/demons_of_the_stone.png"
+    },
+    {
+        "title": "Draft of Letter to Venatori Magisters",
+        "codex_path": "assets/codex/letters_&_notes/draft_of_letter_to_venatori_magisters.md",
+        "tarot_path": "assets/tarots/letters_&_notes/draft_of_letter_to_venatori_magisters.png"
+    },
+    {
+        "title": "Envy's Dogma",
+        "codex_path": "assets/codex/letters_&_notes/envy's_dogma.md",
+        "tarot_path": "assets/tarots/letters_&_notes/envy's_dogma.png"
+    },
+    {
+        "title": "Epitaphs for the Lost",
+        "codex_path": "assets/codex/letters_&_notes/epitaphs_for_the_lost.md",
+        "tarot_path": "assets/tarots/letters_&_notes/epitaphs_for_the_lost.png"
+    },
+    {
+        "title": "Fears of the Dreamers",
+        "codex_path": "assets/codex/letters_&_notes/fears_of_the_dreamers.md",
+        "tarot_path": "assets/tarots/letters_&_notes/fears_of_the_dreamers.png"
+    },
+    {
+        "title": "Folded Letter",
+        "codex_path": "assets/codex/letters_&_notes/folded_letter.md",
+        "tarot_path": "assets/tarots/letters_&_notes/folded_letter.png"
+    },
+    {
+        "title": "Folded Note",
+        "codex_path": "assets/codex/letters_&_notes/folded_note.md",
+        "tarot_path": "assets/tarots/letters_&_notes/folded_note.png"
+    },
+    {
+        "title": "Gardner Diary",
+        "codex_path": "assets/codex/letters_&_notes/gardner_diary.md",
+        "tarot_path": "assets/tarots/letters_&_notes/gardner_diary.png"
+    },
+    {
+        "title": "Geldauran's Claim",
+        "codex_path": "assets/codex/letters_&_notes/geldauran's_claim.md",
+        "tarot_path": "assets/tarots/letters_&_notes/geldauran's_claim.png"
+    },
+    {
+        "title": "Healer's Notes at Redcliffe Crossroads",
+        "codex_path": "assets/codex/letters_&_notes/healer's_notes_at_redcliffe_crossroads.md",
+        "tarot_path": "assets/tarots/letters_&_notes/healer's_notes_at_redcliffe_crossroads.png"
+    },
+    {
+        "title": "Hunter's View of the Mage-Templar War",
+        "codex_path": "assets/codex/letters_&_notes/hunter's_view_of_the_mage-templar_war.md",
+        "tarot_path": "assets/tarots/letters_&_notes/hunter's_view_of_the_mage-templar_war.png"
+    },
+    {
+        "title": "In Death",
+        "codex_path": "assets/codex/letters_&_notes/in_death.md",
+        "tarot_path": "assets/tarots/letters_&_notes/in_death.png"
+    },
+    {
+        "title": "Letter About Lyrium",
+        "codex_path": "assets/codex/letters_&_notes/letter_about_lyrium.md",
+        "tarot_path": "assets/tarots/letters_&_notes/letter_about_lyrium.png"
+    },
+    {
+        "title": "Letter Found in a Redcliffe Home",
+        "codex_path": "assets/codex/letters_&_notes/letter_found_in_a_redcliffe_home.md",
+        "tarot_path": "assets/tarots/letters_&_notes/letter_found_in_a_redcliffe_home.png"
+    },
+    {
+        "title": "Letter Of Confession",
+        "codex_path": "assets/codex/letters_&_notes/letter_of_confession.md",
+        "tarot_path": "assets/tarots/letters_&_notes/letter_of_confession.png"
+    },
+    {
+        "title": "Letter of Confirmation",
+        "codex_path": "assets/codex/letters_&_notes/letter_of_confirmation.md",
+        "tarot_path": "assets/tarots/letters_&_notes/letter_of_confirmation.png"
+    },
+    {
+        "title": "Letter to a Slaver",
+        "codex_path": "assets/codex/letters_&_notes/letter_to_a_slaver.md",
+        "tarot_path": "assets/tarots/letters_&_notes/letter_to_a_slaver.png"
+    },
+    {
+        "title": "Letter to Smugglers' Wagon Masters",
+        "codex_path": "assets/codex/letters_&_notes/letter_to_smugglers'_wagon_masters.md",
+        "tarot_path": "assets/tarots/letters_&_notes/letter_to_smugglers'_wagon_masters.png"
+    },
+    {
+        "title": "Lord D'Onterre's Journal",
+        "codex_path": "assets/codex/letters_&_notes/lord_d'onterre's_journal.md",
+        "tarot_path": "assets/tarots/letters_&_notes/lord_d'onterre's_journal.png"
+    },
+    {
+        "title": "Maliphant's Journals",
+        "codex_path": "assets/codex/letters_&_notes/maliphant's_journals.md",
+        "tarot_path": "assets/tarots/letters_&_notes/maliphant's_journals.png"
+    },
+    {
+        "title": "Misplaced Notes",
+        "codex_path": "assets/codex/letters_&_notes/misplaced_notes.md",
+        "tarot_path": "assets/tarots/letters_&_notes/misplaced_notes.png"
+    },
+    {
+        "title": "Monthly Report",
+        "codex_path": "assets/codex/letters_&_notes/monthly_report.md",
+        "tarot_path": "assets/tarots/letters_&_notes/monthly_report.png"
+    },
+    {
+        "title": "Mysterious Book",
+        "codex_path": "assets/codex/letters_&_notes/mysterious_book.md",
+        "tarot_path": "assets/tarots/letters_&_notes/mysterious_book.png"
+    },
+    {
+        "title": "New Clients",
+        "codex_path": "assets/codex/letters_&_notes/new_clients.md",
+        "tarot_path": "assets/tarots/letters_&_notes/new_clients.png"
+    },
+    {
+        "title": "New Orders",
+        "codex_path": "assets/codex/letters_&_notes/new_orders.md",
+        "tarot_path": "assets/tarots/letters_&_notes/new_orders.png"
+    },
+    {
+        "title": "Note From the Silent Quarter",
+        "codex_path": "assets/codex/letters_&_notes/note_from_the_silent_quarter.md",
+        "tarot_path": "assets/tarots/letters_&_notes/note_from_the_silent_quarter.png"
+    },
+    {
+        "title": "Notes Found in a Mage's Hut",
+        "codex_path": "assets/codex/letters_&_notes/notes_found_in_a_mage's_hut.md",
+        "tarot_path": "assets/tarots/letters_&_notes/notes_found_in_a_mage's_hut.png"
+    },
+    {
+        "title": "Notes on the Stars",
+        "codex_path": "assets/codex/letters_&_notes/notes_on_the_stars.md",
+        "tarot_path": "assets/tarots/letters_&_notes/notes_on_the_stars.png"
+    },
+    {
+        "title": "Official-looking Letter",
+        "codex_path": "assets/codex/letters_&_notes/official-looking_letter.md",
+        "tarot_path": "assets/tarots/letters_&_notes/official-looking_letter.png"
+    },
+    {
+        "title": "Old Journal",
+        "codex_path": "assets/codex/letters_&_notes/old_journal.md",
+        "tarot_path": "assets/tarots/letters_&_notes/old_journal.png"
+    },
+    {
+        "title": "Parson's Battered Notebook",
+        "codex_path": "assets/codex/letters_&_notes/parson's_battered_notebook.md",
+        "tarot_path": "assets/tarots/letters_&_notes/parson's_battered_notebook.png"
+    },
+    {
+        "title": "Patient Observations",
+        "codex_path": "assets/codex/letters_&_notes/patient_observations.md",
+        "tarot_path": "assets/tarots/letters_&_notes/patient_observations.png"
+    },
+    {
+        "title": "Questions of Accuracy",
+        "codex_path": "assets/codex/letters_&_notes/questions_of_accuracy.md",
+        "tarot_path": "assets/tarots/letters_&_notes/questions_of_accuracy.png"
+    },
+    {
+        "title": "Reports to Calpernia",
+        "codex_path": "assets/codex/letters_&_notes/reports_to_calpernia.md",
+        "tarot_path": "assets/tarots/letters_&_notes/reports_to_calpernia.png"
+    },
+    {
+        "title": "Scattered Notes",
+        "codex_path": "assets/codex/letters_&_notes/scattered_notes.md",
+        "tarot_path": "assets/tarots/letters_&_notes/scattered_notes.png"
+    },
+    {
+        "title": "Scrap of Paper",
+        "codex_path": "assets/codex/letters_&_notes/scrap_of_paper.md",
+        "tarot_path": "assets/tarots/letters_&_notes/scrap_of_paper.png"
+    },
+    {
+        "title": "Spiral Mine",
+        "codex_path": "assets/codex/letters_&_notes/spiral_mine.md",
+        "tarot_path": "assets/tarots/letters_&_notes/spiral_mine.png"
+    },
+    {
+        "title": "Stronghold of the Apostate Mages",
+        "codex_path": "assets/codex/letters_&_notes/stronghold_of_the_apostate_mages.md",
+        "tarot_path": "assets/tarots/letters_&_notes/stronghold_of_the_apostate_mages.png"
+    },
+    {
+        "title": "Suledin Keep Documents",
+        "codex_path": "assets/codex/letters_&_notes/suledin_keep_documents.md",
+        "tarot_path": "assets/tarots/letters_&_notes/suledin_keep_documents.png"
+    },
+    {
+        "title": "Superstitions",
+        "codex_path": "assets/codex/letters_&_notes/superstitions.md",
+        "tarot_path": "assets/tarots/letters_&_notes/superstitions.png"
+    },
+    {
+        "title": "Templar Encampment",
+        "codex_path": "assets/codex/letters_&_notes/templar_encampment.md",
+        "tarot_path": "assets/tarots/letters_&_notes/templar_encampment.png"
+    },
+    {
+        "title": "The Conversion of Hessarian",
+        "codex_path": "assets/codex/letters_&_notes/the_conversion_of_hessarian.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_conversion_of_hessarian.png"
+    },
+    {
+        "title": "The Death",
+        "codex_path": "assets/codex/letters_&_notes/the_death.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_death.png"
+    },
+    {
+        "title": "The Diary of Troilus Hertubise",
+        "codex_path": "assets/codex/letters_&_notes/the_diary_of_troilus_hertubise.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_diary_of_troilus_hertubise.png"
+    },
+    {
+        "title": "The Marker",
+        "codex_path": "assets/codex/letters_&_notes/the_marker.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_marker.png"
+    },
+    {
+        "title": "The Mourning",
+        "codex_path": "assets/codex/letters_&_notes/the_mourning.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_mourning.png"
+    },
+    {
+        "title": "The Return",
+        "codex_path": "assets/codex/letters_&_notes/the_return.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_return.png"
+    },
+    {
+        "title": "The Rotunda and the Fresco",
+        "codex_path": "assets/codex/letters_&_notes/the_rotunda_and_the_fresco.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_rotunda_and_the_fresco.png"
+    },
+    {
+        "title": "The Very Private Diary of Sandal Feddic, DO NOT READ!!!!",
+        "codex_path": "assets/codex/letters_&_notes/the_very_private_diary_of_sandal_feddic_do_not_read!!!!.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_very_private_diary_of_sandal_feddic_do_not_read!!!!.png"
+    },
+    {
+        "title": "The Weight of War",
+        "codex_path": "assets/codex/letters_&_notes/the_weight_of_war.md",
+        "tarot_path": "assets/tarots/letters_&_notes/the_weight_of_war.png"
+    },
+    {
+        "title": "Torn Notebook in the Deep Roads, Section 1",
+        "codex_path": "assets/codex/letters_&_notes/torn_notebook_in_the_deep_roads_section_1.md",
+        "tarot_path": "assets/tarots/letters_&_notes/torn_notebook_in_the_deep_roads_section_1.png"
+    },
+    {
+        "title": "Torn Notebook in the Deep Roads, Section 2",
+        "codex_path": "assets/codex/letters_&_notes/torn_notebook_in_the_deep_roads_section_2.md",
+        "tarot_path": "assets/tarots/letters_&_notes/torn_notebook_in_the_deep_roads_section_2.png"
+    },
+    {
+        "title": "Torn Notebook in the Deep Roads, Section 3",
+        "codex_path": "assets/codex/letters_&_notes/torn_notebook_in_the_deep_roads_section_3.md",
+        "tarot_path": "assets/tarots/letters_&_notes/torn_notebook_in_the_deep_roads_section_3.png"
+    },
+    {
+        "title": "Tracing from Temple Doors",
+        "codex_path": "assets/codex/letters_&_notes/tracing_from_temple_doors.md",
+        "tarot_path": "assets/tarots/letters_&_notes/tracing_from_temple_doors.png"
+    },
+    {
+        "title": "Valeska's Watch",
+        "codex_path": "assets/codex/letters_&_notes/valeska's_watch.md",
+        "tarot_path": "assets/tarots/letters_&_notes/valeska's_watch.png"
+    },
+    {
+        "title": "Vir Tanadhal: The Way of Three Trees",
+        "codex_path": "assets/codex/letters_&_notes/vir_tanadhal_the_way_of_three_trees.md",
+        "tarot_path": "assets/tarots/letters_&_notes/vir_tanadhal_the_way_of_three_trees.png"
+    },
+    {
+        "title": "Warden Ailsa's Diary",
+        "codex_path": "assets/codex/letters_&_notes/warden_ailsa's_diary.md",
+        "tarot_path": "assets/tarots/letters_&_notes/warden_ailsa's_diary.png"
+    },
+    {
+        "title": "Waterlogged Diary",
+        "codex_path": "assets/codex/letters_&_notes/waterlogged_diary.md",
+        "tarot_path": "assets/tarots/letters_&_notes/waterlogged_diary.png"
+    }
+]
