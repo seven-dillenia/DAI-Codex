@@ -1,0 +1,97 @@
+[
+    {
+        "title": "Map of Elgar'nan's Bastion",
+        "codex_path": "assets/codex/maps/map_of_elgar'nan's_bastion.md",
+        "tarot_path": "assets/tarots/maps/map_of_elgar'nan's_bastion.png"
+    },
+    {
+        "title": "Map of Enavuris",
+        "codex_path": "assets/codex/maps/map_of_enavuris.md",
+        "tarot_path": "assets/tarots/maps/map_of_enavuris.png"
+    },
+    {
+        "title": "Map of Farmland Cave",
+        "codex_path": "assets/codex/maps/map_of_farmland_cave.md",
+        "tarot_path": "assets/tarots/maps/map_of_farmland_cave.png"
+    },
+    {
+        "title": "Map of Halin'sulahn",
+        "codex_path": "assets/codex/maps/map_of_halin'sulahn.md",
+        "tarot_path": "assets/tarots/maps/map_of_halin'sulahn.png"
+    },
+    {
+        "title": "Map of Tomb of Fairel",
+        "codex_path": "assets/codex/maps/map_of_tomb_of_fairel.md",
+        "tarot_path": "assets/tarots/maps/map_of_tomb_of_fairel.png"
+    },
+    {
+        "title": "Map of Watcher's Pass",
+        "codex_path": "assets/codex/maps/map_of_watcher's_pass.md",
+        "tarot_path": "assets/tarots/maps/map_of_watcher's_pass.png"
+    },
+    {
+        "title": "Map to a Waterfall",
+        "codex_path": "assets/codex/maps/map_to_a_waterfall.md",
+        "tarot_path": "assets/tarots/maps/map_to_a_waterfall.png"
+    },
+    {
+        "title": "Sketch I of Chateau d'Onterre Interior",
+        "codex_path": "assets/codex/maps/sketch_i_of_chateau_d'onterre_interior.md",
+        "tarot_path": "assets/tarots/maps/sketch_i_of_chateau_d'onterre_interior.png"
+    },
+    {
+        "title": "Sketch II of Chateau d'Onterre Interior",
+        "codex_path": "assets/codex/maps/sketch_ii_of_chateau_d'onterre_interior.md",
+        "tarot_path": "assets/tarots/maps/sketch_ii_of_chateau_d'onterre_interior.png"
+    },
+    {
+        "title": "Sketch III of Chateau d'Onterre Interior",
+        "codex_path": "assets/codex/maps/sketch_iii_of_chateau_d'onterre_interior.md",
+        "tarot_path": "assets/tarots/maps/sketch_iii_of_chateau_d'onterre_interior.png"
+    },
+    {
+        "title": "Sketch of Burial Grounds Tomb",
+        "codex_path": "assets/codex/maps/sketch_of_burial_grounds_tomb.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_burial_grounds_tomb.png"
+    },
+    {
+        "title": "Sketch of Calenhad's Foothold",
+        "codex_path": "assets/codex/maps/sketch_of_calenhad's_foothold.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_calenhad's_foothold.png"
+    },
+    {
+        "title": "Sketch of Canyon Tomb",
+        "codex_path": "assets/codex/maps/sketch_of_canyon_tomb.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_canyon_tomb.png"
+    },
+    {
+        "title": "Sketch of Chateau Courtyard",
+        "codex_path": "assets/codex/maps/sketch_of_chateau_courtyard.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_chateau_courtyard.png"
+    },
+    {
+        "title": "Sketch of Colossus Tomb",
+        "codex_path": "assets/codex/maps/sketch_of_colossus_tomb.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_colossus_tomb.png"
+    },
+    {
+        "title": "Sketch of Enavuris River",
+        "codex_path": "assets/codex/maps/sketch_of_enavuris_river.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_enavuris_river.png"
+    },
+    {
+        "title": "Sketch of Four Pillar Tomb",
+        "codex_path": "assets/codex/maps/sketch_of_four_pillar_tomb.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_four_pillar_tomb.png"
+    },
+    {
+        "title": "Sketch of Sunstop Mountain Tomb",
+        "codex_path": "assets/codex/maps/sketch_of_sunstop_mountain_tomb.md",
+        "tarot_path": "assets/tarots/maps/sketch_of_sunstop_mountain_tomb.png"
+    },
+    {
+        "title": "Winter Palace (map)",
+        "codex_path": "assets/codex/maps/winter_palace_(map).md",
+        "tarot_path": "assets/tarots/maps/winter_palace_(map).png"
+    }
+]
