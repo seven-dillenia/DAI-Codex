@@ -1,4 +1,5 @@
-A meticulous list of necessary supplies found in a birdwatcher's journal:
+<i> A meticulous list of necessary supplies found in a birdwatcher's journal: </i>
+
 Rations
 New boots
 Rope, several lengths
@@ -9,4 +10,5 @@ Charcoal
 Spare paper
 Bedroll
 Elfroot
+
 Something missing? Should be fine.

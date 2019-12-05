@@ -1,0 +1,3 @@
+<i> Mold and rot have eaten most of the pages of these books. The remaining vellum is covered in spiky handwriting with spelling that is either archaic, wildly idiosyncratic, or both: </i>
+
+...saw yht cross from the Volca, that which draggeth souls down to yhts larder in the brinedark. Hys beast preyth on humblewits and goldsworn even & the tower's keeper declares I will rest here if yht would ease me. The elvhen, which pulled me grip-up from my end, kends he is last of his kynde. I made it known elvhen live south-like, but he says yht would not be as yht was & I said that's evertrue & he laughed lark-like. Come dark he showed me a mirror deep strange, an "eluvian" sworne to beene in his family for...

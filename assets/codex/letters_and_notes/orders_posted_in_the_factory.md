@@ -1,0 +1,3 @@
+<i> Portions of this are in indecipherable Qunlat, with what might be formulas in an unfamiliar number system. One section has been translated for viddathari workers in the factory, then circled, repeatedly underlined, with arrows drawn around it by someone who was clearly very insistent that it be read: </i>
+
+For primers, combine NO MORE THAN ONE PART Ataashi venom with an equal amount of deathroot auxin and THREE PARTS powdered silverite. Adding more venom WILL DISSOLVE THE CASING ON THE PRIMERS HERE IN THE FACTORY AND FILL THE ROOM WITH DEADLY GAS. Whoever keeps getting the formula wrong needs to see me immediately! We have a great many primers to make on a <i> tight schedule </i> and cannot afford any more delays due to mistakes!

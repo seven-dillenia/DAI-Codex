@@ -1,0 +1,7 @@
+Many explorers in ancient ruins report finding homes, furniture, or even tools that look a few years old at most. Before the more learned study of spirits and the Fade made available by the Circles, scholars often assumed that such structures must be new contamination of an older site, leading to much misinformation and misunderstanding regarding the movement of various peoples in ancient Tevinter and even earlier.
+
+Our brothers and sisters in the Circle of Magi have given us a more likely answer. In areas where the Veil is thin, spirits engrossed by a particular event may endeavor to preserve the "feeling" of the area by preserving, in their own imperfect way, some or all of the area itself. The hut of a legendary apostate may appear to have been abandoned for a few decades, with crumbling walls and dust, when it is in fact from a previous age or even older. Spirits scratching at the edges of the Veil have scared away the vermin that would have chewed through the beams and the plants whose snaking tendrils would have reclaimed the stones for the forest.
+
+It is the recommendation of the committee that all university-sanctioned historical expeditions include a mage for consultation upon such matters. Only in this way can we avoid the embarrassing missteps of our forebears and bring Orlais the true knowledge it deserves.
+
+—A letter from the University of Orlais Historical Committee to Empress Celene asking for support (request tabled after the start of the mage rebellion)

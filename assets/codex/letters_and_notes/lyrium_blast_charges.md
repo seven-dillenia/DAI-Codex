@@ -1,0 +1,3 @@
+Mining lyrium is not work for the fainthearted. The stuff is dangerous to handle safely and difficult to find, and its veins only ever seem to run through the hardest rock. Lyrium is nothing but trouble, but luckily it offers a solution to its own problem. Pack the right amount into a small drum, prime it with a short fuse, light the thing, and run as fast as you can. The blast will leave your ears ringing for days after, but it will also explode any number of obstacles. There's a saying among long-time lyrium miners: "When the going gets though, the tough get out a blast charge and blow a great sodding hole in the stone."
+
+——An excerpt from <i> Selected Wisdom of the Mining Caste, Forty-Ninth Edition </i>

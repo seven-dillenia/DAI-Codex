@@ -1,0 +1,5 @@
+We took steps to avoid the Hakkonites and stayed out of their way for the most part. It would've gone uneventfully had Pryce's inexperience not caused him to leave visible prints in the dirt. The Jaws of Hakkon used them to track us, and even Falker cannot throw them off the trail. Persistent bastards. We ended hiding amidst the moldy corpses and sun-bleached bones that littered the ground around a strange shrine. It was carved of stone and capped with what looked to be a dragon skull. Thankfully, when the Hakkonites traced us to the shrine, the sight of it made them stop short. They whispered among themselves, and their leader seemed to make a small bow of obeisance to the skull. They then abandoned the chase.
+
+We still don't know what it was about that shrine that made the Hakkonites balk. Perhaps we don't want to know.
+
+—From reports sent to Scout Harding
