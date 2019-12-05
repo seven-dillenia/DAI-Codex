@@ -2,101 +2,101 @@
     {
         "title": "Confessions of a Lyrium Addict",
         "codex_path": "assets/codex/magic/confessions_of_a_lyrium_addict.md",
-        "tarot_path": "assets/tarots/magic/confessions_of_a_lyrium_addict.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Dwarven Runecraft",
         "codex_path": "assets/codex/magic/dwarven_runecraft.md",
-        "tarot_path": "assets/tarots/magic/dwarven_runecraft.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Eluvians",
         "codex_path": "assets/codex/magic/eluvians.md",
-        "tarot_path": "assets/tarots/magic/eluvians.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Lyrium",
         "codex_path": "assets/codex/magic/lyrium.md",
-        "tarot_path": "assets/tarots/magic/lyrium.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Oculara",
         "codex_path": "assets/codex/magic/oculara.md",
-        "tarot_path": "assets/tarots/magic/oculara.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Phylacteries",
         "codex_path": "assets/codex/magic/phylacteries.md",
-        "tarot_path": "assets/tarots/magic/phylacteries.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Red Lyrium",
         "codex_path": "assets/codex/magic/red_lyrium.md",
-        "tarot_path": "assets/tarots/magic/red_lyrium.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Regarding the Calling",
         "codex_path": "assets/codex/magic/regarding_the_calling.md",
-        "tarot_path": "assets/tarots/magic/regarding_the_calling.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Spirit of Wisdom",
         "codex_path": "assets/codex/magic/spirit_of_wisdom.md",
-        "tarot_path": "assets/tarots/magic/spirit_of_wisdom.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Spirits and Demons",
         "codex_path": "assets/codex/magic/spirits_and_demons.md",
-        "tarot_path": "assets/tarots/magic/spirits_and_demons.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Black City",
         "codex_path": "assets/codex/magic/the_black_city.md",
-        "tarot_path": "assets/tarots/magic/the_black_city.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Breach",
         "codex_path": "assets/codex/magic/the_breach.md",
-        "tarot_path": "assets/tarots/magic/the_breach.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Creation of a Phylactery",
         "codex_path": "assets/codex/magic/the_creation_of_a_phylactery.md",
-        "tarot_path": "assets/tarots/magic/the_creation_of_a_phylactery.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Laws of Nature in the Fade",
         "codex_path": "assets/codex/magic/the_laws_of_nature_in_the_fade.md",
-        "tarot_path": "assets/tarots/magic/the_laws_of_nature_in_the_fade.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Lost Art of Veilfire",
         "codex_path": "assets/codex/magic/the_lost_art_of_veilfire.md",
-        "tarot_path": "assets/tarots/magic/the_lost_art_of_veilfire.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Rite of Tranquility",
         "codex_path": "assets/codex/magic/the_rite_of_tranquility.md",
-        "tarot_path": "assets/tarots/magic/the_rite_of_tranquility.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Tranquil",
         "codex_path": "assets/codex/magic/the_tranquil.md",
-        "tarot_path": "assets/tarots/magic/the_tranquil.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "The Veil",
         "codex_path": "assets/codex/magic/the_veil.md",
-        "tarot_path": "assets/tarots/magic/the_veil.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Veilfire Runes in the Deep Roads",
         "codex_path": "assets/codex/magic/veilfire_runes_in_the_deep_roads.md",
-        "tarot_path": "assets/tarots/magic/veilfire_runes_in_the_deep_roads.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
         "title": "Vitaar",
         "codex_path": "assets/codex/magic/vitaar.md",
-        "tarot_path": "assets/tarots/magic/vitaar.png"
+        "tarot_path": "assets/tarots/magic/magic.png"
     }
 ]
