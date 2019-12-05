@@ -1,10 +1,11 @@
 import 'package:dai_codex/misc/styles.dart';
+import 'package:dai_codex/models/category_data.dart';
 import 'package:dai_codex/screens/tarot_screen.dart';
 import 'package:flutter/material.dart';
 
 class CategoryTile extends StatefulWidget {
-  final text;
-  CategoryTile({@required this.text});
+  final Category category;
+  CategoryTile({@required this.category});
 
   @override
   _CategoryTileState createState() => _CategoryTileState();
@@ -35,7 +36,7 @@ class _CategoryTileState extends State<CategoryTile> {
           setState(() {
             this._istapped = false;
           });
-          Navigator.of(context).pushNamed(TarotScreen.id);
+          Navigator.of(context).pushNamed(TarotScreen.id, arguments: widget.category);
         });
       },
       child: AnimatedContainer(
@@ -49,7 +50,7 @@ class _CategoryTileState extends State<CategoryTile> {
           gradient: this._istapped ? this._gradient : null,
         ),
         child: Text(
-          widget.text,
+          widget.category.name,
           style: Styles.h2Fancy,
           textAlign: TextAlign.center,
         ),

@@ -2,12 +2,17 @@ import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/components/tarot_card.dart';
 import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
+import 'package:dai_codex/models/category_data.dart';
 import 'package:dai_codex/models/codex_data.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class TarotScreen extends StatefulWidget {
   static const id = "Tarot Screen";
+  final Category category;
+
+  TarotScreen({@required this.category});
+
   @override
   _TarotScreenState createState() => _TarotScreenState();
 }
@@ -24,7 +29,7 @@ class _TarotScreenState extends State<TarotScreen> {
 
   // get all the picture picture
   void getTarotData() {
-    Helper.loadAsset(context, 'assets/json/characters_codex.json').then((data) {
+    Helper.loadAsset(context, widget.category.path).then((data) {
       setState(() {
         this._tarotDataList = CodexData.decodeJsonToTarotDataList(data);
       });
@@ -44,7 +49,7 @@ class _TarotScreenState extends State<TarotScreen> {
                 expandedHeight: 50,
                 minHeight: 40,
                 title: Container(
-                  child: Text("Characters", style: Styles.h1Fancy.copyWith(height: 0.9),),
+                  child: Text(widget.category.name, style: Styles.h1Fancy.copyWith(height: 0.9),),
                 ),
                 leading: Positioned(
                   top: 0,

@@ -1,21 +1,11 @@
 import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/components/category_tile.dart';
+import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:flutter/material.dart';
 
 class CategoryScreen extends StatefulWidget {
   static const id = "Category Screen";
-  final List<String> categories = [
-    "Characters",
-    "Creatures",
-    "History",
-    "Magic",
-    "Places",
-    "Groups",
-    "Letters and Notes",
-    "Maps",
-    "Tales",
-  ];
 
   @override
   _CategoryScreenState createState() => _CategoryScreenState();
@@ -54,7 +44,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
                 delegate: SliverChildListDelegate([
                   SizedBox(height: Styles.bigSpacing),
                   Wrap(
-                    children: widget.categories.map((cat) => CategoryTile(text: cat)).toList(),
+                    children: Data.categories.map((category) => CategoryTile(category: category)).toList(),
                   ),
                   SizedBox(height: Styles.bigSpacing)
                 ]),
