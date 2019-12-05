@@ -1,1 +1,1 @@
-Newly hatched dragons are roughly the size of a deer and voraciously hungry. They live for a short time in their mother's lair before venturing out on their own. The slender, wingless creatures are born in vast numbers, as only a few survive to adulthood.Damage against dragons increased.
+Newly hatched dragons are roughly the size of a deer and voraciously hungry. They live for a short time in their mother's lair before venturing out on their own. The slender, wingless creatures are born in vast numbers, as only a few survive to adulthood.

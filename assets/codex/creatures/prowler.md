@@ -1,5 +1,9 @@
 When faced directly, an opponent wearing only light armor and wielding only short blades is little challenge to a trained chevalier. However, not all fights are duels. If you assume that your enemy shares your values, you will die. The only rule most warriors agree upon is that it is better not to die, and a Grey Warden or an emperor's bodyguard may contest even that accepted wisdom.
+
 A skirmisher will strike by surprise, relying upon allies to draw your attention. In a great battle with many troops on each side, you must assume that the enemy has such skirmishers in its ranks. When fighting in formation, you have no excuse to break your guard and pursue a perceived advantage; doing so will leave you or those depending upon you unguarded. When fighting alone, you must avoid strikes that would weaken your guard.
+
 Once you know such an enemy opposes you, be vigilant and remember that you wear more armor than he does. He will hide; do not enter the shadows, where he is strongest, to pursue him. He will harass you at range; do not take the bait he offers. A chevalier deserves a better death than a poisoned dagger in his unprotected armpit, and such is the death of those who grow impatient while chasing enemies they deem beneath their honor.
+
 Be calm, be methodical, and wait for your opponent to yield to the fear of your blade and shield. When he does, he will convince himself that he can attack you directly, that his blades are fast enough to slip past your shield. Then he will move, and then you may kill him.
-—An excerpt from A Meditation upon the Use of Blades by Swordmaster Massache de Jean-mien, required reading at the Academie des Chevaliers
+
+——An excerpt from <i> A Meditation upon the Use of Blades </i> by Swordmaster Massache de Jean-mien, required reading at the Academie des Chevaliers

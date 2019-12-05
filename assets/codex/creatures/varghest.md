@@ -1,2 +1,3 @@
 The varghest is now known to be a distant relative of wyverns and dragons, but in ancient times, it was believed to be a spirit manifest in the world. Ciriane legend says that the varghest hunts those who have committed great wrongs against their own kin, and when the creature finds its quarry, it drags the guilty party to the gods for judgment. This is perhaps due to the beast's hunting habits: varghest prefer to bring prey still living to their nests to feed their young.
-—From A Study of the Southern Draconids by Frederic of Serault, published in the University of Orlais
+
+—From <i> A Study of the Southern Draconids </i> by Frederic of Serault, published in the University of Orlais

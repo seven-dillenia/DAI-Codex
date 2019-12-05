@@ -1,2 +1,3 @@
 Orlesians believe the phoenix to be a herald of woe, perhaps because the creatures frequent inhospitable places where sane travelers fear to tread. It may also be because they belch a sort of sulfurous gas that reeks of rotten eggs and ancient peat bog, and flocks of the beasts have a pervasive odor of death about them. Orlesians are not always so metaphorical as they like us to believe.
-—From In Pursuit of Knowledge: Travels of a Chantry Scholar by Brother Genitivi
+
+—From <i> In Pursuit of Knowledge: Travels of a Chantry Scholar </i> by Brother Genitivi

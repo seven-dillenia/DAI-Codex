@@ -1,2 +1,3 @@
 We could have held off a battering ram, but the behemoth? It took the gate off at the hinges. Then it screamed. Not a roar or growl—a scream, all rage and pain. As I drew my blade, all I could think was: "There's a templar in there". Somewhere in that thing was a brother or sister of the Order; every fiber of my soul was crying out to them. But whoever it might have been, whoever's son or daughter, they were lost to us, swallowed by corruption and lies. I helped the only way I could, the only way any of us can. We must end their suffering. And, Maker willing, we must try to remember them as they were.
-—From the reports of Knight-Captain Veddir, tactical consideration for the Inquisition
+
+——From the reports of Knight-Captain Veddir, tactical consideration for the Inquisition

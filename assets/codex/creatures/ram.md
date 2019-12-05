@@ -1,3 +1,5 @@
 The ram is a marvelous creature. Its wool makes the best lining for winter coats this side of the mountains. The horns and bones can be crushed into powder and mixed with the soil for a healthy crop, or charred and ground into ink powder. The hide makes a good cover in a window against the winds. You can burn the dung in a pinch. Melt down its fat for candles. I haven't even mentioned the meat! With a full-grown ram, you could make a stew big enough for a village and have enough left over for a week.
+
 So there'll be no more complaining about "being paid in sheep" for your work during the harvest. With that ram and a few ewes, you can start your own flock. You're lucky to have them handed to you instead of needing to go and tame a wild one. Listen to your father for once: take care of those animals, and they'll take care of you.
-—Letter from a Fereldan farmer to his son
+
+——Letter from a Fereldan farmer to his son
