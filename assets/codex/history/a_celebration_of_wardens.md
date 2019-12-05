@@ -1,2 +1,3 @@
 Outside times of Blight, Grey Wardens investigate rumors of darkspawn. Ser Kiersten of the Free Marches mounted an expedition to the Frostback Basin to look into one such sighting. She and her fellow Wardens allied themselves with an Avvar hold besieged by darkspawn after an earthquake in the mountains tore open a new passage to the surface. After ten days of fighting, the Wardens and the Avvar drove the darkspawn back and sealed the entrance against further incursions. In celebration of her bravery, the Avvar deployed a feast for Ser Kiersten and her Grey Wardens so legendarily boisterous that there are still paintings and statues dedicated to their alliance littered around the Basin.
-—From Journeys of the Wardens: A Comprehensive History by Lady Locke
+
+——From <i> Journeys of the Wardens: A Comprehensive History </i> by Lady Locke

@@ -1,2 +1,3 @@
 Ville Montevelan was the first settlement humans established in the Dales following the victory of the Exalted March. Soldiers were the earliest residents of the village. In 2:21 Glory, Sister Amity, Champion of the Exalted March, laid the foundation stones of the village chantry in a symbolic gesture; the building's construction was completed in 2:22. Laying aside her sword and bow, Sister Amity took on the task of leading Ville Montevelan's flock, becoming Revered Mother Amity. She served the Maker for over forty years, ministering to both residents of the Dales and the many pilgrims to the historic site. Revered Mother Amity died peacefully in her sleep in 2:64; her ashes are interred in the chantry's vault, where dozens of pilgrims still come each year to pay their respects.
-—From Exalted: A History of the Dales by Lord Ademar Garde-Haut, royal historian.
+
+——From <i> Exalted: A History of the Dales </i> by Lord Ademar Garde-Haut, royal historian.

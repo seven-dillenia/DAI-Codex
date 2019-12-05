@@ -1,4 +1,5 @@
 The pages of this book—memory?—describe a pair playing, colliding in the air, bodies formed for kissing, stroking lines of heat as molten as the sun. The dance is fluid, roiling, never ending, lovers tangled in a laughing knot that rolls on for years, a promise never to be parted, whatever ages come.
-An annoyed thought intrudes, from one who marked this memory after it was recorded:"By the gods, find a private chamber!"<img src="https://vignette.wikia.nocookie.net/dragonage/images/3/37/Codex_icon_DAI.png/revision/latest/scale-to-width-down/20?cb=20141218104531"alt="Codex icon DAI"class=""style="vertical-align: middle"data-image-key="Codex_icon_DAI.png"data-image-name="Codex icon DAI.png"width="20"height="20"> Codex entry: Vir Dirthara: A Flowering Imago
-<img src="https://vignette.wikia.nocookie.net/dragonage/images/3/37/Codex_icon_DAI.png/revision/latest/scale-to-width-down/20?cb=20141218104531"alt="Codex icon DAI"class=""style="vertical-align: middle"data-image-key="Codex_icon_DAI.png"data-image-name="Codex icon DAI.png"width="20"height="20"> Codex entry: Vir Dirthara: Signs of Victory
-<img src="https://vignette.wikia.nocookie.net/dragonage/images/3/37/Codex_icon_DAI.png/revision/latest/scale-to-width-down/20?cb=20141218104531"alt="Codex icon DAI"class=""style="vertical-align: middle"data-image-key="Codex_icon_DAI.png"data-image-name="Codex icon DAI.png"width="20"height="20"> Codex entry: Vir Dirthara: The Deepest Fade
+
+An annoyed thought intrudes, from one who marked this memory after it was recorded:
+
+"By the gods, find a private chamber!"
