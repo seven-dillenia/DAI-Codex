@@ -34,7 +34,7 @@ class _TarotCardState extends State<TarotCard> {
         });
       },
       child: AnimatedContainer(
-        duration: Duration(milliseconds: 500),
+        duration: Duration(milliseconds: 250),
         curve: Curves.easeInQuad,
         decoration: BoxDecoration(
           borderRadius: this._isTapped
@@ -49,7 +49,7 @@ class _TarotCardState extends State<TarotCard> {
           ],
         ),
         child: AnimatedContainer(
-          duration: Duration(milliseconds: 500),
+          duration: Duration(milliseconds: 250),
           curve: Curves.easeInQuad,
           width: 185,
           decoration: BoxDecoration(
