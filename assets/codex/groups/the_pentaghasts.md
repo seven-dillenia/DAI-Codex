@@ -1,4 +1,7 @@
 Allow me to correct you on one important point, my friend: the Pentaghasts are Nevarra. Without us, this nation would either still be one of the motley city-states that comprise the Free Marches, or under Orlesian control. More likely the latter, as only Nevarra's strength holds back the empire's expansion... and by that I refer to the brilliance of Pentaghast generals and the influence of Pentaghast coin.
+
 I find it interesting that you mention dragon-hunting as our only significant trait. You do understand, I hope, that dragons disappeared centuries ago, only recently returning at the beginning of this age? Some of our clan have taken up the old trade out of nostalgia—my cousin Ferdinand the most prominent among them—but those days are largely done. Today there are fourteen branches of the family—eighteen, if one counts our relations among the Van Markhams—each consisting of multiple families and twisting bloodlines connecting us to almost every major house across Thedas.
+
 I am fully aware that King Markus wanes in health, and neither he nor Ferdinand have children, but make no mistake: there will be another Pentaghast sitting on the Nevarran throne, and that man or woman will lead us into a prosperous future. There will be no civil war.
-—From a letter by Baroness Alia Pentaghast, Dragon 9:38
+
+——From a letter by Baroness Alia Pentaghast, Dragon 9:38

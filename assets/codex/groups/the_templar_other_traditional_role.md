@@ -1,5 +1,9 @@
 Often portrayed as stoic and grim, the Order of Templars was created as the martial arm of the Chantry. Armed with the ability to dispel and resist magic in addition to their formidable combat talents, the templars are uniquely qualified to act as both a foil for apostates—mages who refuse to submit to the authority of the Circle—and a first line of defense against the dark powers of blood mages and abominations.
+
 While mages often resent the templars as symbols of the Chantry's control over magic, the people of Thedas see them as saviors and holy warriors, champions of all that is good, armed with piety enough to protect the world from the ravages of foul magic. In reality, the Chantry's militant arm looks first for skilled warriors with unshakable faith in the Maker, with a flawless moral center as a secondary concern. Templars must carry out their duty with an emotional distance, and the Order of Templars prefers soldiers with religious fervor and absolute loyalty over paragons of virtue who might question orders when it comes time to make difficult choices.
+
 The templars' power derives from the substance lyrium, a mineral believed to be the raw element of creation. While mages use lyrium in their arcane spells and rituals, templars ingest the primordial mineral to enhance their abilities to resist and dispel magic. Lyrium use is regulated by the Chantry, but some templars suffer from lyrium addiction, the effects of which include paranoia, obsession, and dementia. Templars knowingly submit themselves to this "treatment" in the service of the Order and the Maker.
+
 It is this sense of ruthless piety that most frightens mages when they draw the templars' attention: When the templars are sent to eliminate a possible blood mage, there is no reasoning with them, and if the templars are prepared, the mage's magic is all but useless. Driven by their faith, the templars are one of the most feared and respected forces in Thedas.
-—From Patterns Within Form by Halden, First Enchanter of Starkhaven, 8:80 Blessed.
+
+——From <i> Patterns Within Form </i> by Halden, First Enchanter of Starkhaven, 8:80 Blessed.

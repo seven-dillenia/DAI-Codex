@@ -1,0 +1,9 @@
+I argued with the Avvar mage long into the night. If we'd had no truce with these barbarians to fight the darkspawn, it would have come to blows. Their conception of the Maker is as a child's! They assume He is a "spirit," and that we have displeased Him because He "answers none of your prayers." When I attempted to explain the doctrine of the Chant, the mage kept asking nonsense such as "Did Andraste have no gods of her own?" or "Why haven't you sung up another Maker?" I asked what in the good grace of Thedas she was on about, and the answers chilled me.
+
+The Avvar confuse spirits for "gods," treating them as patrons to be lulled and wooed. The mage described, to my growing horror, how the Avvar deliberately invoke spirits for "strength in battle" or solicit them for advice. The mage claimed some of the spirits around her village had "lived" with her hold for a dozen generations, and sometimes took the form of an animal or departed relatives "when they pass on their wisdom."
+
+Strangest of all, in the event a "god" is destroyed, the Avvar begin a year-long time of offerings and prayers and rituals I have no interest in knowing about further. At the end of this period, a new spirit takes on the name and role of the old one. I attempted to explain that this was not a "god," merely a spirit drawn in by their desires. The Avvar mage declared, with a ridiculous air of superiority, that that was the point.
+
+If she hadn't saved my life a day ago from a rampaging hurlock, I'd take it all to the templars.
+
+—From the private journal of Illna Allenish, a mage serving in the Fereldan army during the Fifth Blight

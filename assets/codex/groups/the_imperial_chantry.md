@@ -1,6 +1,11 @@
 There are those who would tell you that the Chantry is the same everywhere as it is here, that the Divine in Val Royeaux reigns supreme in the eyes of the Maker and that this fact is unquestioned throughout Thedas.
+
 Do not believe it.
+
 The Maker's second commandment, "Magic must serve man, not rule over him," never held the same meaning within the ancient Tevinter Imperium as it did elsewhere. The Chantry there interpreted the rule as meaning that mages should never control the minds of other men, and that otherwise their magic should benefit the rulers of men as much as possible. When the clerics of Tevinter altered the Chant of Light to reflect this interpretation of the commandment, the Divine in Val Royeaux ordered the clerics to revert to the original Chant. They refused, claiming corruption within Val Royeaux, an argument that grew until, in 4:87 [sic] Towers, the Chantry in Tevinter elected its own "legitimate and uncorrupted" Divine Valhail—who was not only male, but also happened to be one of the most prominent members of the Tevinter Circle of the Magi. This "Black Divine" was reviled outside Tevinter, his existence an offense to the Chantry in Val Royeaux.
+
 After four Exalted Marches to dislodge these "rebels," all that the Chantry in Val Royeaux accomplished was to cement the separation. While most aspects of the Imperial Chantry's teachings are the same, prohibitions against magic have been weakened, and male priests have become more prevalent. The Circle of the Magi today rules Tevinter directly, ever since the Archon Nomaran was elected in 7:34 Storm directly from the ranks of the enchanters, to great applause from the public. He dispensed with the old rules forbidding mages from taking part in politics, and within a century, the true rulers within the various imperial houses—the mages—took their places openly within the government. The Imperial Divine is now always drawn from the ranks of the first enchanters and operates as Divine and Grand Enchanter both.
+
 This is utter heresy to any member of the Chantry outside of Tevinter, a return to the days of the magisters, which brought the Blights down upon us. But it exists, and even though we have left the Tevinter Imperium to the mercies of the dread Qunari, still they have endured. Further confrontation between the Black Divine and our so-called "White Divine" is inevitable.
-—From Edicts of the Black Divine, by Father David of Qarinus, 8:11 Blessed
+
+——From <i> Edicts of the Black Divine, </i> by Father David of Qarinus, 8:11 Blessed

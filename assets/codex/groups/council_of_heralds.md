@@ -1,0 +1,5 @@
+Legally, the titles and heraldry of Orlesian nobility were banned. But even the power of an emperor pales in comparison to thousands of years of culture and tradition. The oldest families of Orlais trace their lineage back to Ciriane war chiefs; many have ties to the great houses of Antiva, Rivain, and the Anderfels. They would not give up their legacy, but because their titles were not legal, they were mired in a mess of conflicting claims of birthright and inheritance, further compounded by the myriad new titles Emperor Reville handed out as gifts to his supporters.
+
+When Judicael I took the throne, he inherited the political turmoil left behind by his father, Reville the Mad, which had cost his brother, Etienne II, his life. In a bid to win over the nobles of his court, one of Emperor Judicael's first acts was the establishment of the Council of Heralds. The Council would be the final arbiter over all disputes involving titles—even having the power to overrule the word of the emperor on such matters.
+
+—From <i> An Examination of Orlesian Government </i> by Sister Petrine, Chantry scholar

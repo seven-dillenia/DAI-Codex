@@ -1,5 +1,10 @@
 [
     {
+        "title": "A Tradition of Rebirth",
+        "codex_path": "assets/codex/groups/a_tradition_of_rebirth.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
         "title": "Ben-Hassrath Reeducators",
         "codex_path": "assets/codex/groups/ben-hassrath_reeducators.md",
         "tarot_path": "assets/tarots/groups/groups.png"
@@ -7,6 +12,21 @@
     {
         "title": "Chantry Hierarchy",
         "codex_path": "assets/codex/groups/chantry_hierarchy.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Council of Heralds",
+        "codex_path": "assets/codex/groups/council_of_heralds.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "From a Mage's Journal",
+        "codex_path": "assets/codex/groups/from_a_mage's_journal.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "On Avvar Cuisine",
+        "codex_path": "assets/codex/groups/on_avvar_cuisine.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
@@ -30,18 +50,18 @@
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
+        "title": "Sha-Brytol",
+        "codex_path": "assets/codex/groups/sha-brytol.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
         "title": "Surface Dwarves",
         "codex_path": "assets/codex/groups/surface_dwarves.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
-        "title": "Tal-Vashoth ",
+        "title": "Tal-Vashoth",
         "codex_path": "assets/codex/groups/tal-vashoth_.md",
-        "tarot_path": "assets/tarots/groups/groups.png"
-    },
-    {
-        "title": "Templars",
-        "codex_path": "assets/codex/groups/templars.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
@@ -85,7 +105,7 @@
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
-        "title": "The Grey Wardens ",
+        "title": "The Grey Wardens",
         "codex_path": "assets/codex/groups/the_grey_wardens_.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
@@ -120,7 +140,7 @@
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
-        "title": "The Seekers of Truth ",
+        "title": "The Seekers of Truth",
         "codex_path": "assets/codex/groups/the_seekers_of_truth_.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
@@ -132,6 +152,11 @@
     {
         "title": "The Templar Order: End of an Accord",
         "codex_path": "assets/codex/groups/the_templar_order_end_of_an_accord.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Templar Order: Traditional Role",
+        "codex_path": "assets/codex/groups/the_templar_other_traditional_role.md",
         "tarot_path": "assets/tarots/groups/groups.png"
     },
     {
