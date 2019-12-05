@@ -18,11 +18,13 @@ class CodexScreen extends StatefulWidget {
 
 class _CodexScreenState extends State<CodexScreen> {
   List<String> lines = new List<String>();
+  double expandedHeight = 0;
 
   @override
   void initState() {
     super.initState();
     loadText();
+    setExpandedHeight();
   }
 
   void loadText() {
@@ -31,6 +33,16 @@ class _CodexScreenState extends State<CodexScreen> {
         this.lines = data;
       });
     });
+  }
+
+  void setExpandedHeight() {
+    if(widget.codexData.title.length <= 20) {
+      expandedHeight = 50;
+    } else if (widget.codexData.title.length <= 40) {
+      expandedHeight = 70;
+    } else {
+      expandedHeight = 90;
+    }
   }
 
   @override
@@ -42,11 +54,21 @@ class _CodexScreenState extends State<CodexScreen> {
           slivers: <Widget>[
             SliverPersistentHeader(
               delegate: CustomSliverAppBar(
-                expandedHeight: 70,
-                minHeight: 70,
-                headerText: widget.codexData.title,
-                leading: Align(
-                  alignment: Alignment.centerLeft,
+                expandedHeight: this.expandedHeight,
+                minHeight: 36,
+                title: Flexible(
+                  child: Container(
+                    // height: 1,
+                    margin: EdgeInsets.symmetric(horizontal: 50),
+                    child: Text(
+                      widget.codexData.title,
+                      style: Styles.h1Fancy.copyWith(height: 0.9, fontSize: 24),
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                ),
+                leading: Positioned(
+                  top: 0,
                   child: IconButton(
                     onPressed: () {
                       Navigator.of(context).pop();
@@ -57,6 +79,7 @@ class _CodexScreenState extends State<CodexScreen> {
                     ),
                   ),
                 ),
+                crossAxisAlignment: CrossAxisAlignment.center,
               ),
               pinned: false,
               floating: true,
@@ -65,10 +88,13 @@ class _CodexScreenState extends State<CodexScreen> {
               delegate: SliverChildListDelegate([
                 SizedBox(height: Styles.bigSpacing),
                 Container(
-                  margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
-                  child: CodexText(lines: this.lines,)
-                ),
-                SizedBox(height: Styles.bigSpacing,)
+                    margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
+                    child: CodexText(
+                      lines: this.lines,
+                    )),
+                SizedBox(
+                  height: Styles.bigSpacing,
+                )
               ]),
             )
           ],

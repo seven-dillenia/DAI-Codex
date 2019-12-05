@@ -41,11 +41,13 @@ class _TarotScreenState extends State<TarotScreen> {
           slivers: <Widget>[
             SliverPersistentHeader(
               delegate: CustomSliverAppBar(
-                expandedHeight: 70,
-                minHeight: 70,
-                headerText: "Character",
-                leading: Align(
-                  alignment: Alignment.centerLeft,
+                expandedHeight: 50,
+                minHeight: 40,
+                title: Container(
+                  child: Text("Characters", style: Styles.h1Fancy.copyWith(height: 0.9),),
+                ),
+                leading: Positioned(
+                  top: 0,
                   child: IconButton(
                     onPressed: () {
                       Navigator.of(context).pop();
@@ -56,6 +58,7 @@ class _TarotScreenState extends State<TarotScreen> {
                     ),
                   ),
                 ),
+                crossAxisAlignment: CrossAxisAlignment.center,
               ),
               pinned: false,
               floating: true,
@@ -70,7 +73,12 @@ class _TarotScreenState extends State<TarotScreen> {
                     alignment: WrapAlignment.center,
                     spacing: Styles.superSmallSpacing,
                     runSpacing: Styles.superSmallSpacing,
-                    children: this._tarotDataList.map((data) => TarotCard(tarot: data,)).toList(),
+                    children: this
+                        ._tarotDataList
+                        .map((data) => TarotCard(
+                              tarot: data,
+                            ))
+                        .toList(),
                   ),
                 ),
                 SizedBox(height: Styles.bigSpacing)

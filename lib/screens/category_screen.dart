@@ -34,10 +34,11 @@ class _CategoryScreenState extends State<CategoryScreen> {
               SliverPersistentHeader(
                 delegate: CustomSliverAppBar(
                   expandedHeight: 200,
-                  minHeight: 70,
+                  minHeight: 60,
                   hasBanner: true,
-                  margin: EdgeInsets.only(left: 110, top: 20),
-                  headerText: "Codex",
+                  margin: EdgeInsets.only(left: 110, top: 10),
+
+                  title: Text("Codex", style: Styles.h1Fancy),
                   captionText: "Stories and background from the world of Thedas",
                   leading: Positioned(
                     bottom: 0,

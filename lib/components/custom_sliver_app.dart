@@ -5,18 +5,20 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
   final double expandedHeight;
   final double minHeight;
   final bool hasBanner;
-  final String headerText;
   final EdgeInsets margin;
   final String captionText;
   final Widget leading;
-  // final
+  final CrossAxisAlignment crossAxisAlignment;
+  final Widget title;
+
   double opacity = 1;
 
   CustomSliverAppBar({
     @required this.expandedHeight,
     @required this.minHeight,
-    @required this.headerText,
     @required this.leading,
+    @required this.title,
+    this.crossAxisAlignment = CrossAxisAlignment.start,
     this.captionText,
     this.margin,
     this.hasBanner = false,
@@ -49,9 +51,9 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
               margin: this.margin,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: this.captionText != null ? CrossAxisAlignment.start : CrossAxisAlignment.center,
+                crossAxisAlignment: this.crossAxisAlignment,
                 children: <Widget>[
-                  Text(this.headerText, style: Styles.h1Fancy),
+                  this.title,
                   Builder(
                     builder: (context) {
                       if (captionText != null) {
