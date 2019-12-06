@@ -20,6 +20,7 @@ class TarotScreen extends StatefulWidget {
 class _TarotScreenState extends State<TarotScreen> {
   bool isTapped = false;
   List<CodexData> _tarotDataList = new List<CodexData>();
+  bool showCodexTitle = false;
 
   @override
   void initState() {
@@ -38,7 +39,6 @@ class _TarotScreenState extends State<TarotScreen> {
 
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
       backgroundColor: Styles.black,
       body: SafeArea(
@@ -46,30 +46,44 @@ class _TarotScreenState extends State<TarotScreen> {
           slivers: <Widget>[
             SliverPersistentHeader(
               delegate: CustomSliverAppBar(
-                expandedHeight: 60,
-                minHeight: 60,
-                title: Container(
-                  child: Text(
-                    widget.category.name,
-                    style: Styles.h1Fancy.copyWith(height: 0.9),
-                    maxLines: 1,
-                    overflow: TextOverflow.ellipsis,
-                  ),
-                ),
-                leading: Positioned(
-                  top: Styles.leadingTopMargin,
-                  child: IconButton(
-                    onPressed: () {
-                      Navigator.of(context).pop();
-                    },
-                    icon: Icon(
-                      FontAwesomeIcons.chevronLeft,
-                      color: Styles.yellow,
+                  expandedHeight: 60,
+                  minHeight: 60,
+                  title: Container(
+                    child: Text(
+                      widget.category.name,
+                      style: Styles.h1Fancy.copyWith(height: 0.9),
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
                     ),
                   ),
-                ),
-                crossAxisAlignment: CrossAxisAlignment.center,
-              ),
+                  leading: Align(
+                    alignment: Alignment.centerLeft,
+                    // top: Styles.leadingTopMargin,
+                    child: IconButton(
+                      onPressed: () {
+                        Navigator.of(context).pop();
+                      },
+                      icon: Icon(
+                        FontAwesomeIcons.chevronLeft,
+                        color: Styles.yellow,
+                      ),
+                    ),
+                  ),
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  actionWidget: Align(
+                    alignment: Alignment.centerRight,
+                    child: IconButton(
+                      onPressed: () {
+                        setState(() {
+                          this.showCodexTitle = !this.showCodexTitle;
+                        });
+                      },
+                      icon: Icon(
+                        FontAwesomeIcons.thLarge,
+                        color: Styles.yellow,
+                      ),
+                    ),
+                  )),
               pinned: false,
               floating: true,
             ),
@@ -77,7 +91,6 @@ class _TarotScreenState extends State<TarotScreen> {
               delegate: SliverChildListDelegate([
                 SizedBox(height: Styles.bigSpacing),
                 Container(
-                  margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
                   child: Wrap(
                       direction: Axis.horizontal,
                       alignment: WrapAlignment.center,
@@ -86,6 +99,7 @@ class _TarotScreenState extends State<TarotScreen> {
                       children: this
                           ._tarotDataList
                           .map((data) => TarotCard(
+                            showCodexTitle: this.showCodexTitle,
                                 tarot: data,
                               ))
                           .toList()),

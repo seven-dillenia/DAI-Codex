@@ -5,7 +5,8 @@ import 'package:flutter/material.dart';
 
 class TarotCard extends StatefulWidget {
   final CodexData tarot;
-  TarotCard({@required this.tarot});
+  final bool showCodexTitle;
+  TarotCard({@required this.tarot, @required this.showCodexTitle});
 
   @override
   _TarotCardState createState() => _TarotCardState();
@@ -14,10 +15,17 @@ class TarotCard extends StatefulWidget {
 class _TarotCardState extends State<TarotCard> {
   bool _isTapped = false;
 
-  final RadialGradient goldHue =
-      RadialGradient(center: Alignment(0.7, -0.6), radius: 2, colors: [Color(0xFFffe5a0), Color(0xFFe99854)], stops: [0.0, 0.5]);
+  final RadialGradient goldHue = RadialGradient(
+    center: Alignment(0.7, -0.6),
+    radius: 2,
+    colors: [Color(0xFFffe5a0), Color(0xFFe99854)],
+    stops: [0.0, 0.5],
+  );
 
-  final RadialGradient transHue = RadialGradient(center: Alignment(0.7, 0.6), colors: [Colors.transparent, Colors.transparent]);
+  final RadialGradient transHue = RadialGradient(
+    center: Alignment(0.7, 0.6),
+    colors: [Colors.transparent, Colors.transparent],
+  );
 
   @override
   Widget build(BuildContext context) {
@@ -33,35 +41,75 @@ class _TarotCardState extends State<TarotCard> {
           Navigator.of(context).pushNamed(CodexScreen.id, arguments: widget.tarot);
         });
       },
-      child: AnimatedContainer(
-        duration: Duration(milliseconds: 250),
-        curve: Curves.easeInQuad,
-        decoration: BoxDecoration(
-          borderRadius: this._isTapped
-              ? BorderRadius.circular(8.0)
-              : BorderRadius.only(
-                  topLeft: Radius.circular(35), topRight: Radius.circular(10), bottomLeft: Radius.circular(10), bottomRight: Radius.circular(35)),
-          boxShadow: [
-            BoxShadow(
-                color: this._isTapped ? Styles.goldenRetriver : Color(0xff3F4239),
-                offset: this._isTapped ? Offset(2, 1) : new Offset(2, 3),
-                blurRadius: 5)
-          ],
-        ),
-        child: AnimatedContainer(
-          duration: Duration(milliseconds: 250),
-          curve: Curves.easeInQuad,
-          width: 185,
-          decoration: BoxDecoration(
-            border: Border.all(width: 2, color: this._isTapped ? Styles.goldenRetriver : Colors.transparent),
-            borderRadius: BorderRadius.circular(8.0),
-            gradient: this._isTapped ? this.goldHue : this.transHue,
+      child: Stack(
+        children: <Widget>[
+          AnimatedContainer(
+            duration: Duration(milliseconds: 250),
+            curve: Curves.easeInQuad,
+            decoration: BoxDecoration(
+              borderRadius: this._isTapped
+                  ? BorderRadius.circular(8.0)
+                  : BorderRadius.only(
+                      topLeft: Radius.circular(35),
+                      topRight: Radius.circular(10),
+                      bottomLeft: Radius.circular(10),
+                      bottomRight: Radius.circular(35),
+                    ),
+              boxShadow: [
+                BoxShadow(
+                    color: this._isTapped ? Styles.goldenRetriver : Color(0xff3F4239),
+                    offset: this._isTapped ? Offset(2, 1) : new Offset(2, 3),
+                    blurRadius: 5)
+              ],
+            ),
+            child: AnimatedContainer(
+              duration: Duration(milliseconds: 250),
+              curve: Curves.easeInQuad,
+              width: 185,
+              decoration: BoxDecoration(
+                border: Border.all(
+                  width: 2,
+                  color: this._isTapped ? Styles.goldenRetriver : Colors.transparent,
+                ),
+                borderRadius: BorderRadius.circular(8.0),
+                gradient: this._isTapped ? this.goldHue : this.transHue,
+              ),
+              child: Opacity(
+                opacity: widget.showCodexTitle ? 0.35 : 0.8,
+                child: Image.asset(widget.tarot.tarotPath),
+              ),
+            ),
           ),
-          child: Opacity(
-            opacity: 0.8,
-            child: Image.asset(widget.tarot.tarotPath),
-          ),
-        ),
+          Builder(
+            builder: (context) {
+              if (widget.showCodexTitle) {
+                return Container(
+                  width: 185,
+                  height: 300,
+                  child: Center(
+                      child: Container(
+                          margin: EdgeInsets.symmetric(horizontal: 5),
+                          child: Opacity(
+                            opacity: 0.95,
+                            child: Text(
+                              widget.tarot.title,
+                              style: Styles.h2Fancy.copyWith(shadows: <Shadow>[
+                                Shadow(
+                                  offset: Offset(2, 3),
+                                  blurRadius: 5,
+                                  color: Color(0xff8A7530),
+                                )
+                              ]),
+                              textAlign: TextAlign.center,
+                            ),
+                          ))),
+                );
+              } else {
+                return SizedBox();
+              }
+            },
+          )
+        ],
       ),
     );
   }
