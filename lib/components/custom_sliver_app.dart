@@ -1,5 +1,6 @@
 import 'package:dai_codex/misc/styles.dart';
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
   final double expandedHeight;
@@ -10,6 +11,7 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
   final Widget leading;
   final CrossAxisAlignment crossAxisAlignment;
   final Widget title;
+  final Widget actionWidget;
 
   double opacity = 1;
 
@@ -18,6 +20,7 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
     @required this.minHeight,
     @required this.leading,
     @required this.title,
+    this.actionWidget,
     this.crossAxisAlignment = CrossAxisAlignment.start,
     this.captionText,
     this.margin,
@@ -73,7 +76,8 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
               ),
             ),
           ),
-          this.leading
+          this.leading,
+          this.actionWidget == null ? Container() : this.actionWidget
         ],
       ),
     );
