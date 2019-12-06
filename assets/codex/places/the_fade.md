@@ -1,0 +1,7 @@
+The study of the Fade is as old as humankind. For so long as men have dreamed, we have walked its twisting paths, sometimes catching a glimpse of the city at its heart. Always as close as our own thoughts, but impossibly separated from our world.
+
+The Tevinter Imperium once spent vast fortunes of gold, lyrium, and human slaves in an effort to map the terrain of the Fade, an ultimately futile endeavor. Although portions of it belong to powerful spirits, all of the Fade is in constant flux. The Imperium succeeded in finding the disparate and ever-shifting realms of a dozen demon lords, as well as cataloging a few hundred types of spirits, before they were forced to abandon the project.
+
+The relationship of dreamers to the Fade is complex. Even when entering the Fade through the use of lyrium, mortals are not able to control or affect it. The spirits who dwell there, however, can, and as the Chantry teaches us, the great flaw of the spirits is that they have neither imagination nor ambition. They create what they see through their sleeping visitors, building elaborate copies of our cities, people, and events, which, like the reflections in a mirror, ultimately lack context or life of their own. Even the most powerful demons merely plagiarize the worst thoughts and fears of mortals, and build their realms with no other ambition than to taste life.
+
+—From <i> Tranquility and the Role of the Fade in Human Culture, </i> by First Enchanter Josephus.

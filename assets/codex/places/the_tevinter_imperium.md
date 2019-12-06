@@ -1,5 +1,9 @@
 For good or ill, the Imperium has put its stamp on Thedas forever.
+
 The old Imperial Highway is still in use across most of Thedas. The ruins of Tevinter fortresses and centers of magical study still litter our landscape, long after the glory of the Imperium dimmed. But the influence of that ancient empire goes deeper than this. Without Tevinter, there would have been no Blights, no Andraste, no Chantry. Every aspect of our world would be altered.
+
 The might and majesty of the Imperium may have faded, but it still makes its presence known, even in the most distant corners of Thedas. Every child has been brought up on stories of Tevinter as it is now: a decadent nation, ruled by the archon and his court of magisters — great, and no doubt corrupt, mage-lords. Their Chantry a mockery of our own, their Black Divine a man chosen from the ranks of the Minrathous Circle of Magi. The Maker's most hallowed law, "Magic exists to serve man, and never to rule over him," perverted. Mages in the Imperium say their most sacred duty is to serve man, and they serve best by wielding political power.
+
 And the worst, that which Blessed Andraste must weep to see: All of it is built on a foundation of slavery. While most nations forbid the buying and selling of slaves within their own borders, nearly everyone ships her people to the Imperium for sale, skirting the prohibitions against such atrocities, and feeding the Imperium's endless hunger for bodies: To fight the Qunari, to work the mines and quarries, to build the palaces of the magisters, to sweep the crumbling streets and turn the middens and serve at the whim of their mage overseers.
-—From Black City, Black Divine: A Study of the Tevinter Imperium, by Sister Petrine, Chantry scholar
+
+—From <i> Black City, Black Divine: A Study of the Tevinter Imperium, </i> by Sister Petrine, Chantry scholar

@@ -1,2 +1,3 @@
 Miroir de la Mère was cut from Val Royeaux in 8:49 Blessed. It was the will of the mad Emperor Reville, who demanded a reflecting pool large enough to draw his vain deceased mother back across the Veil. Many shops and vendors were evicted to make room for his folly, and several memorials to the heroes of the first four Blights were simply toppled. The reservoir supports little in the way of life, as the bottom was lined with lead to increase its reflective properties. Reville intended it for divination, using boats as massive planchettes, but work was not finished until the week of his own death. The waters see little use today, save for lazy—or fornication—sojourns by the nobility aboard decorative gondolas.
-—Excerpted and torn from A Disposable Walking Tour of the Capital by Philliam, a Bard!
+
+—Excerpted and torn from <i> A Disposable Walking Tour of the Capital </i> by Philliam, a Bard!
