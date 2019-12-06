@@ -1,4 +1,7 @@
 When the summoning ritual was complete, the spirit appeared. Both spirits and demons have no gender as we understand it, but this one, much like the rare and dangerous desire demon, presented as female. Although its form was not threatening, the spirit carried itself with a confidence, an awareness, I suppose, that I have seen only in the most powerful of demons.
+
 This spirit of wisdom was polite and courteous. It answered our questions about the Fade, even acknowledging the difficulty when we could not understand what it meant. There was none of the bargaining one normally associates with a summoned creature, save that the spirit sometimes asked us questions as well. Heras shared a mathematical formula he had recently proven, while Etrenne explained her study on magical themes in the Chant of Light, and young Rhys talked a little about his mother.
+
 When we were finished, the spirit thanked us for the conversation and then vanished, although none of us had dismissed it. We soon discovered that the summoning ritual we had devised was critically flawed. The spirit had been under no compulsion to come or remain. All the time it had talked with us, it had stayed of its own volition. Heras was greatly concerned that such a powerful spirit remained free, and has updated the ritual to correct for the weakness in the binding enchantment. I understand his caution, but I also confess that I quite enjoyed the conversation. I am not certain the spirit would have talked so freely had it been shackled at the time.
-—An excerpt from Spirits of the Spire by Senior Enchanter Francois
+
+—An excerpt from <i> Spirits of the Spire </i> by Senior Enchanter Francois

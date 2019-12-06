@@ -1,9 +1,11 @@
-In the light of the veilfire, the runes seem to shift, coiling and uncoiling like snakes. A thunderous voice shatters the stillness, shouting:
+<i> In the light of the veilfire, the runes seem to shift, coiling and uncoiling like snakes. A thunderous voice shatters the stillness, shouting: </i>
+
 "Hail Mythal, adjudicator and savior! She has struck down the pillars of the earth and rendered their demesne unto the People! Praise her name forever!"
-For a moment, the scent of blood fills the air, and there is a vivid image of green vines growing and enveloping a sphere of fire.
-The vision grows dark. An aeon seems to pass. Then the runes crackle, as if filled with an angry energy.
-A new vision appears: elves collapsing caverns, sealing the Deep Roads with stone and magic.
-Terror, heart-pounding, ice-cold, as the last of the spells is cast.
-A voice whispers:
-"What the Evanuris in their greed could unleash would end us all. Let this place be forgotten. Let no one wake its anger. The People must rise before their false gods destroy them all."<img src="https://vignette.wikia.nocookie.net/dragonage/images/3/37/Codex_icon_DAI.png/revision/latest/scale-to-width-down/20?cb=20141218104531"alt="Codex icon DAI"class=""style="vertical-align: middle"data-image-key="Codex_icon_DAI.png"data-image-name="Codex icon DAI.png"width="20"height="20"> Codex entry: Old Elven Writing<img src="https://vignette.wikia.nocookie.net/dragonage/images/3/37/Codex_icon_DAI.png/revision/latest/scale-to-width-down/20?cb=20141218104531"alt="Codex icon DAI"class=""style="vertical-align: middle"data-image-key="Codex_icon_DAI.png"data-image-name="Codex icon DAI.png"width="20"height="20"> Codex entry: Torn Notebook in the Deep Roads, Section 3
-<img src="https://vignette.wikia.nocookie.net/dragonage/images/3/37/Codex_icon_DAI.png/revision/latest/scale-to-width-down/20?cb=20141218104531"alt="Codex icon DAI"class=""style="vertical-align: middle"data-image-key="Codex_icon_DAI.png"data-image-name="Codex icon DAI.png"width="20"height="20"> Codex entry: Vir Dirthara: A Flowering ImagoGet the Anchor Blast upgrade for the Anchor Discharge in the Shattered Library, then head back to the now half-submerged Deep Roads via the respective Eluvian. Use the upgraded ability near a collapsed entrance surrounded by casks with gaatlok to clear the way and enter the mirror you find. Use veilfire to read the runes.
+
+<i> For a moment, the scent of blood fills the air, and there is a vivid image of green vines growing and enveloping a sphere of fire. </i>
+<i> The vision grows dark. An aeon seems to pass. Then the runes crackle, as if filled with an angry energy. </i>
+<i> A new vision appears: elves collapsing caverns, sealing the Deep Roads with stone and magic. </i>
+<i> Terror, heart-pounding, ice-cold, as the last of the spells is cast. </i>
+<i> A voice whispers: </i>
+
+"What the Evanuris in their greed could unleash would end us all. Let this place be forgotten. Let no one wake its anger. The People must rise before their false gods destroy them all."
