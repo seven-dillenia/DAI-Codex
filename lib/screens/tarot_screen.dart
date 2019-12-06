@@ -34,11 +34,11 @@ class _TarotScreenState extends State<TarotScreen> {
         this._tarotDataList = CodexData.decodeJsonToTarotDataList(data);
       });
     });
-    // read the json
   }
 
   @override
   Widget build(BuildContext context) {
+
     return Scaffold(
       backgroundColor: Styles.black,
       body: SafeArea(
@@ -46,23 +46,25 @@ class _TarotScreenState extends State<TarotScreen> {
           slivers: <Widget>[
             SliverPersistentHeader(
               delegate: CustomSliverAppBar(
-                expandedHeight: 50,
-                minHeight: 40,
+                expandedHeight: 60,
+                minHeight: 60,
                 title: Container(
                   child: Text(
                     widget.category.name,
                     style: Styles.h1Fancy.copyWith(height: 0.9),
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
                   ),
                 ),
                 leading: Positioned(
-                  top: 0,
+                  top: Styles.leadingTopMargin,
                   child: IconButton(
                     onPressed: () {
                       Navigator.of(context).pop();
                     },
                     icon: Icon(
                       FontAwesomeIcons.chevronLeft,
-                      color: Colors.white,
+                      color: Styles.yellow,
                     ),
                   ),
                 ),

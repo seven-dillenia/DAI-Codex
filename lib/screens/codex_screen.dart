@@ -42,13 +42,19 @@ class _CodexScreenState extends State<CodexScreen> {
 
   double setExpandedHeight() {
     double appWidth = MediaQuery.of(context).size.width - 100;
-    int textWidth = widget.codexData.title.length * 10;
+    double textWidth = widget.codexData.title.length * 12.457142857142857;
 
-    if (textWidth > appWidth) {
-      return 60;
+    print("app width: " + appWidth.toString());
+    print("text width: " + textWidth.toString());
+
+    if(textWidth > appWidth * 2) {
+      return 90;
+    } else if (textWidth > appWidth) {
+      return 80;
     } else {
-      return 50;
+      return 60;
     }
+
   }
 
   @override
@@ -61,27 +67,31 @@ class _CodexScreenState extends State<CodexScreen> {
             SliverPersistentHeader(
               delegate: CustomSliverAppBar(
                 expandedHeight: setExpandedHeight(),
-                minHeight: 36,
+                minHeight: 60,
                 title: Flexible(
                   child: Container(
                     // height: 1,
+                    // color: Colors.blue,
                     margin: EdgeInsets.symmetric(horizontal: 50),
                     child: Text(
+                      // longest one line text: "This Is A Very Long Text"
                       widget.codexData.title,
                       style: Styles.h1Fancy.copyWith(height: 0.9, fontSize: 24),
                       textAlign: TextAlign.center,
+                      maxLines: 2,
+                      overflow: TextOverflow.ellipsis,
                     ),
                   ),
                 ),
                 leading: Positioned(
-                  top: 0,
+                  top: Styles.leadingTopMargin,
                   child: IconButton(
                     onPressed: () {
                       Navigator.of(context).pop();
                     },
                     icon: Icon(
                       FontAwesomeIcons.chevronLeft,
-                      color: Colors.white,
+                      color: Styles.yellow,
                     ),
                   ),
                 ),
