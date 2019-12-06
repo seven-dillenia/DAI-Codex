@@ -35,11 +35,6 @@
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
-        "title": "Culture of Ferelden",
-        "codex_path": "assets/codex/places/culture_of_ferelden.md",
-        "tarot_path": "assets/tarots/places/places.png"
-    },
-    {
         "title": "Deep Roads",
         "codex_path": "assets/codex/places/deep_roads.md",
         "tarot_path": "assets/tarots/places/places.png"
@@ -75,6 +70,16 @@
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
+        "title": "Halamshiral",
+        "codex_path": "assets/codex/places/halamshiral.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Haven",
+        "codex_path": "assets/codex/places/haven.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
         "title": "Heidrun Thaig",
         "codex_path": "assets/codex/places/heidrun_thaig.md",
         "tarot_path": "assets/tarots/places/places.png"
@@ -95,7 +100,12 @@
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
-        "title": "Redcliffe ",
+        "title": "On Skyhold",
+        "codex_path": "assets/codex/places/on_skyhold.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Redcliffe",
         "codex_path": "assets/codex/places/redcliffe_.md",
         "tarot_path": "assets/tarots/places/places.png"
     },
@@ -110,8 +120,18 @@
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
+        "title": "Temple of Sacred Ashes, Rediscovered",
+        "codex_path": "assets/codex/places/temple_of_sacred_ashes.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
         "title": "The Anderfels",
         "codex_path": "assets/codex/places/the_anderfels.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Black Emporium",
+        "codex_path": "assets/codex/places/the_black_emporium.md",
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
@@ -135,6 +155,11 @@
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
+        "title": "The Fade",
+        "codex_path": "assets/codex/places/the_fade.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
         "title": "The Fallow Mire",
         "codex_path": "assets/codex/places/the_fallow_mire.md",
         "tarot_path": "assets/tarots/places/places.png"
@@ -145,8 +170,18 @@
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
+        "title": "The Frostback Mountains",
+        "codex_path": "assets/codex/places/the_frostback_mountains.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
         "title": "The Hinterlands",
         "codex_path": "assets/codex/places/the_hinterlands.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Hissing Wastes",
+        "codex_path": "assets/codex/places/the_hissing_wastes.md",
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
@@ -185,13 +220,18 @@
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
-        "title": "The Tevinter Imperium (Dragon Age II)",
-        "codex_path": "assets/codex/places/the_tevinter_imperium_(dragon_age_ii).md",
+        "title": "The Tevinter Imperium",
+        "codex_path": "assets/codex/places/the_tevinter_imperium.md",
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
         "title": "The Western Approach",
         "codex_path": "assets/codex/places/the_western_approach.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Therinfal Redoubt",
+        "codex_path": "assets/codex/places/therinfal_redoubt.md",
         "tarot_path": "assets/tarots/places/places.png"
     },
     {
