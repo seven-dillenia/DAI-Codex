@@ -75,6 +75,11 @@
         "tarot_path": "assets/tarots/magic/magic.png"
     },
     {
+        "title": "The Risk of Saarebas",
+        "codex_path": "assets/codex/magic/the_risk_of_saarebas.md",
+        "tarot_path": "assets/tarots/magic/magic.png"
+    },
+    {
         "title": "The Rite of Tranquility",
         "codex_path": "assets/codex/magic/the_rite_of_tranquility.md",
         "tarot_path": "assets/tarots/magic/magic.png"
