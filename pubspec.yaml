@@ -43,9 +43,11 @@ flutter:
     - assets/codex/history/
     - assets/codex/letters_and_notes/
     - assets/codex/magic/
-    - assets/codex/maps/
     - assets/codex/places/
     - assets/codex/tales/
+
+    # map
+    - assets/maps/
 
 
   fonts:
