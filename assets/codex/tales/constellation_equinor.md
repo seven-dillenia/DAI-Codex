@@ -1,2 +1,3 @@
 Referred to as "the Stallion" in common parlance, the constellation Equinor has historically been depicted either as a rearing horse or a seated griffon. Some scholars speculate that the constellation's original image was that of a halla, which could indicate a deliberate supplantation of the constellation's original representation as Ghilan'nain, the elven goddess also known as "Mother of the Halla." However, as horses had great significance to early Neromenian culture (from which the ancient Imperium descended), this speculation is largely considered unfounded.
-—From A Study of Thedosian Astronomy by Sister Oran Petrarchius
+
+—From <i> A Study of Thedosian Astronomy </i> by Sister Oran Petrarchius

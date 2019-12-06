@@ -1,10 +1,14 @@
 A traveler asked the Ashkaari: "What was your vision of our purpose?"
+
 The Great Ashkaari replied: "I will tell you a story."
+
 A vast granite statue stands on an island, holding back the sea.
 The heavens crown its brow. It sees to the edge of the world.
 The sea drowns its feet with every tide.
 The heavens turn overhead, light and dark. The tide rises to devour the earth, and falls back.
-The sun and the stars fall to the sea one by one in their turn, only to rise again.The tide rises, the tide falls, but the sea is changeless.Struggle is an illusion. There is nothing to struggle against.
+The sun and the stars fall to the sea one by one in their turn, only to rise again.
+The tide rises, the tide falls, but the sea is changeless.
+Struggle is an illusion. There is nothing to struggle against.
 The deception flows deeper. The statue resists the ebb and flow of the sea,
 And is whittled away with each wave.
 It protests the setting sun, and its face is burned looking upon it. It does not know itself.
@@ -18,4 +22,5 @@ The purpose of the world renews itself with each season. Each change only marks
 A part of the greater whole.
 The sea and the sky themselves:
 Nothing special. Only pieces.
-—Tome of Koslun, the Soul Canto
+
+<i> —Tome of Koslun, the Soul Canto </i>

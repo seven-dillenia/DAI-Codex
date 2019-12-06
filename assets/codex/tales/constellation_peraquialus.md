@@ -1,2 +1,3 @@
 Referred to as "Voyager" in common parlance, the constellation Peraquialus is commonly depicted as a ship—no ordinary ship, but rather the primitive vessels sailed by ancient peoples such as the Neromenians. The translation from Ancient Tevene is usually "across the sea," and lends credence to the idea that the Neromenians came to Thedas from elsewhere, although most reputable scholars dispute this, especially considering those ancient peoples would likely to have named these stars long before they undertook such a voyage.
-—From A Study of Thedosian Astronomy by Sister Oran Petrarchius
+
+—From <i> A Study of Thedosian Astronomy </i> by Sister Oran Petrarchius

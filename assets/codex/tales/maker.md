@@ -1,10 +1,26 @@
-Maker songMaker (Orlais) songMaker
-Have you left me hereTemple
-Sacred AshesTragic
-Mark upon our landSky fall
-Let darkness reign on theeNow flee
-From the dragon's heartWarring
-Battle-scarred eyesBreach
-Into the Fade has comeDemon
+Maker
+Have you left me here
+
+Temple
+Sacred Ashes
+
+Tragic
+Mark upon our land
+
+Sky fall
+Let darkness reign on thee
+
+Now flee
+From the dragon's heart
+
+Warring
+Battle-scarred eyes
+
+Breach
+Into the Fade has come
+
+Demon
 Please spare my life
-And our sons—As performed by the bard Maryden Halewell
+And our sons
+
+——As performed by the bard Maryden Halewell

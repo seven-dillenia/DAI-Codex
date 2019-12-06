@@ -1,2 +1,3 @@
 There are two common interpretations regarding the history behind the constellation Solium, commonly referred to as "the Sun." The first is that it represents the fascination of early peoples (such as the Necromenians, predecessors to the ancient Tevinter Imperium) with all objects in the sky, the Sun and Moon in particular. Indeed, many believe proper depiction of Solium is as both. The second interpretation is that this constellation originally represented Elgar'nan, the head of the elven pantheon who was also known as "Eldest of the Sun." Modern scholars do not know which, if either, is truth.
-—From A Study of Thedosian Astronomy by Sister Oran Petrarchius
+
+—From <i> A Study of Thedosian Astronomy </i> by Sister Oran Petrarchius

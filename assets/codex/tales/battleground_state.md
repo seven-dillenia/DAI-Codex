@@ -1,5 +1,9 @@
 It seems a bitter twist of fate to discover that half of Thedas does not consider my homeland a nation at all. Qunari maps depict the island as part of their territory, without any ambiguousness to the claim. I can only assume this is because all islands within the Boeric Ocean naturally fall under their jurisdiction. The Tevinter maps, meanwhile, still proudly show the entire island as part of the Imperium, even though Imperial control outside of small pockets is little more than fiction and changes whenever the Qunari return their attention to the area.
+
 Imperial reports speak of "Fog Warriors" as if we are beasts, little better than darkspawn or dragons. "Dangerous element of the wilderness, best avoided or eliminated, but ultimately of no consequence." It angers me to read these things. Ours is a land that has been shaped by war, as no other. Long ago the Imperium came, and after centuries of trying and failing to turn us into compliant Imperial citizens, the Qunari came instead. They conquered Seheron and attempted to convert us. Neither side succeeded in taking our freedom. And though battle after bloody battle have ground our ancient halls of wisdom practically to dust, we still dream of the land that was.
+
 The fog dancers who travel with each band of warriors regale them with the legends of old and keep the songs our people alive. They say that the griffons of the Grey Wardens came from Seheron. They tell us of the ancient Curse of Nahar that brought the fog, and the promise that will one day lift it. They speak of the March of Four Winds, of the lost people who fled to the northern islands and the great heroes who learned at the feet of elves.
+
 Are the old tales true? We may never know. All that remains of the land Seheron once was is gone. But I know we will make them true someday.
-—From A Land of Fog by Brother Ashor Vell
+
+—From <i> A Land of Fog </i> by Brother Ashor Vell

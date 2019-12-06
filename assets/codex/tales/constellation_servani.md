@@ -1,2 +1,3 @@
 Referred to as "the Chained Man" in common parlance, the constellation Servani is traditionally represented by a man dragging a heavy chain behind him. This is thought to be an ancient Tevinter representation both of Andoral, the Old God of slaves, and of the Tevinter system of slavery itself. The representation of Servani has been used by the Trisalus guild for well over two thousand years (according to their claim), and is visibly imprinted upon the armor of both Juggernauts, the giant golems guarding the gates to the city of Minrathous.
-—From A Study of Thedosian Astronomy by Sister Oran Petrarchius
+
+—From <i> A Study of Thedosian Astronomy </i> by Sister Oran Petrarchius

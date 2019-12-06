@@ -1,3 +1,11 @@
-Elgar'nan, Wrath and Thunder,Give us glory.Give us victory, over the Earth that shakes our cities.
-Strike the usurpers with your lightning.Burn the ground under your gaze.Bring Winged Death against those who throw down our work.Elgar'nan, help us tame the land.──Song to Elgar'nan, found in the Temple of Mythal, author unknown<img src="https://vignette.wikia.nocookie.net/dragonage/images/4/4f/Ico_codex_entry.png/revision/latest/scale-to-width-down/20?cb=20100203194635"alt="Ico codex entry"class=""style="vertical-align: middle"data-image-key="Ico_codex_entry.png"data-image-name="Ico codex entry.png"width="20"height="20"> Codex entry: Elgar'nan: God of Vengeance
-<img src="https://vignette.wikia.nocookie.net/dragonage/images/3/37/Codex_icon_DAI.png/revision/latest/scale-to-width-down/20?cb=20141218104531"alt="Codex icon DAI"class=""style="vertical-align: middle"data-image-key="Codex_icon_DAI.png"data-image-name="Codex icon DAI.png"width="20"height="20"> Codex entry: Song to Falon'Din - mentions "wings of death"
+Elgar'nan, Wrath and Thunder,
+Give us glory.
+Give us victory, over the Earth that shakes our cities.
+Strike the usurpers with your lightning.
+Burn the ground under your gaze.
+Bring Winged Death against those who throw down our work.
+
+Elgar'nan, help us tame the land.
+
+
+──Song to Elgar'nan, found in the Temple of Mythal, author unknown

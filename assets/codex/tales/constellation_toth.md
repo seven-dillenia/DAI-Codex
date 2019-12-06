@@ -1,2 +1,3 @@
 The only constellation to maintain its ancient name in the present day, the constellation Toth directly corresponds to the ancient Tevinter Old God known as Toth, the Dragon of Fire. The depiction of this constellation varies, usually represented either as a man aflame (in agony, presumably a victim of the Old God) or as a flaming orb. Scholars in the Divine Age attempted to officially change the nomenclature to "Ignifir" (this is why some old texts record it as such), but the attempt never caught on, even after the eradication of Old God worship in the Imperium.
-—From A Study of Thedosian Astronomy by Sister Oran Petrarchius
+
+—From <i> A Study of Thedosian Astronomy </i> by Sister Oran Petrarchius
