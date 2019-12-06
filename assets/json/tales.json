@@ -1,17 +1,7 @@
 [
     {
-        "title": "Nightingale's Eyes",
-        "codex_path": "assets/codex/tales/nightingale's_eyes.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Satinalis",
-        "codex_path": "assets/codex/tales/constellation_satinalis.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Naming of Stone-Bear Hold",
-        "codex_path": "assets/codex/tales/the_naming_of_stone-bear_hold.md",
+        "title": "A Compendium of Orlesian Theater",
+        "codex_path": "assets/codex/tales/a_compendium_of_orlesian_theater.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -20,23 +10,8 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Hard in Hightown: Chapter Seven",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_seven.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Samson's Tale",
-        "codex_path": "assets/codex/tales/samson's_tale.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Kios",
-        "codex_path": "assets/codex/tales/constellation_kios.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Maker",
-        "codex_path": "assets/codex/tales/maker.md",
+        "title": "A Ghoulish Delight",
+        "codex_path": "assets/codex/tales/a_ghoulish_delight.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -45,123 +20,13 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Ameridan and the Mage",
-        "codex_path": "assets/codex/tales/ameridan_and_the_mage.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Once We Were",
-        "codex_path": "assets/codex/tales/once_we_were.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
         "title": "A Missing Slave",
         "codex_path": "assets/codex/tales/a_missing_slave.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "War Hounds (restorable)",
-        "codex_path": "assets/codex/tales/war_hounds_(restorable).md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Soul Canto",
-        "codex_path": "assets/codex/tales/the_soul_canto.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Knight's Guardian",
-        "codex_path": "assets/codex/tales/knight's_guardian.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Ballad of the Murderer's Gold",
-        "codex_path": "assets/codex/tales/ballad_of_the_murderer's_gold.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter Three",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_three.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Enchanters",
-        "codex_path": "assets/codex/tales/enchanters.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Andraste's Mabari",
-        "codex_path": "assets/codex/tales/andraste's_mabari.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Legend of the Three Sisters: Book 2",
-        "codex_path": "assets/codex/tales/legend_of_the_three_sisters_book_2.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter 10",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_10.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Elven God Andruil",
-        "codex_path": "assets/codex/tales/elven_god_andruil.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Our Lady of the Anderfels",
-        "codex_path": "assets/codex/tales/our_lady_of_the_anderfels.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Sexuality in Thedas",
-        "codex_path": "assets/codex/tales/sexuality_in_thedas.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Tale of Hryngnar, Ice-Troll",
-        "codex_path": "assets/codex/tales/tale_of_hryngnar_ice-troll.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Surviving the Western Approach",
-        "codex_path": "assets/codex/tales/surviving_the_western_approach.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "She of the Highwaymen Repents",
-        "codex_path": "assets/codex/tales/she_of_the_highwaymen_repents.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Song to Sylaise",
-        "codex_path": "assets/codex/tales/song_to_sylaise.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Seers and the Allsmet",
-        "codex_path": "assets/codex/tales/seers_and_the_allsmet.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Tenebrium",
-        "codex_path": "assets/codex/tales/constellation_tenebrium.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Fulmenos",
-        "codex_path": "assets/codex/tales/constellation_fulmenos.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Oh, Grey Warden",
-        "codex_path": "assets/codex/tales/oh_grey_warden.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Before Andrastianism: Forgotten Faiths",
-        "codex_path": "assets/codex/tales/before_andrastianism_forgotten_faiths.md",
+        "title": "A Nutty Affair",
+        "codex_path": "assets/codex/tales/a_nutty_affair.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -170,103 +35,23 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Stone Tree",
-        "codex_path": "assets/codex/tales/the_stone_tree.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Battleground State",
-        "codex_path": "assets/codex/tales/battleground_state.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Silentir",
-        "codex_path": "assets/codex/tales/constellation_silentir.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
         "title": "A Season of the Four Afoul",
         "codex_path": "assets/codex/tales/a_season_of_the_four_afoul.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Hard in Hightown: Chapter Five",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_five.md",
+        "title": "Ameridan and the Mage",
+        "codex_path": "assets/codex/tales/ameridan_and_the_mage.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "In the Mists: A Torn Sky",
-        "codex_path": "assets/codex/tales/in_the_mists_a_torn_sky.md",
+        "title": "Andraste's Mabari",
+        "codex_path": "assets/codex/tales/andraste's_mabari.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Hard in Hightown: Chapter 17",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_17.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Saga of Tyrdda Bright-Axe, Avvar-Mother",
-        "codex_path": "assets/codex/tales/saga_of_tyrdda_bright-axe_avvar-mother.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Majestic Bastards",
-        "codex_path": "assets/codex/tales/majestic_bastards.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Bellitanus",
-        "codex_path": "assets/codex/tales/constellation_bellitanus.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "La Pomme Vie et Morte",
-        "codex_path": "assets/codex/tales/la_pomme_vie_et_morte.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Lady of the Skies",
-        "codex_path": "assets/codex/tales/the_lady_of_the_skies.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Walking the Fade: A Harrowing",
-        "codex_path": "assets/codex/tales/walking_the_fade_a_harrowing.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hero in Every Port (Ballad of Nuggins)",
-        "codex_path": "assets/codex/tales/hero_in_every_port_(ballad_of_nuggins).md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "I Am The One",
-        "codex_path": "assets/codex/tales/i_am_the_one.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Disciples of Andraste",
-        "codex_path": "assets/codex/tales/the_disciples_of_andraste.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter 16",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_16.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter ???",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_???.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Servani",
-        "codex_path": "assets/codex/tales/constellation_servani.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter Two",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_two.md",
+        "title": "Andruil's Messenger",
+        "codex_path": "assets/codex/tales/andruil's_messenger.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -275,113 +60,48 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Randy Dowager Quarterly",
-        "codex_path": "assets/codex/tales/the_randy_dowager_quarterly.md",
+        "title": "Ballad of the Murderer's Gold",
+        "codex_path": "assets/codex/tales/ballad_of_the_murderer's_gold.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Hard in Hightown: Chapter 18",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_18.md",
+        "title": "Battleground State",
+        "codex_path": "assets/codex/tales/battleground_state.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Empress of Fire",
-        "codex_path": "assets/codex/tales/empress_of_fire.md",
+        "title": "Before Andrastianism: Forgotten Faiths",
+        "codex_path": "assets/codex/tales/before_andrastianism_forgotten_faiths.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Responsible Blood Magic",
-        "codex_path": "assets/codex/tales/responsible_blood_magic.md",
+        "title": "Bottles of Thedas",
+        "codex_path": "assets/codex/tales/bottles_of_thedas.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Hard in Hightown: Chapter Nine",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_nine.md",
+        "title": "Caspar the Magnificent",
+        "codex_path": "assets/codex/tales/caspar_the_magnificent.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Constellation: Judex",
-        "codex_path": "assets/codex/tales/constellation_judex.md",
+        "title": "Common Curses",
+        "codex_path": "assets/codex/tales/common_curses.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Hard in Hightown: Chapter Six",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_six.md",
+        "title": "Constellation: Belenas",
+        "codex_path": "assets/codex/tales/constellation_belenas.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "A Compendium of Orlesian Theater",
-        "codex_path": "assets/codex/tales/a_compendium_of_orlesian_theater.md",
+        "title": "Constellation: Bellitanus",
+        "codex_path": "assets/codex/tales/constellation_bellitanus.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Two Marked in Battle",
-        "codex_path": "assets/codex/tales/two_marked_in_battle.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Judicael's Crossing",
-        "codex_path": "assets/codex/tales/judicael's_crossing.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter 15",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_15.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Legend of the Three Sisters: Book 1",
-        "codex_path": "assets/codex/tales/legend_of_the_three_sisters_book_1.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Folly of General Not-Sheritan",
-        "codex_path": "assets/codex/tales/the_folly_of_general_not-sheritan.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Rise",
-        "codex_path": "assets/codex/tales/rise.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Darktown's Deal",
-        "codex_path": "assets/codex/tales/darktown's_deal.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Solium",
-        "codex_path": "assets/codex/tales/constellation_solium.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Song to Elgar'nan",
-        "codex_path": "assets/codex/tales/song_to_elgar'nan.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Judgment of Mythal",
-        "codex_path": "assets/codex/tales/the_judgment_of_mythal.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Tattered Tome",
-        "codex_path": "assets/codex/tales/tattered_tome.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Avenue of Her Reflective Thought",
-        "codex_path": "assets/codex/tales/the_avenue_of_her_reflective_thought.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Girl in Red Crossing",
-        "codex_path": "assets/codex/tales/the_girl_in_red_crossing.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Nug King",
-        "codex_path": "assets/codex/tales/the_nug_king.md",
+        "title": "Constellation: Draconis",
+        "codex_path": "assets/codex/tales/constellation_draconis.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -395,253 +115,8 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Grey Whiskey-Ritewine-Conscription Ale",
-        "codex_path": "assets/codex/tales/grey_whiskey-ritewine-conscription_ale.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Trading with Kal-Sharok",
-        "codex_path": "assets/codex/tales/trading_with_kal-sharok.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Three Little Empresses",
-        "codex_path": "assets/codex/tales/three_little_empresses.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Dwarven Mugs",
-        "codex_path": "assets/codex/tales/dwarven_mugs.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Caspar the Magnificent",
-        "codex_path": "assets/codex/tales/caspar_the_magnificent.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "To Be Corrupted",
-        "codex_path": "assets/codex/tales/to_be_corrupted.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "A Nutty Affair",
-        "codex_path": "assets/codex/tales/a_nutty_affair.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Walking the Fade: Frozen Moments",
-        "codex_path": "assets/codex/tales/walking_the_fade_frozen_moments.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Plants vs. Corpses",
-        "codex_path": "assets/codex/tales/plants_vs._corpses.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "In the Mists: Phantoms Out of Dreams",
-        "codex_path": "assets/codex/tales/in_the_mists_phantoms_out_of_dreams.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Song to Falon'Din",
-        "codex_path": "assets/codex/tales/song_to_falon'din.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Keepers of Fear",
-        "codex_path": "assets/codex/tales/the_keepers_of_fear.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "How to Act Fereldan",
-        "codex_path": "assets/codex/tales/how_to_act_fereldan.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Take Back the Sky: A Tavern Cheer",
-        "codex_path": "assets/codex/tales/take_back_the_sky_a_tavern_cheer.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "What Discipline Achieves",
-        "codex_path": "assets/codex/tales/what_discipline_achieves.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Peraquialus",
-        "codex_path": "assets/codex/tales/constellation_peraquialus.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Exhuming Bodies by Moonlight",
-        "codex_path": "assets/codex/tales/exhuming_bodies_by_moonlight.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Paragons Known and Lesser Known",
-        "codex_path": "assets/codex/tales/paragons_known_and_lesser_known.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Draconis",
-        "codex_path": "assets/codex/tales/constellation_draconis.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Legend of the Three Sisters: Book 3",
-        "codex_path": "assets/codex/tales/legend_of_the_three_sisters_book_3.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
         "title": "Constellation: Fenrir",
         "codex_path": "assets/codex/tales/constellation_fenrir.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Empty Ones",
-        "codex_path": "assets/codex/tales/the_empty_ones.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Visus",
-        "codex_path": "assets/codex/tales/constellation_visus.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Singing Maiden",
-        "codex_path": "assets/codex/tales/the_singing_maiden.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "A Ghoulish Delight",
-        "codex_path": "assets/codex/tales/a_ghoulish_delight.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter 13",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_13.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Her Perfumed Sanctuary",
-        "codex_path": "assets/codex/tales/her_perfumed_sanctuary.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Sera Was Never",
-        "codex_path": "assets/codex/tales/sera_was_never.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Hunt of the Fell Wolf",
-        "codex_path": "assets/codex/tales/the_hunt_of_the_fell_wolf.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Daughters of Song",
-        "codex_path": "assets/codex/tales/the_daughters_of_song.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Moonlight on the Feast of Shadows",
-        "codex_path": "assets/codex/tales/moonlight_on_the_feast_of_shadows.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Lost City of Barindur",
-        "codex_path": "assets/codex/tales/the_lost_city_of_barindur.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Perils of Bard Life",
-        "codex_path": "assets/codex/tales/the_perils_of_bard_life.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Children of Andraste",
-        "codex_path": "assets/codex/tales/the_children_of_andraste.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Bottles of Thedas",
-        "codex_path": "assets/codex/tales/bottles_of_thedas.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Belenas",
-        "codex_path": "assets/codex/tales/constellation_belenas.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Vallasdahlen",
-        "codex_path": "assets/codex/tales/vallasdahlen.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter 14",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_14.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Andruil's Messenger",
-        "codex_path": "assets/codex/tales/andruil's_messenger.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter Eight",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_eight.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Shred of Blue",
-        "codex_path": "assets/codex/tales/shred_of_blue.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Annulment at Dairsmuid",
-        "codex_path": "assets/codex/tales/the_annulment_at_dairsmuid.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter Four",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_four.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Storm Coast's Claim",
-        "codex_path": "assets/codex/tales/the_storm_coast's_claim.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Constellation: Toth",
-        "codex_path": "assets/codex/tales/constellation_toth.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Troubles of a Chantry Scholar",
-        "codex_path": "assets/codex/tales/the_troubles_of_a_chantry_scholar.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Tower of Bone",
-        "codex_path": "assets/codex/tales/tower_of_bone.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "In the Mists: The Windline Marcher",
-        "codex_path": "assets/codex/tales/in_the_mists_the_windline_marcher.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Hard in Hightown: Chapter One",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_one.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Skyhold Garden",
-        "codex_path": "assets/codex/tales/skyhold_garden.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -650,8 +125,143 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Lost Temple of Dirthamen",
-        "codex_path": "assets/codex/tales/the_lost_temple_of_dirthamen.md",
+        "title": "Constellation: Fulmenos",
+        "codex_path": "assets/codex/tales/constellation_fulmenos.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Judex",
+        "codex_path": "assets/codex/tales/constellation_judex.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Kios",
+        "codex_path": "assets/codex/tales/constellation_kios.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Peraquialus",
+        "codex_path": "assets/codex/tales/constellation_peraquialus.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Satinalis",
+        "codex_path": "assets/codex/tales/constellation_satinalis.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Servani",
+        "codex_path": "assets/codex/tales/constellation_servani.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Silentir",
+        "codex_path": "assets/codex/tales/constellation_silentir.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Solium",
+        "codex_path": "assets/codex/tales/constellation_solium.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Tenebrium",
+        "codex_path": "assets/codex/tales/constellation_tenebrium.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Toth",
+        "codex_path": "assets/codex/tales/constellation_toth.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Constellation: Visus",
+        "codex_path": "assets/codex/tales/constellation_visus.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Darktown's Deal",
+        "codex_path": "assets/codex/tales/darktown's_deal.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Dwarven Mugs",
+        "codex_path": "assets/codex/tales/dwarven_mugs.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Elven God Andruil",
+        "codex_path": "assets/codex/tales/elven_god_andruil.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Empress of Fire",
+        "codex_path": "assets/codex/tales/empress_of_fire.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Enchanters",
+        "codex_path": "assets/codex/tales/enchanters.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Exhuming Bodies by Moonlight",
+        "codex_path": "assets/codex/tales/exhuming_bodies_by_moonlight.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Grey Whiskey-Ritewine-Conscription Ale",
+        "codex_path": "assets/codex/tales/grey_whiskey-ritewine-conscription_ale.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 1",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_1.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 2",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_2.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 3",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_3.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 4",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_4.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 5",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_5.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 6",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_6.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 7",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_7.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 8",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_8.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 9",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_9.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 10",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_10.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -660,13 +270,123 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Death of Elandrin",
-        "codex_path": "assets/codex/tales/the_death_of_elandrin.md",
+        "title": "Hard in Hightown: Chapter 12",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_12.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Ascension of Ghilan'nain",
-        "codex_path": "assets/codex/tales/the_ascension_of_ghilan'nain.md",
+        "title": "Hard in Hightown: Chapter 13",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_13.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 14",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_14.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 15",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_15.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 16",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_16.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 17",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_17.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter 18",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_18.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hard in Hightown: Chapter ???",
+        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Her Perfumed Sanctuary",
+        "codex_path": "assets/codex/tales/her_perfumed_sanctuary.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Hero in Every Port (Ballad of Nuggins)",
+        "codex_path": "assets/codex/tales/hero_in_every_port_(ballad_of_nuggins).md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "How to Act Fereldan",
+        "codex_path": "assets/codex/tales/how_to_act_fereldan.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "I Am The One",
+        "codex_path": "assets/codex/tales/i_am_the_one.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "In the Mists: A Torn Sky",
+        "codex_path": "assets/codex/tales/in_the_mists_a_torn_sky.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "In the Mists: Phantoms Out of Dreams",
+        "codex_path": "assets/codex/tales/in_the_mists_phantoms_out_of_dreams.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "In the Mists: The Windline Marcher",
+        "codex_path": "assets/codex/tales/in_the_mists_the_windline_marcher.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Jeshavis, Mother of Orlais",
+        "codex_path": "assets/codex/tales/jeshavis_mother_of_orlais.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Judicael's Crossing",
+        "codex_path": "assets/codex/tales/judicael's_crossing.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Knight's Guardian",
+        "codex_path": "assets/codex/tales/knight's_guardian.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "La Pomme Vie et Morte",
+        "codex_path": "assets/codex/tales/la_pomme_vie_et_morte.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Legend of the Three Sisters: Book 1",
+        "codex_path": "assets/codex/tales/legend_of_the_three_sisters_book_1.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Legend of the Three Sisters: Book 2",
+        "codex_path": "assets/codex/tales/legend_of_the_three_sisters_book_2.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Legend of the Three Sisters: Book 3",
+        "codex_path": "assets/codex/tales/legend_of_the_three_sisters_book_3.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Majestic Bastards",
+        "codex_path": "assets/codex/tales/majestic_bastards.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Maker",
+        "codex_path": "assets/codex/tales/maker.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -675,23 +395,13 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Head of Madame Snappy-Snips",
-        "codex_path": "assets/codex/tales/the_head_of_madame_snappy-snips.md",
+        "title": "Moonlight on the Feast of Shadows",
+        "codex_path": "assets/codex/tales/moonlight_on_the_feast_of_shadows.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "What is Green?",
-        "codex_path": "assets/codex/tales/what_is_green?.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "Common Curses",
-        "codex_path": "assets/codex/tales/common_curses.md",
-        "tarot_path": "assets/tarots/tales/tales.png"
-    },
-    {
-        "title": "The Silver Knight",
-        "codex_path": "assets/codex/tales/the_silver_knight.md",
+        "title": "Nightingale's Eyes",
+        "codex_path": "assets/codex/tales/nightingale's_eyes.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -705,18 +415,93 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Pyramids of Par Vollen",
-        "codex_path": "assets/codex/tales/the_pyramids_of_par_vollen.md",
+        "title": "Oh, Grey Warden",
+        "codex_path": "assets/codex/tales/oh_grey_warden.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Jeshavis, Mother of Orlais",
-        "codex_path": "assets/codex/tales/jeshavis_mother_of_orlais.md",
+        "title": "Once We Were",
+        "codex_path": "assets/codex/tales/once_we_were.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Crows and Queen Madrigal",
-        "codex_path": "assets/codex/tales/the_crows_and_queen_madrigal.md",
+        "title": "Our Lady of the Anderfels",
+        "codex_path": "assets/codex/tales/our_lady_of_the_anderfels.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Paragons Known and Lesser Known",
+        "codex_path": "assets/codex/tales/paragons_known_and_lesser_known.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Plants vs. Corpses",
+        "codex_path": "assets/codex/tales/plants_vs._corpses.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Responsible Blood Magic",
+        "codex_path": "assets/codex/tales/responsible_blood_magic.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Rise",
+        "codex_path": "assets/codex/tales/rise.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Saga of Tyrdda Bright-Axe, Avvar-Mother",
+        "codex_path": "assets/codex/tales/saga_of_tyrdda_bright-axe_avvar-mother.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Samson's Tale",
+        "codex_path": "assets/codex/tales/samson's_tale.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Seers and the Allsmet",
+        "codex_path": "assets/codex/tales/seers_and_the_allsmet.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Sera Was Never",
+        "codex_path": "assets/codex/tales/sera_was_never.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Sexuality in Thedas",
+        "codex_path": "assets/codex/tales/sexuality_in_thedas.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "She of the Highwaymen Repents",
+        "codex_path": "assets/codex/tales/she_of_the_highwaymen_repents.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Shred of Blue",
+        "codex_path": "assets/codex/tales/shred_of_blue.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Skyhold Garden",
+        "codex_path": "assets/codex/tales/skyhold_garden.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Song to Elgar'nan",
+        "codex_path": "assets/codex/tales/song_to_elgar'nan.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Song to Falon'Din",
+        "codex_path": "assets/codex/tales/song_to_falon'din.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Song to Sylaise",
+        "codex_path": "assets/codex/tales/song_to_sylaise.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -725,8 +510,118 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Unsigned Journal",
-        "codex_path": "assets/codex/tales/unsigned_journal.md",
+        "title": "Surviving the Western Approach",
+        "codex_path": "assets/codex/tales/surviving_the_western_approach.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Take Back the Sky: A Tavern Cheer",
+        "codex_path": "assets/codex/tales/take_back_the_sky_a_tavern_cheer.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Tale of Hryngnar, Ice-Troll",
+        "codex_path": "assets/codex/tales/tale_of_hryngnar_ice-troll.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Tattered Tome",
+        "codex_path": "assets/codex/tales/tattered_tome.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Annulment at Dairsmuid",
+        "codex_path": "assets/codex/tales/the_annulment_at_dairsmuid.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Ascension of Ghilan'nain",
+        "codex_path": "assets/codex/tales/the_ascension_of_ghilan'nain.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Avenue of Her Reflective Thought",
+        "codex_path": "assets/codex/tales/the_avenue_of_her_reflective_thought.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Blades of Hessarian",
+        "codex_path": "assets/codex/tales/the_blades_of_hessarian.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Children of Andraste",
+        "codex_path": "assets/codex/tales/the_children_of_andraste.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Crows and Queen Madrigal",
+        "codex_path": "assets/codex/tales/the_crows_and_queen_madrigal.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Daughters of Song",
+        "codex_path": "assets/codex/tales/the_daughters_of_song.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Death of Elandrin",
+        "codex_path": "assets/codex/tales/the_death_of_elandrin.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Disciples of Andraste",
+        "codex_path": "assets/codex/tales/the_disciples_of_andraste.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Empty Ones",
+        "codex_path": "assets/codex/tales/the_empty_ones.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Folly of General Not-Sheritan",
+        "codex_path": "assets/codex/tales/the_folly_of_general_not-sheritan.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Girl in Red Crossing",
+        "codex_path": "assets/codex/tales/the_girl_in_red_crossing.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Head of Madame Snappy-Snips",
+        "codex_path": "assets/codex/tales/the_head_of_madame_snappy-snips.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Hunt of the Fell Wolf",
+        "codex_path": "assets/codex/tales/the_hunt_of_the_fell_wolf.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Judgment of Mythal",
+        "codex_path": "assets/codex/tales/the_judgment_of_mythal.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Keepers of Fear",
+        "codex_path": "assets/codex/tales/the_keepers_of_fear.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Lady of the Skies",
+        "codex_path": "assets/codex/tales/the_lady_of_the_skies.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Lost City of Barindur",
+        "codex_path": "assets/codex/tales/the_lost_city_of_barindur.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Lost Temple of Dirthamen",
+        "codex_path": "assets/codex/tales/the_lost_temple_of_dirthamen.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
@@ -735,13 +630,123 @@
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "Hard in Hightown: Chapter 12",
-        "codex_path": "assets/codex/tales/hard_in_hightown_chapter_12.md",
+        "title": "The Naming of Stone-Bear Hold",
+        "codex_path": "assets/codex/tales/the_naming_of_stone-bear_hold.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     },
     {
-        "title": "The Blades of Hessarian",
-        "codex_path": "assets/codex/tales/the_blades_of_hessarian.md",
+        "title": "The Nug King",
+        "codex_path": "assets/codex/tales/the_nug_king.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Perils of Bard Life",
+        "codex_path": "assets/codex/tales/the_perils_of_bard_life.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Pyramids of Par Vollen",
+        "codex_path": "assets/codex/tales/the_pyramids_of_par_vollen.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Randy Dowager Quarterly",
+        "codex_path": "assets/codex/tales/the_randy_dowager_quarterly.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Silver Knight",
+        "codex_path": "assets/codex/tales/the_silver_knight.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Singing Maiden",
+        "codex_path": "assets/codex/tales/the_singing_maiden.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Soul Canto",
+        "codex_path": "assets/codex/tales/the_soul_canto.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Stone Tree",
+        "codex_path": "assets/codex/tales/the_stone_tree.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Storm Coast's Claim",
+        "codex_path": "assets/codex/tales/the_storm_coast's_claim.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Troubles of a Chantry Scholar",
+        "codex_path": "assets/codex/tales/the_troubles_of_a_chantry_scholar.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Three Little Empresses",
+        "codex_path": "assets/codex/tales/three_little_empresses.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "To Be Corrupted",
+        "codex_path": "assets/codex/tales/to_be_corrupted.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Tower of Bone",
+        "codex_path": "assets/codex/tales/tower_of_bone.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Trading with Kal-Sharok",
+        "codex_path": "assets/codex/tales/trading_with_kal-sharok.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Two Marked in Battle",
+        "codex_path": "assets/codex/tales/two_marked_in_battle.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Unsigned Journal",
+        "codex_path": "assets/codex/tales/unsigned_journal.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Vallasdahlen",
+        "codex_path": "assets/codex/tales/vallasdahlen.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Walking the Fade: A Harrowing",
+        "codex_path": "assets/codex/tales/walking_the_fade_a_harrowing.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "Walking the Fade: Frozen Moments",
+        "codex_path": "assets/codex/tales/walking_the_fade_frozen_moments.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "War Hounds (restorable)",
+        "codex_path": "assets/codex/tales/war_hounds_(restorable).md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "What Discipline Achieves",
+        "codex_path": "assets/codex/tales/what_discipline_achieves.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "What is Green?",
+        "codex_path": "assets/codex/tales/what_is_green.md",
+        "tarot_path": "assets/tarots/tales/tales.png"
+    },
+    {
+        "title": "The Wellspring",
+        "codex_path": "assets/codex/tales/the_wellspring.md",
         "tarot_path": "assets/tarots/tales/tales.png"
     }
 ]
