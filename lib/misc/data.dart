@@ -12,4 +12,11 @@ class Data {
     Category(name: "Maps", path: "assets/json/maps.json"),
     Category(name: "Tales", path: "assets/json/tales.json")
   ];
+
+  static final List<String> winterPalaceMap = <String>[
+    "assets/maps/winter_palace_1.jpg",
+    "assets/maps/winter_palace_2.jpg",
+    "assets/maps/winter_palace_3.jpg",
+    "assets/maps/winter_palace_4.jpg",
+  ];
 }

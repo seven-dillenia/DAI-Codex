@@ -1,5 +1,6 @@
 import 'package:dai_codex/components/codex_text.dart';
 import 'package:dai_codex/components/custom_sliver_app.dart';
+import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:dai_codex/models/codex_data.dart';
@@ -18,11 +19,17 @@ class CodexScreen extends StatefulWidget {
 
 class _CodexScreenState extends State<CodexScreen> {
   List<String> lines = new List<String>();
+  bool isMap = false;
 
   @override
   void initState() {
     super.initState();
-    loadText();
+
+    if (widget.codexData.codexPath.contains('.jpg')) {
+      this.isMap = true;
+    } else {
+      loadText();
+    }
   }
 
   void loadText() {
@@ -86,11 +93,28 @@ class _CodexScreenState extends State<CodexScreen> {
             SliverList(
               delegate: SliverChildListDelegate([
                 SizedBox(height: Styles.bigSpacing),
-                Container(
-                    margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
-                    child: CodexText(
-                      lines: this.lines,
-                    )),
+                Builder(
+                  builder: (context) {
+                    if (this.isMap) {
+                      if (widget.codexData.title == "Winter Palace") {
+                        return Wrap(
+                          alignment: WrapAlignment.center,
+                          runSpacing: Styles.smallSpacing,
+                          children: Data.winterPalaceMap.map((path) => buildMapImage(path)).toList(),
+                        );
+                      } else {
+                        return buildMapImage(widget.codexData.codexPath);
+                      }
+                    } else {
+                      return Container(
+                        margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
+                        child: CodexText(
+                          lines: this.lines,
+                        ),
+                      );
+                    }
+                  },
+                ),
                 SizedBox(
                   height: Styles.bigSpacing,
                 )
@@ -99,6 +123,13 @@ class _CodexScreenState extends State<CodexScreen> {
           ],
         ),
       ),
+    );
+  }
+
+  Container buildMapImage(String path) {
+    return Container(
+      constraints: BoxConstraints(maxWidth: 360),
+      child: Image.asset(path),
     );
   }
 }
