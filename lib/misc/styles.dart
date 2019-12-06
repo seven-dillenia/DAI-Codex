@@ -5,6 +5,7 @@ class Styles {
   static const double bigSpacing = 25;
   static const double smallSpacing = 15;
   static const double superSmallSpacing = 10;
+  static const double leadingTopMargin = 5;
 
   // ----------------------------------- NOTE: Colours
   static const Color black = Color(0xFF232323);
