@@ -15,7 +15,7 @@ class TarotCard extends StatefulWidget {
 class _TarotCardState extends State<TarotCard> {
   final double minWidth = 160;
   double width = 160;
-  final double widthHeightMultiple = 1.6666666666;
+  final double widthHeightMultiple = 1.6;
   bool _isTapped = false;
 
   final RadialGradient goldHue = RadialGradient(
