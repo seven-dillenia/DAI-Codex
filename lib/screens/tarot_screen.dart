@@ -1,9 +1,12 @@
+import 'package:dai_codex/components/category_tile.dart';
+import 'package:dai_codex/components/custom_bottom_sheet.dart';
 import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/components/tarot_card.dart';
 import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:dai_codex/models/category_data.dart';
 import 'package:dai_codex/models/codex_data.dart';
+import 'package:dai_codex/screens/codex_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -20,7 +23,10 @@ class TarotScreen extends StatefulWidget {
 class _TarotScreenState extends State<TarotScreen> {
   bool isTapped = false;
   List<CodexData> _tarotDataList = new List<CodexData>();
-  bool showCodexTitle = false;
+
+  // --------------- NOTE: Variables: Card View
+  bool isGrid = true;
+  bool showTitle = false;
 
   @override
   void initState() {
@@ -44,6 +50,7 @@ class _TarotScreenState extends State<TarotScreen> {
       body: SafeArea(
         child: CustomScrollView(
           slivers: <Widget>[
+            // -------------------------------------- NOTE: App bar
             SliverPersistentHeader(
               delegate: CustomSliverAppBar(
                   expandedHeight: 60,
@@ -70,13 +77,40 @@ class _TarotScreenState extends State<TarotScreen> {
                     ),
                   ),
                   crossAxisAlignment: CrossAxisAlignment.center,
+
+                  // ---------------------------------- NOTE: Card Button
                   actionWidget: Align(
                     alignment: Alignment.centerRight,
                     child: IconButton(
                       onPressed: () {
-                        setState(() {
-                          this.showCodexTitle = !this.showCodexTitle;
-                        });
+                        showModalBottomSheet<void>(
+                            context: context,
+                            backgroundColor: Colors.transparent,
+                            builder: (BuildContext context) {
+                              return CustomBottomSheet(
+                                isGrid: this.isGrid,
+                                showTitle: this.showTitle,
+                                onSwitchChange: (value) {
+                                  setState(() {
+                                    this.showTitle = !this.showTitle;
+                                  });
+                                },
+                                onGridTap: () {
+                                  if (!isGrid) {
+                                    setState(() {
+                                      this.isGrid = true;
+                                    });
+                                  }
+                                },
+                                onListTap: () {
+                                  if (isGrid) {
+                                    setState(() {
+                                      this.isGrid = false;
+                                    });
+                                  }
+                                },
+                              );
+                            });
                       },
                       icon: Icon(
                         FontAwesomeIcons.thLarge,
@@ -89,21 +123,44 @@ class _TarotScreenState extends State<TarotScreen> {
             ),
             SliverList(
               delegate: SliverChildListDelegate([
-                SizedBox(height: Styles.bigSpacing),
-                Container(
-                  child: Wrap(
-                      direction: Axis.horizontal,
-                      alignment: WrapAlignment.center,
-                      spacing: Styles.superSmallSpacing,
-                      runSpacing: Styles.superSmallSpacing,
-                      children: this
-                          ._tarotDataList
-                          .map((data) => TarotCard(
-                            showCodexTitle: this.showCodexTitle,
-                                tarot: data,
-                              ))
-                          .toList()),
+                // SizedBox(height: Styles.bigSpacing),
+                // --------------------------------------- NOTE: Tarot Cards
+                Builder(
+                  builder: (context) {
+                    if (this.isGrid) {
+                      return Container(
+                        child: Wrap(
+                            direction: Axis.horizontal,
+                            alignment: WrapAlignment.center,
+                            spacing: Styles.superSmallSpacing,
+                            runSpacing: Styles.superSmallSpacing,
+                            children: this
+                                ._tarotDataList
+                                .map((data) => TarotCard(
+                                      showCodexTitle: this.showTitle,
+                                      tarot: data,
+                                    ))
+                                .toList()),
+                      );
+                    } else {
+                      return Container(
+                        margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
+                        child: Wrap(
+                          children: this
+                              ._tarotDataList
+                              .map((tarot) => CategoryTile(
+                                    text: tarot.title,
+                                    onTap: () {
+                                      Navigator.of(context).pushNamed(CodexScreen.id, arguments: tarot);
+                                    },
+                                  ))
+                              .toList(),
+                        ),
+                      );
+                    }
+                  },
                 ),
+
                 SizedBox(height: Styles.bigSpacing)
               ]),
             )
