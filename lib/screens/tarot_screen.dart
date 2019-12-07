@@ -86,6 +86,7 @@ class _TarotScreenState extends State<TarotScreen> {
                         showModalBottomSheet<void>(
                             context: context,
                             backgroundColor: Colors.transparent,
+                            isScrollControlled: true,
                             builder: (BuildContext context) {
                               return CustomBottomSheet(
                                 isGrid: this.isGrid,
