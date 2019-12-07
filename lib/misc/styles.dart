@@ -9,10 +9,15 @@ class Styles {
 
   // ----------------------------------- NOTE: Colours
   static const Color black = Color(0xFF232323);
+  static const Color grey = Color(0xff2F2F2F);
   static const Color white = Color(0xFFDFDFDF);
+  static const Color cloudyWhite = Color(0xffb9b9b9);
+  static const Color smoke = Color(0xff717171);
   static const Color goldenBrown = Color(0xFFcc9026);
   static const Color goldenRetriver = Color(0xFFe89834);
   static const Color yellow = Color(0xFFFBCA3C);
+  static const Color disabledGrey = Color(0xff424242);
+  static const Color disbaledLightGrey = Color(0xff484848);
 
   // ----------------------------------- NOTE: Text Styles
   static final TextStyle h1Fancy = TextStyle(
@@ -30,14 +35,13 @@ class Styles {
     color: yellow,
   );
 
-  static final TextStyle p = TextStyle(
+  static const TextStyle p = TextStyle(
     fontFamily: 'Estre',
     color: Styles.white,
     fontSize: 18,
   );
 
   static final TextStyle i = p.copyWith(fontStyle: FontStyle.italic);
-
   static final TextStyle bold = p.copyWith(fontWeight: FontWeight.bold);
   static final TextStyle caption = p.copyWith(fontSize: 20);
   static final TextStyle boldItalicYellow = p.copyWith(
@@ -46,10 +50,19 @@ class Styles {
     color: yellow,
   );
 
+  static const TextStyle bFancy = TextStyle(
+    fontFamily: "Asul",
+    fontWeight: FontWeight.bold,
+    fontSize: 16,
+    color: Styles.white,
+  );
+  // static final TextStyle bFancy =
+
   // ------------------ NOTE: Characters Text Styles
   static final TextStyle sera = TextStyle(
-    fontFamily: "Caveat-Bold",
+    fontFamily: "Caveat",
     fontSize: 20,
     color: Styles.white,
+    fontWeight: FontWeight.bold,
   );
 }
