@@ -13,6 +13,9 @@ class TarotCard extends StatefulWidget {
 }
 
 class _TarotCardState extends State<TarotCard> {
+  final double minWidth = 160;
+  double width = 160;
+  final double widthHeightMultiple = 1.6666666666;
   bool _isTapped = false;
 
   final RadialGradient goldHue = RadialGradient(
@@ -27,8 +30,21 @@ class _TarotCardState extends State<TarotCard> {
     colors: [Colors.transparent, Colors.transparent],
   );
 
+  void calcDimensions() {
+    double appWidth = MediaQuery.of(context).size.width - (Styles.spacing * 2);
+    double numOfCard = (appWidth / minWidth).floorToDouble();
+    double rowWidth = (minWidth * numOfCard) +((numOfCard - 1) * Styles.smallSpacing);
+    double addtional = (appWidth - rowWidth) / numOfCard;
+    double newWidth = minWidth + addtional;
+
+    setState(() {
+      this.width = newWidth;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
+    calcDimensions();
     return GestureDetector(
       onTap: () {
         setState(() {
@@ -58,14 +74,14 @@ class _TarotCardState extends State<TarotCard> {
               boxShadow: [
                 BoxShadow(
                     color: this._isTapped ? Styles.goldenRetriver : Color(0xff3F4239),
-                    offset: this._isTapped ? Offset(2, 1) : new Offset(2, 3),
+                    offset: this._isTapped ? Offset(2, 1) : new Offset(1, 1),
                     blurRadius: 5)
               ],
             ),
             child: AnimatedContainer(
               duration: Duration(milliseconds: 250),
               curve: Curves.easeInQuad,
-              width: 185,
+              width: this.width,
               decoration: BoxDecoration(
                 border: Border.all(
                   width: 2,
@@ -84,8 +100,8 @@ class _TarotCardState extends State<TarotCard> {
             builder: (context) {
               if (widget.showCodexTitle) {
                 return Container(
-                  width: 185,
-                  height: 300,
+                  width: this.width,
+                  height: this.width * this.widthHeightMultiple,
                   child: Center(
                       child: Container(
                           margin: EdgeInsets.symmetric(horizontal: 5),
