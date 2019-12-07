@@ -2,6 +2,7 @@ import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/components/category_tile.dart';
 import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/styles.dart';
+import 'package:dai_codex/screens/tarot_screen.dart';
 import 'package:flutter/material.dart';
 
 class CategoryScreen extends StatefulWidget {
@@ -41,8 +42,16 @@ class _CategoryScreenState extends State<CategoryScreen> {
               ),
               SliverList(
                 delegate: SliverChildListDelegate([
-                  SizedBox(height: Styles.bigSpacing),
-                  Wrap(children: Data.categories.map((category) => CategoryTile(category: category)).toList()),
+                  // SizedBox(height: Styles.bigSpacing),
+                  Wrap(
+                      children: Data.categories
+                          .map((category) => CategoryTile(
+                                text: category.name,
+                                onTap: () {
+                                  Navigator.of(context).pushNamed(TarotScreen.id, arguments: category);
+                                },
+                              ))
+                          .toList()),
                   SizedBox(height: Styles.bigSpacing)
                 ]),
               )
