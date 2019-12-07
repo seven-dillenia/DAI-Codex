@@ -59,7 +59,12 @@ flutter:
         - asset: assets/fonts/estre.ttf
     - family: Caveat
       fonts:
-        - asset: assets/fonts/Caveat-Regular.ttf
-    - family: Caveat-Bold
-      fonts:
         - asset: assets/fonts/Caveat-Bold.ttf
+        - asset: assets/fonts/Caveat-Regular.ttf
+          weight: 700
+    - family: Asul
+      fonts:
+        - asset: assets/fonts/Asul-Regular.ttf
+        - asset: assets/fonts/Asul-Bold.ttf
+          weight: 700
+
