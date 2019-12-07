@@ -42,8 +42,8 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing, vertical: Styles.smallSpacing),
-      padding: EdgeInsets.fromLTRB(0, Styles.smallSpacing, Styles.smallSpacing, 0),
+      margin: EdgeInsets.symmetric(horizontal: Styles.spacing, vertical: Styles.spacing),
+      padding: EdgeInsets.fromLTRB(0, Styles.spacing, Styles.spacing, 0),
       decoration: BoxDecoration(
         color: Styles.grey,
         borderRadius: BorderRadius.all(Radius.circular(8)),
@@ -56,22 +56,22 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
           children: <Widget>[
             // ------------------------------------ NOTE: View
             Container(
-              margin: EdgeInsets.only(left: Styles.smallSpacing),
+              margin: EdgeInsets.only(left: Styles.spacing),
               child: Text(
                 "TAROT VIEW",
                 style: Styles.bFancy
               ),
             ),
-            SizedBox(height: Styles.smallSpacing),
+            SizedBox(height: Styles.spacing),
             // ------------------------------------ NOTE: Divider
             Container(
-              margin: EdgeInsets.only(left: Styles.smallSpacing),
+              margin: EdgeInsets.only(left: Styles.spacing),
               width: double.maxFinite,
               height: 1,
               color: Styles.yellow,
             ),
             SizedBox(
-              height: Styles.smallSpacing * 0.2,
+              height: Styles.spacing * 0.2,
             ),
             // ------------------------------------ NOTE: Grid Icon
             GestureDetector(
@@ -86,7 +86,7 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
               },
               child: Container(
                 color: Colors.transparent,
-                padding: EdgeInsets.fromLTRB(Styles.smallSpacing, Styles.smallSpacing, 0, 0),
+                padding: EdgeInsets.fromLTRB(Styles.spacing, Styles.spacing, 0, 0),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
@@ -145,7 +145,7 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
               },
               child: Container(
                 color: Colors.transparent,
-                padding: EdgeInsets.fromLTRB(Styles.smallSpacing, Styles.smallSpacing, 0, 0),
+                padding: EdgeInsets.fromLTRB(Styles.spacing, Styles.spacing, 0, 0),
 
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -188,11 +188,11 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
             ),
 
             SizedBox(
-              height: Styles.smallSpacing,
+              height: Styles.spacing,
             ),
             // ------------------------------------ NOTE: Divider
             Container(
-              margin: EdgeInsets.only(left: Styles.smallSpacing),
+              margin: EdgeInsets.only(left: Styles.spacing),
               width: double.maxFinite,
               height: 1,
               color: Styles.yellow,

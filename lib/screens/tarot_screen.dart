@@ -123,17 +123,16 @@ class _TarotScreenState extends State<TarotScreen> {
             ),
             SliverList(
               delegate: SliverChildListDelegate([
-                // SizedBox(height: Styles.bigSpacing),
                 // --------------------------------------- NOTE: Tarot Cards
                 Builder(
                   builder: (context) {
                     if (this.isGrid) {
                       return Container(
+                        margin: EdgeInsets.symmetric(horizontal: Styles.spacing, vertical: Styles.spacing),
                         child: Wrap(
                             direction: Axis.horizontal,
-                            alignment: WrapAlignment.center,
-                            spacing: Styles.superSmallSpacing,
-                            runSpacing: Styles.superSmallSpacing,
+                            spacing: Styles.smallSpacing,
+                            runSpacing: Styles.smallSpacing,
                             children: this
                                 ._tarotDataList
                                 .map((data) => TarotCard(
@@ -144,7 +143,7 @@ class _TarotScreenState extends State<TarotScreen> {
                       );
                     } else {
                       return Container(
-                        margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
+                        margin: EdgeInsets.fromLTRB(Styles.spacing, 0, Styles.spacing, Styles.spacing),
                         child: Wrap(
                           children: this
                               ._tarotDataList
@@ -160,8 +159,6 @@ class _TarotScreenState extends State<TarotScreen> {
                     }
                   },
                 ),
-
-                SizedBox(height: Styles.bigSpacing)
               ]),
             )
           ],

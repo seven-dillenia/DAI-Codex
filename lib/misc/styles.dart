@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 class Styles {
   // ----------------------------------- NOTE: Measurements
   static const double bigSpacing = 25;
-  static const double smallSpacing = 15;
-  static const double superSmallSpacing = 10;
+  static const double spacing = 15;
+  static const double smallSpacing = 10;
   static const double leadingTopMargin = 5;
 
   // ----------------------------------- NOTE: Colours

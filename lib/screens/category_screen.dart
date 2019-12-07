@@ -19,7 +19,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
       backgroundColor: Styles.black,
       body: SafeArea(
         child: Container(
-          margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
+          margin: EdgeInsets.symmetric(horizontal: Styles.spacing),
           child: CustomScrollView(
             slivers: <Widget>[
               SliverPersistentHeader(

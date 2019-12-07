@@ -109,7 +109,7 @@ class _CodexScreenState extends State<CodexScreen> {
                       if (widget.codexData.title == "Winter Palace") {
                         return Wrap(
                           alignment: WrapAlignment.center,
-                          runSpacing: Styles.smallSpacing,
+                          runSpacing: Styles.spacing,
                           children: Data.winterPalaceMap.map((path) => buildMapImage(path)).toList(),
                         );
                       } else {
@@ -117,7 +117,7 @@ class _CodexScreenState extends State<CodexScreen> {
                       }
                     } else {
                       return Container(
-                        margin: EdgeInsets.symmetric(horizontal: Styles.smallSpacing),
+                        margin: EdgeInsets.symmetric(horizontal: Styles.spacing),
                         child: CodexText(
                           lines: this.lines,
                         ),
