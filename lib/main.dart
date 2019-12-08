@@ -4,8 +4,6 @@ import 'package:dai_codex/screens/category_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-// void main() => runApp(DAICodex());
-
 void main() {
   runApp(DAICodex());
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
@@ -14,13 +12,10 @@ void main() {
   ));
 }
 
-
 class DAICodex extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-        // FlutterStatusbarcolor.setStatusBarColor(Colors.white);
     return MaterialApp(
-
       onGenerateRoute: RouteGenerator.generateRoute,
       home: CategoryScreen(),
     );
