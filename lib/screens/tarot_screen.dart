@@ -193,7 +193,20 @@ class _TarotScreenState extends State<TarotScreen> {
                               .map((tarot) => CategoryTile(
                                     text: tarot.title,
                                     onTap: () {
-                                      Navigator.of(context).pushNamed(CodexScreen.id, arguments: tarot);
+                                      if (ableToTap) {
+                                          setState(() {
+                                            this.ableToTap = false;
+                                          });
+
+                                          Future.delayed(Duration(milliseconds: Data.milliSecond), () {
+                                            Navigator.of(context).pushNamed(CodexScreen.id, arguments: tarot);
+
+                                            setState(() {
+                                              this.ableToTap = true;
+                                            });
+                                          });
+                                        }
+
                                     },
                                   ))
                               .toList(),
