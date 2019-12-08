@@ -82,14 +82,16 @@ class _TarotScreenState extends State<TarotScreen> {
                   ),
                   leading: Align(
                     alignment: Alignment.centerLeft,
-                    // top: Styles.leadingTopMargin,
-                    child: IconButton(
-                      onPressed: () {
+                    child: GestureDetector(
+                      onTap: () {
                         Navigator.of(context).pop();
                       },
-                      icon: Icon(
-                        FontAwesomeIcons.chevronLeft,
-                        color: Styles.yellow,
+                      child: Container(
+                        padding: EdgeInsets.all(Styles.iconPadding),
+                        child: Icon(
+                          FontAwesomeIcons.chevronLeft,
+                          color: Styles.yellow,
+                        ),
                       ),
                     ),
                   ),
@@ -98,9 +100,9 @@ class _TarotScreenState extends State<TarotScreen> {
                   // ---------------------------------- NOTE: Card Button
                   actionWidget: Align(
                     alignment: Alignment.centerRight,
-                    child: IconButton(
-                      onPressed: () {
-                        showModalBottomSheet<void>(
+                    child: GestureDetector(
+                      onTap: () {
+                        showModalBottomSheet<dynamic>(
                             context: context,
                             backgroundColor: Colors.transparent,
                             isScrollControlled: true,
@@ -135,9 +137,12 @@ class _TarotScreenState extends State<TarotScreen> {
                               );
                             });
                       },
-                      icon: Icon(
-                        this.isGrid ? Styles.gridIcon : Styles.listIcon,
-                        color: Styles.yellow,
+                      child: Container(
+                        padding: EdgeInsets.all(Styles.iconPadding),
+                        child: Icon(
+                          this.isGrid ? Styles.gridIcon : Styles.listIcon,
+                          color: Styles.yellow,
+                        ),
                       ),
                     ),
                   )),

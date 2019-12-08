@@ -85,13 +85,16 @@ class _CodexScreenState extends State<CodexScreen> {
                 ),
                 leading: Positioned(
                   top: Styles.leadingTopMargin,
-                  child: IconButton(
-                    onPressed: () {
+                  child: GestureDetector(
+                    onTap: () {
                       Navigator.of(context).pop();
                     },
-                    icon: Icon(
-                      FontAwesomeIcons.chevronLeft,
-                      color: Styles.yellow,
+                    child: Container(
+                      padding: EdgeInsets.all(Styles.iconPadding),
+                      child: Icon(
+                        FontAwesomeIcons.chevronLeft,
+                        color: Styles.yellow,
+                      ),
                     ),
                   ),
                 ),
