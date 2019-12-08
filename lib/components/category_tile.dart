@@ -1,10 +1,12 @@
+import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:flutter/material.dart';
 
 class CategoryTile extends StatefulWidget {
   final String text;
   final Function onTap;
-  CategoryTile({@required this.text, @required this.onTap});
+  final bool ableToTap;
+  CategoryTile({@required this.text, @required this.onTap, this.ableToTap});
 
   @override
   _CategoryTileState createState() => _CategoryTileState();
@@ -12,6 +14,7 @@ class CategoryTile extends StatefulWidget {
 
 class _CategoryTileState extends State<CategoryTile> {
   bool _istapped = false;
+
   final LinearGradient _gradient = LinearGradient(
     begin: Alignment.centerLeft,
     end: Alignment.centerRight,
@@ -27,19 +30,20 @@ class _CategoryTileState extends State<CategoryTile> {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
+        widget.onTap();
+
         setState(() {
           this._istapped = true;
         });
 
-        Future.delayed(Duration(milliseconds: 500), () {
+        Future.delayed(Duration(milliseconds: Data.milliSecond), () {
           setState(() {
             this._istapped = false;
           });
-          widget.onTap();
         });
       },
       child: AnimatedContainer(
-        duration: Duration(milliseconds: 500),
+        duration: Duration(milliseconds: Data.milliSecond),
         curve: Curves.easeInQuad,
         padding: EdgeInsets.symmetric(vertical: Styles.bigSpacing),
         width: double.infinity,

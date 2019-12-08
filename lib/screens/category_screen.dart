@@ -14,10 +14,11 @@ class CategoryScreen extends StatefulWidget {
 }
 
 class _CategoryScreenState extends State<CategoryScreen> {
+  bool ableToTap = true;
   void setView() async {
     List<bool> result = await getPrefs();
 
-    if((result[0] != null) && (result[1] != null) ) {
+    if ((result[0] != null) && (result[1] != null)) {
       Data.isGrid = result[0];
       Data.showTitle = result[1];
     }
@@ -68,13 +69,23 @@ class _CategoryScreenState extends State<CategoryScreen> {
               ),
               SliverList(
                 delegate: SliverChildListDelegate([
-                  // SizedBox(height: Styles.bigSpacing),
                   Wrap(
                       children: Data.categories
                           .map((category) => CategoryTile(
                                 text: category.name,
+                                ableToTap: this.ableToTap,
                                 onTap: () {
-                                  Navigator.of(context).pushNamed(TarotScreen.id, arguments: category);
+                                  if (ableToTap) {
+                                    setState(() {
+                                      ableToTap = false;
+                                    });
+                                    Future.delayed(Duration(milliseconds: Data.milliSecond), () {
+                                      Navigator.of(context).pushNamed(TarotScreen.id, arguments: category);
+                                      setState(() {
+                                        this.ableToTap = true;
+                                      });
+                                    });
+                                  }
                                 },
                               ))
                           .toList()),
