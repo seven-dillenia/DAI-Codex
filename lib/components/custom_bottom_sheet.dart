@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class CustomBottomSheet extends StatefulWidget {
-  final IconData gridIcon = FontAwesomeIcons.thLarge;
-  final IconData listIcon = FontAwesomeIcons.thList;
   final bool showTitle;
   final bool isGrid;
   final Function onSwitchChange;
@@ -94,7 +92,7 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                       children: <Widget>[
                         Container(
                           child: Icon(
-                            widget.gridIcon,
+                            Styles.gridIcon,
                             color: _isGrid ? Styles.yellow : Styles.cloudyWhite,
                           ),
                         ),
@@ -153,7 +151,7 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                     Row(
                       children: <Widget>[
                         Icon(
-                          widget.listIcon,
+                          Styles.listIcon,
                           color: _isGrid ? Styles.cloudyWhite : Styles.yellow,
                         ),
                         SizedBox(

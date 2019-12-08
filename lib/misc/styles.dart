@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class Styles {
   // ----------------------------------- NOTE: Measurements
@@ -18,6 +19,10 @@ class Styles {
   static const Color yellow = Color(0xFFFBCA3C);
   static const Color disabledGrey = Color(0xff424242);
   static const Color disbaledLightGrey = Color(0xff484848);
+
+  // ----------------------------------- NOTE: Icon
+  static const IconData gridIcon = FontAwesomeIcons.thLarge;
+  static const IconData listIcon = FontAwesomeIcons.thList;
 
   // ----------------------------------- NOTE: Text Styles
   static final TextStyle h1Fancy = TextStyle(
