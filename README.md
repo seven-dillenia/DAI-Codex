@@ -17,14 +17,30 @@
 
 1. Download the app through the link or qr code below
 
-*You have to be on your Android Device*
+> You have to be on your Android Device
 
 [Download Link](https://www.installonair.com/app-download-link/As8ozL)
 
-// qr code
+![qr](images/qr.png)
 
-2.
+2. Tap `Click here to install`
+3. Tap `Ok` to the popup that asks "Do you want to keep it anyway?"
 
+![Ok](images/harm_ok.jpg)
+
+4. After the download, there may be another popup that asks you to change some settings. Tap on `Settings`
+
+![Settings](images/settings.jpg)
+
+5. Enable `Allow from this source`
+
+![allow](images/allow.jpg)
+
+6. Tap `back`
+
+![back](images/back.jpg)
+
+7. Install and open the app!
 
 ## Features
 🐣 View main codex entries
