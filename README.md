@@ -13,8 +13,17 @@
 [Image Gallery](https://imgur.com/a/trRVLnz)
 
 ## Installation
+🛑🛑🛑 **ONLY AVAILABLE FOR ANDROID DEVICES** 🛑🛑🛑
 
-[Download Link](https://www.installonair.com/app-download-link/2jfFzc)
+1. Download the app through the link or qr code below
+
+*You have to be on your Android Device*
+
+[Download Link](https://www.installonair.com/app-download-link/As8ozL)
+
+// qr code
+
+2.
 
 
 ## Features
