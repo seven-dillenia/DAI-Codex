@@ -61,13 +61,6 @@ class _TarotScreenState extends State<TarotScreen> {
   }
 
   @override
-  void dispose() {
-    // TODO: implement dispose
-    super.dispose();
-    saveIsGrid();
-  }
-
-  @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Styles.black,
