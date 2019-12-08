@@ -1,7 +1,8 @@
 import 'package:dai_codex/models/category_data.dart';
 
 class Data {
-  static bool showCodexTitle = false;
+  static bool isGrid = true;
+  static bool showTitle = true;
 
   static final List<Category> categories = <Category>[
     Category(name: "Characters", path: "assets/json/characters.json"),
