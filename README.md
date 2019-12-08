@@ -7,31 +7,31 @@
 ## Installation
 
 ## Features
-✅ View main codex entries
+🐣 View main codex entries
 
-✅ Grid tarot view
+🐣 Grid tarot view
 
-✅ Grid tarot view with text
+🐣 Grid tarot view with text
 
-✅ List tarot view
+🐣 List tarot view
 
-⬜️ "Crafting Materials" codex
+🥚 "Crafting Materials" codex
 
 ## Possible Future Features
 
-⬜️ Ability to add custom Inqusitor's name for each race
+🥚 Ability to add custom Inqusitor's name for each race
 
-⬜️ Ability to add custom Hawke's name
+🥚 Ability to add custom Hawke's name
 
-⬜️ Ability to add custom Hero of Fereldon's anme for each race
+🥚 Ability to add custom Hero of Fereldon's anme for each race
 
-⬜️ Ability to choose pronounce or add custom pronounce
+🥚 Ability to choose pronounce or add custom pronounce
 
-⬜️ Ability to save favourite codex
+🥚 Ability to save favourite codex
 
-⬜️ Ability to search for codex by keywords
+🥚 Ability to search for codex by keywords
 
-⬜️ Distinct view for iPad/Tablets
+🥚 Distinct view for iPad/Tablets
 
 ## Keeping up to date
 
