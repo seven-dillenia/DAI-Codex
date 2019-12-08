@@ -1,5 +1,9 @@
 # Dragon Age Inqusition Codex Mobile App
-
+**Table of Contents**
+- [Installation](##Installation)
+- [Features](##Features)
+- [Possible Future Features](##Possible-Future-Features)
+- [Keeping up to date](##Keeping-up-to-date)
 ## Installation
 
 ## Features
@@ -29,8 +33,10 @@
 
 ⬜️ Distinct view for iPad/Tablets
 
-## Contact
+## Keeping up to date
 
-If you have found any issues/bugs with the app, contact me via twitter (:
+I post updates of the app over on my twitter.
+
+Also, if you have found any issues/bugs with the app, feel free to contact me over there (:
 
 [Twitter](https://twitter.com/leechuyem)
