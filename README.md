@@ -24,6 +24,9 @@
 ![qr](images/qr.png)
 
 2. Tap `Click here to install`
+
+![clickhere](images/click_to_install.jpg)
+
 3. Tap `Ok` to the popup that asks "Do you want to keep it anyway?"
 
 ![Ok](images/harm_ok.jpg)
