@@ -1,3 +1,4 @@
+import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:dai_codex/models/codex_data.dart';
 import 'package:dai_codex/screens/codex_screen.dart';
@@ -6,7 +7,8 @@ import 'package:flutter/material.dart';
 class TarotCard extends StatefulWidget {
   final CodexData tarot;
   final bool showCodexTitle;
-  TarotCard({@required this.tarot, @required this.showCodexTitle});
+  final Function onTap;
+  TarotCard({@required this.tarot, @required this.showCodexTitle, @required this.onTap});
 
   @override
   _TarotCardState createState() => _TarotCardState();
@@ -47,20 +49,22 @@ class _TarotCardState extends State<TarotCard> {
     calcDimensions();
     return GestureDetector(
       onTap: () {
+        widget.onTap();
+
         setState(() {
           this._isTapped = true;
         });
-        Future.delayed(Duration(milliseconds: 500), () {
+
+        Future.delayed(Duration(milliseconds: Data.milliSecond), () {
           setState(() {
             this._isTapped = false;
           });
-          Navigator.of(context).pushNamed(CodexScreen.id, arguments: widget.tarot);
         });
       },
       child: Stack(
         children: <Widget>[
           AnimatedContainer(
-            duration: Duration(milliseconds: 250),
+            duration: Duration(milliseconds: Data.milliSecond),
             curve: Curves.easeInQuad,
             decoration: BoxDecoration(
               borderRadius: this._isTapped
@@ -79,7 +83,7 @@ class _TarotCardState extends State<TarotCard> {
               ],
             ),
             child: AnimatedContainer(
-              duration: Duration(milliseconds: 250),
+              duration: Duration(milliseconds: Data.milliSecond),
               curve: Curves.easeInQuad,
               width: this.width,
               decoration: BoxDecoration(

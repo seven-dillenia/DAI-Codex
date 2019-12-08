@@ -24,6 +24,7 @@ class TarotScreen extends StatefulWidget {
 
 class _TarotScreenState extends State<TarotScreen> {
   bool isTapped = false;
+  bool ableToTap = true;
   List<CodexData> _tarotDataList = new List<CodexData>();
 
   // --------------- NOTE: Variables: Card View
@@ -46,7 +47,6 @@ class _TarotScreenState extends State<TarotScreen> {
       });
     });
   }
-
 
   void saveIsGrid() async {
     // save to data
@@ -158,9 +158,24 @@ class _TarotScreenState extends State<TarotScreen> {
                             runSpacing: Styles.smallSpacing,
                             children: this
                                 ._tarotDataList
-                                .map((data) => TarotCard(
+                                .map((tarot) => TarotCard(
                                       showCodexTitle: this.showTitle,
-                                      tarot: data,
+                                      tarot: tarot,
+                                      onTap: () {
+                                        if (ableToTap) {
+                                          setState(() {
+                                            this.ableToTap = false;
+                                          });
+
+                                          Future.delayed(Duration(milliseconds: Data.milliSecond), () {
+                                            Navigator.of(context).pushNamed(CodexScreen.id, arguments: tarot);
+
+                                            setState(() {
+                                              this.ableToTap = true;
+                                            });
+                                          });
+                                        }
+                                      },
                                     ))
                                 .toList()),
                       );
