@@ -15,7 +15,7 @@
 ## Installation
 🛑🛑🛑 **ONLY AVAILABLE FOR ANDROID DEVICES** 🛑🛑🛑
 
-1. Download the app through the link or qr code below
+1. Download the `.apk` through the link or qr code below
 
 > You have to be on your Android Device
 
