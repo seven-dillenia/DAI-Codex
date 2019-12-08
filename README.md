@@ -1,10 +1,20 @@
-# Dragon Age Inqusition Codex Mobile App
+# Dragon Age Inqusition Codex Mobile App 🥚🧀🐝
 **Table of Contents**
+- [Demo](##Demo)
 - [Installation](##Installation)
 - [Features](##Features)
 - [Possible Future Features](##Possible-Future-Features)
 - [Keeping up to date](##Keeping-up-to-date)
+
+## Demo
+
+[Video Demo](https://www.youtube.com/watch?v=G1P6coVNMHk)
+
+[Image Gallery](https://imgur.com/a/trRVLnz)
+
 ## Installation
+
+
 
 ## Features
 🐣 View main codex entries
