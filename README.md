@@ -1,12 +1,36 @@
 # Dragon Age Inqusition Codex Mobile App
 
-## Coding Standards
+## Installation
 
-### White space
-- white space at the bottom of each file
-### File Name
-- lowercase
+## Features
+✅ View main codex entries
 
-## Developer
+✅ Grid tarot view
 
-[Lee Chu Yem](https://twitter.com/spaaacey)
+✅ Grid tarot view with text
+
+✅ List tarot view
+
+⬜️ "Crafting Materials" codex
+
+## Possible Future Features
+
+⬜️ Ability to add custom Inqusitor's name for each race
+
+⬜️ Ability to add custom Hawke's name
+
+⬜️ Ability to add custom Hero of Fereldon's anme for each race
+
+⬜️ Ability to choose pronounce or add custom pronounce
+
+⬜️ Ability to save favourite codex
+
+⬜️ Ability to search for codex by keywords
+
+⬜️ Distinct view for iPad/Tablets
+
+## Contact
+
+If you have found any issues/bugs with the app, contact me via twitter (:
+
+[Twitter](https://twitter.com/leechuyem)
