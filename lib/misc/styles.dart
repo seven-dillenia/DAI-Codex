@@ -7,6 +7,7 @@ class Styles {
   static const double spacing = 15;
   static const double smallSpacing = 10;
   static const double leadingTopMargin = 5;
+  static const double iconPadding = 15;
 
   // ----------------------------------- NOTE: Colours
   static const Color black = Color(0xFF232323);
@@ -28,27 +29,26 @@ class Styles {
   static final TextStyle h1Fancy = TextStyle(
     fontFamily: 'Inquisition',
     color: Styles.white,
-    fontSize: 32,
+    fontSize: 28,
   );
 
-  static final TextStyle h2Fancy = h1Fancy.copyWith(fontSize: 24);
+  static final TextStyle h2Fancy = h1Fancy.copyWith(fontSize: 22);
   static final TextStyle h3 = TextStyle(
     fontFamily: "Estre",
     fontStyle: FontStyle.italic,
     fontWeight: FontWeight.bold,
-    fontSize: 20,
+    fontSize: 22,
     color: yellow,
   );
 
   static const TextStyle p = TextStyle(
     fontFamily: 'Estre',
     color: Styles.white,
-    fontSize: 18,
+    fontSize: 20,
   );
 
   static final TextStyle i = p.copyWith(fontStyle: FontStyle.italic);
   static final TextStyle bold = p.copyWith(fontWeight: FontWeight.bold);
-  static final TextStyle caption = p.copyWith(fontSize: 20);
   static final TextStyle boldItalicYellow = p.copyWith(
     fontStyle: FontStyle.italic,
     fontWeight: FontWeight.bold,
@@ -58,15 +58,14 @@ class Styles {
   static const TextStyle bFancy = TextStyle(
     fontFamily: "Asul",
     fontWeight: FontWeight.bold,
-    fontSize: 16,
+    fontSize: 18,
     color: Styles.white,
   );
-  // static final TextStyle bFancy =
 
   // ------------------ NOTE: Characters Text Styles
   static final TextStyle sera = TextStyle(
     fontFamily: "Caveat",
-    fontSize: 20,
+    fontSize: 22,
     color: Styles.white,
     fontWeight: FontWeight.bold,
   );

@@ -32,9 +32,9 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
     _isGrid = widget.isGrid;
   }
 
-  final TextStyle highlighted = Styles.bFancy.copyWith(fontSize: 14, color: Styles.yellow);
-  final TextStyle nonHighlighted = Styles.bFancy.copyWith(fontSize: 14);
-  final TextStyle disabledTextStyle = Styles.bFancy.copyWith(fontSize: 14, color: Styles.disbaledLightGrey);
+  final TextStyle highlighted = Styles.bFancy.copyWith(fontSize: 16, color: Styles.yellow);
+  final TextStyle nonHighlighted = Styles.bFancy.copyWith(fontSize: 16);
+  final TextStyle disabledTextStyle = Styles.bFancy.copyWith(fontSize: 16, color: Styles.disbaledLightGrey);
 
 
   @override
@@ -48,7 +48,7 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
         boxShadow: [BoxShadow(color: Color(0xff3F4239), offset: Offset(2, 3), blurRadius: 5)],
       ),
       child: Container(
-        height: 180,
+        height: 185,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[

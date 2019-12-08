@@ -59,16 +59,18 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
                   Builder(
                     builder: (context) {
                       if (captionText != null) {
-                        return Opacity(
-                          opacity: opacity,
-                          child: Text(
-                            this.captionText,
-                            style: Styles.caption,
+                        return Flexible(
+                          child: Opacity(
+                            opacity: opacity,
+                            child: Text(
+                              this.captionText,
+                              style: Styles.p,
+                            ),
                           ),
                         );
                       }
 
-                      return Container();
+                      return SizedBox();
                     },
                   )
                 ],
