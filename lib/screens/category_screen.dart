@@ -21,11 +21,6 @@ class _CategoryScreenState extends State<CategoryScreen> {
       Data.isGrid = result[0];
       Data.showTitle = result[1];
     }
-
-    print("app is grid: " + result[0].toString());
-    print("app show title: " + result[1].toString());
-    print("data is gid: " + Data.isGrid.toString());
-    print("data show title: " + Data.showTitle.toString());
   }
 
   Future<List<bool>> getPrefs() {
