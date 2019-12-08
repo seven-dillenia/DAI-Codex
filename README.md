@@ -14,6 +14,7 @@
 
 ## Installation
 
+[Download Link](https://www.installonair.com/app-download-link/2jfFzc)
 
 
 ## Features
