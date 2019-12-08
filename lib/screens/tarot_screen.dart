@@ -2,6 +2,7 @@ import 'package:dai_codex/components/category_tile.dart';
 import 'package:dai_codex/components/custom_bottom_sheet.dart';
 import 'package:dai_codex/components/custom_sliver_app.dart';
 import 'package:dai_codex/components/tarot_card.dart';
+import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/helper.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:dai_codex/models/category_data.dart';
@@ -9,6 +10,7 @@ import 'package:dai_codex/models/codex_data.dart';
 import 'package:dai_codex/screens/codex_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class TarotScreen extends StatefulWidget {
   static const id = "Tarot Screen";
@@ -25,12 +27,14 @@ class _TarotScreenState extends State<TarotScreen> {
   List<CodexData> _tarotDataList = new List<CodexData>();
 
   // --------------- NOTE: Variables: Card View
-  bool isGrid = true;
-  bool showTitle = false;
+  bool isGrid;
+  bool showTitle;
 
   @override
   void initState() {
     super.initState();
+    isGrid = Data.isGrid;
+    showTitle = Data.showTitle;
     getTarotData();
   }
 
@@ -41,6 +45,26 @@ class _TarotScreenState extends State<TarotScreen> {
         this._tarotDataList = CodexData.decodeJsonToTarotDataList(data);
       });
     });
+  }
+
+
+  void saveIsGrid() async {
+    // save to data
+    Data.isGrid = this.isGrid;
+    Data.showTitle = this.showTitle;
+
+    // save to app
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    Future.wait([prefs.setBool('isGrid', this.isGrid), prefs.setBool('showTitle', this.showTitle)]).then((value) {
+      print("done");
+    });
+  }
+
+  @override
+  void dispose() {
+    // TODO: implement dispose
+    super.dispose();
+    saveIsGrid();
   }
 
   @override
@@ -95,12 +119,16 @@ class _TarotScreenState extends State<TarotScreen> {
                                   setState(() {
                                     this.showTitle = !this.showTitle;
                                   });
+
+                                  saveIsGrid();
                                 },
                                 onGridTap: () {
                                   if (!isGrid) {
                                     setState(() {
                                       this.isGrid = true;
                                     });
+
+                                    saveIsGrid();
                                   }
                                 },
                                 onListTap: () {
@@ -108,6 +136,7 @@ class _TarotScreenState extends State<TarotScreen> {
                                     setState(() {
                                       this.isGrid = false;
                                     });
+                                    saveIsGrid();
                                   }
                                 },
                               );

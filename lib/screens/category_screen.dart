@@ -4,6 +4,7 @@ import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:dai_codex/screens/tarot_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class CategoryScreen extends StatefulWidget {
   static const id = "Category Screen";
@@ -13,6 +14,36 @@ class CategoryScreen extends StatefulWidget {
 }
 
 class _CategoryScreenState extends State<CategoryScreen> {
+  void setView() async {
+    List<bool> result = await getPrefs();
+
+    if((result[0] != null) && (result[1] != null) ) {
+      Data.isGrid = result[0];
+      Data.showTitle = result[1];
+    }
+
+    print("app is grid: " + result[0].toString());
+    print("app show title: " + result[1].toString());
+    print("data is gid: " + Data.isGrid.toString());
+    print("data show title: " + Data.showTitle.toString());
+  }
+
+  Future<List<bool>> getPrefs() {
+    return SharedPreferences.getInstance().then((prefs) {
+      bool isGrid = prefs.getBool('isGrid');
+      bool showTitle = prefs.getBool('showTitle');
+
+      return [isGrid, showTitle];
+    });
+  }
+
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    setView();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
