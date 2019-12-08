@@ -88,6 +88,7 @@ class _TarotScreenState extends State<TarotScreen> {
                       },
                       child: Container(
                         padding: EdgeInsets.all(Styles.iconPadding),
+                        color: Colors.transparent,
                         child: Icon(
                           FontAwesomeIcons.chevronLeft,
                           color: Styles.yellow,
@@ -139,6 +140,7 @@ class _TarotScreenState extends State<TarotScreen> {
                       },
                       child: Container(
                         padding: EdgeInsets.all(Styles.iconPadding),
+                        color: Colors.transparent,
                         child: Icon(
                           this.isGrid ? Styles.gridIcon : Styles.listIcon,
                           color: Styles.yellow,

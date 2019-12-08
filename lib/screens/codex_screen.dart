@@ -91,6 +91,7 @@ class _CodexScreenState extends State<CodexScreen> {
                     },
                     child: Container(
                       padding: EdgeInsets.all(Styles.iconPadding),
+                      color: Colors.transparent,
                       child: Icon(
                         FontAwesomeIcons.chevronLeft,
                         color: Styles.yellow,
