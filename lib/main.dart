@@ -2,13 +2,13 @@ import 'package:dai_codex/misc/routes.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:dai_codex/screens/category_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' as prefix0;
+import 'package:flutter/services.dart';
 
 // void main() => runApp(DAICodex());
 
 void main() {
   runApp(DAICodex());
-  prefix0.SystemChrome.setSystemUIOverlayStyle(prefix0.SystemUiOverlayStyle(
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     statusBarColor: Styles.yellow,
     statusBarBrightness: Brightness.dark
   ));
