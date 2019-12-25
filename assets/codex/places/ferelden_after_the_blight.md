@@ -4,7 +4,7 @@ Now children play in the streets—children for whom the Blight is a story their
 
 The actions of our rulers are thus a puzzle to me.
 
-If Anora is Queen and the Warden is Prince Consort, instead of the above sentence, the following will appear:
+<h4> If Anora is Queen and the Warden is Prince Consort, instead of the above sentence, the following will appear: </h4>
 
 It is thus a wonder why Queen Anora would risk the stability she has worked so hard to maintain. Some way the rumored disappearance of the Prince Consort distracts her, but the Queen has always put the needs of the people above personal tragedy.
 
