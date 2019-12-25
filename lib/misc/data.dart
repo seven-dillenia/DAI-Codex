@@ -3,7 +3,7 @@ import 'package:dai_codex/models/category_data.dart';
 class Data {
   // ------------------------------------- NOTE: View Options
   static bool isGrid = true;
-  static bool showTitle = true;
+  static bool showTitle = false;
 
   // ------------------------------------- NOTE: Time
   static const milliSecond = 300;
