@@ -15,35 +15,30 @@
 ## Installation
 🛑🛑🛑 **ONLY AVAILABLE FOR ANDROID DEVICES** 🛑🛑🛑
 
-1. Download the `.apk` through the link or qr code below
+1. Download the `.apk` through the link below
 
 > You have to be on your Android Device
 
-[Download Link](https://www.installonair.com/app-download-link/As8ozL)
+[Download Link](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/app-release.apk)
 
-![qr](images/qr.png)
 
-2. Tap `Click here to install`
-
-![clickhere](images/click_to_install.jpg)
-
-3. Tap `Ok` to the popup that asks "Do you want to keep it anyway?"
+2. Tap `Ok` to the popup that asks "Do you want to keep it anyway?"
 
 ![Ok](images/harm_ok.jpg)
 
-4. After the download, there may be another popup that asks you to change some settings. Tap on `Settings`
+3. After the download, there may be another popup that asks you to change some settings. Tap on `Settings`
 
 ![Settings](images/settings.jpg)
 
-5. Enable `Allow from this source`
+4. Enable `Allow from this source`
 
 ![allow](images/allow.jpg)
 
-6. Tap `back`
+5. Tap `back`
 
 ![back](images/back.jpg)
 
-7. Install and open the app!
+6. Install and open the app!
 
 ## Features
 🐣 View main codex entries
