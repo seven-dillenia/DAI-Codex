@@ -19,7 +19,7 @@
 
 > You have to be on your Android Device
 
-[Download Link](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/app-release.apk)
+[Download Link](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_app_v1.apk)
 
 
 2. Tap `Ok` to the popup that asks "Do you want to keep it anyway?"
