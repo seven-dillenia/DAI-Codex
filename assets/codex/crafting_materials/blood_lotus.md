@@ -1,0 +1,7 @@
+Do not try to get out of this. We were told you were the best. That is why you were contracted. Was it not you who obtained the two hundred white blooming rose bushes for the Empress's winter ball last year? The comtesse has been infinitely patient 'til now, but she doesn't understand why it is so hard to fill the garden pool. She wants no more excuses. And no, she will not compromise with the dawn lotuses. They're white! The flowers have to match the silk canopies. It is crucial! Dark purple. Dark red. Do not try to frame this as a safety issue. The guests will be perfectly safe. Why, if they experience any hallucinations from the concentration of lotus essence in the air, I'm certain it will only make the evening more thrilling.
+
+I don't care if you have to send someone to some Fereldan peat bog to get it all. Just do it!
+
+—A note from Chamberlain Laurent to Grand Gardener Umbert Vauclain, over the decorations for Comtesse d'Arnee's summer garden party
+
+According to gossip in Val Royeaux, the chamberlain did succeed in convincing Grand Gardener Vauclain to provide four hundred and twenty lotus plants. The party was considered by most to be a roaring success, even though the evening concluded with at least twelve guests asleep on the lawn, three in the pool, and one lady losing several teeth trying to take a bite out of a marble statue of the comtesse's father, which she was convinced was made of cake.

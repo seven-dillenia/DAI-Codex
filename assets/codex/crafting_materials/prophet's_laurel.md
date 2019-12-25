@@ -1,0 +1,3 @@
+According to Orlesian folklore, Andraste's followers and sympathizers tossed sprigs of the laurel in her path as she was led to her pyre. After she burned, her ashes blew across the leaves on the ground, bestowing upon them their famed purifying qualities. It is just a tale, of course. The laurel was recognized as a healing herb long before Andraste's time. Ancient Tevinter scrolls describe the use of the laurel in poultices, tinctures, and even incense. Though the legend might be pure fabrication, the laurel will always be symbolic of Andraste's sacrifice. Its glossy dark leaves represent the Sword of Mercy; the red berries, the drops of her blood upon it.
+
+—An excerpt from <i> The Botanical Compendium </i> by Ines Arancia, botanist

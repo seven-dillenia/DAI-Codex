@@ -28,6 +28,7 @@ flutter:
 
     # tarot
     - assets/tarots/characters/
+    - assets/tarots/crafting_materials/
     - assets/tarots/creatures/
     - assets/tarots/groups/
     - assets/tarots/history/
@@ -39,6 +40,7 @@ flutter:
 
     # codex
     - assets/codex/characters/
+    - assets/codex/crafting_materials/
     - assets/codex/creatures/
     - assets/codex/groups/
     - assets/codex/history/

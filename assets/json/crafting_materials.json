@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Amrita Vein",
+        "codex_path": "assets/codex/crafting_materials/amrita_vein.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Arbor Blessing",
+        "codex_path": "assets/codex/crafting_materials/arbor_blessing.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Blood Lotus",
+        "codex_path": "assets/codex/crafting_materials/blood_lotus.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Crystal Grace",
+        "codex_path": "assets/codex/crafting_materials/crystal_grace.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Deathroot",
+        "codex_path": "assets/codex/crafting_materials/deathroot.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Deep Mushroom",
+        "codex_path": "assets/codex/crafting_materials/deep_mushroom.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Dragonthorn",
+        "codex_path": "assets/codex/crafting_materials/dragonthorn.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Elfroot",
+        "codex_path": "assets/codex/crafting_materials/elfroot.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Embrium",
+        "codex_path": "assets/codex/crafting_materials/embrium.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Felandaris",
+        "codex_path": "assets/codex/crafting_materials/felandaris.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Ghoul's Beard",
+        "codex_path": "assets/codex/crafting_materials/ghoul's_beard.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Prophet's Laurel",
+        "codex_path": "assets/codex/crafting_materials/prophet's_laurel.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Rashvine",
+        "codex_path": "assets/codex/crafting_materials/rashvine.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Spindleweed",
+        "codex_path": "assets/codex/crafting_materials/spindleweed.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Vandal Aria",
+        "codex_path": "assets/codex/crafting_materials/vandal_aria.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    },
+    {
+        "title": "Witherstalk",
+        "codex_path": "assets/codex/crafting_materials/witherstalk.md",
+        "tarot_path": "assets/tarots/crafting_materials/crafting_materials.png"
+    }
+]

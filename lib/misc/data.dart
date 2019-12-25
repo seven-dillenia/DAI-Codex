@@ -10,6 +10,7 @@ class Data {
 
   static final List<Category> categories = <Category>[
     Category(name: "Characters", path: "assets/json/characters.json"),
+    Category(name: "Crafting Materials", path: "assets/json/crafting_materials.json"),
     Category(name: "Creatures", path: "assets/json/creatures.json"),
     Category(name: "History", path: "assets/json/history.json"),
     Category(name: "Magic", path: "assets/json/magic.json"),
