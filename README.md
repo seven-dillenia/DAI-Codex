@@ -1,4 +1,4 @@
-# Dragon Age Inqusition Codex Mobile App 🥚🐝
+# Dragon Age Inqusition Codex Mobile App 🥚
 **Table of Contents**
 - [Demo](#Demo)
 - [Installation](#Installation)
@@ -54,7 +54,7 @@
 
 🐣 List tarot view
 
-🥚 "Crafting Materials" codex
+🐣 "Crafting Materials" codex
 
 ## Possible Future Features
 
