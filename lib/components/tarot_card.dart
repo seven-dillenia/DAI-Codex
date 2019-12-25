@@ -1,7 +1,6 @@
 import 'package:dai_codex/misc/data.dart';
 import 'package:dai_codex/misc/styles.dart';
 import 'package:dai_codex/models/codex_data.dart';
-import 'package:dai_codex/screens/codex_screen.dart';
 import 'package:flutter/material.dart';
 
 class TarotCard extends StatefulWidget {

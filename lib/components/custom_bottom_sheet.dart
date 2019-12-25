@@ -200,8 +200,6 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
               children: <Widget>[
                 Container(
                   margin: EdgeInsets.only(left: 5),
-
-                  // TODO: add ios switch
                   child: Switch(
                     value: _showTitle,
                     onChanged: this._isGrid ? (value) {
@@ -214,7 +212,6 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                     activeTrackColor: this._isGrid ? Styles.goldenRetriver : Styles.disbaledLightGrey,
                     inactiveThumbColor: this._isGrid ? Styles.white : Styles.disabledGrey,
                     inactiveTrackColor: this._isGrid ? Styles.cloudyWhite : Styles.disbaledLightGrey,
-
                   ),
                 ),
                 Container(
