@@ -17,7 +17,7 @@
 
 1. Download the `.apk` through the link below
 
-**You have to be on your Android Device**
+**You have to be on your Android Device to download the file below**
 
 [Download Link](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_app_v1.apk)
 
