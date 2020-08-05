@@ -73,4 +73,4 @@ I post updates of the app over on my twitter.
 
 Also, if you have found any issues/bugs with the app, feel free to contact me over there (:
 
-[Twitter](https://twitter.com/spaacegf)
+[Twitter](https://twitter.com/waterleemon)
