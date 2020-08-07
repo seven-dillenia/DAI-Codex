@@ -1,49 +1,62 @@
 # iOS Installation
 
-There are a lot of steps to follow :(
+There are a lot of steps to follow 😓
 
 ## Prerequisites
 
-* A Mac OS X 10.9 or higher with at least 14gb free storage
-    * An application called Xcode will need to be installed and its size is about 14GB, you can delete the application after the app installation
-* AppleID (apple login
-    * If you have an Apple device, you most likely have an AppleID, but just in case: [Here is how to create an AppleID](https://support.apple.com/en-au/HT204316)
+* A Mac OS X 10.9 or higher
+* At least 14gb free storage
+    * An application called Xcode will need to be installed and its size is about 14GB. You can delete Xcode after the app installation
+* AppleID (apple login)
+    * If you have an Apple device, you most likely have an AppleID. But, just in case: [How to create an AppleID](https://support.apple.com/en-au/HT204316)
 
 ## Steps
 
 **While on your Mac, follow the following steps:**
 
-### 1\. Download all of the required apps
-<br>
-a) Download and install Xcode from the Mac App Store
-    [Link to Xcode on the Mac App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
-b) Download iOS App Signer
-    [Link to iOS App Signer Download Page](https://dantheman827.github.io/ios-app-signer)
+### 1. Download all of the required apps
+
+#### a) Download and install Xcode from the Mac App Store
+
+[Link to Xcode on the Mac App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+
+**b) Download iOS App Signer**
+
+[Link to iOS App Signer Download Page](https://dantheman827.github.io/ios-app-signer)
+
 c) Download the DAI Codex app file (.ipa)
 
 | iOS Version | Download File |
 | ----------- | ------------- |
-| x13.0 or higher | [dai\_codex\_os13\_v1.ipa](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_ios13_v1.ipa) |
+| iOS 13.0 or higher | [dai\_codex\_os13\_v1.ipa](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_ios13_v1.ipa) |
 
-### 2\. Create a signing certificate and provisioning profile
-<br>
-a) Open up Xcode > Create A New Project > Single View App
-    -    If opened for the first time, you will be asked to agree to terms and conditions
-b) Fill out the app details and then click Next
+### 2. Create a signing certificate and provisioning profile
 
-* Product Name: anything you want
-    * e.g. swordandshields
-* Organisation Name: anything you want
-    * e.g. circlemage
-* Organisation Identifier: com.\<organisation name>.\<product name>
-    * e.g. com.circlemage.swordandshields
+We will create these items by creating a dummy project in Xcode.
+
+a) Open up `Xcode` > `Create A New Project` > `Single View App`
+
+* If opened for the first time, you will be asked to agree to terms and conditions
+
+-- screenshot
+
+b) Fill out the project details and then click Next
+
+| Field       | Values        | Example     |
+| ----------- | ------------- | ------------|
+| Product Name | anything you want | swordandshields |
+| Organisation Name | anything you want | circlemage |
+| Organisation Identifier | com.\<organisation name>.\<product name> | com.circlemage.swordandshields |
+
+-- screenshot
 
 c) Xcode will ask you where to save the project. Once saved, Xcode will open up the project
 
 * Save the project anywhere you like. For this tutorial, I saved it in the Documents folder
 
 d) Click on Project Name > Signing & Capabilities
-   There will be error. Don't worry, this will be fixed in the later steps.
+* There will be an error. Don't worry, we'll get that fixed. 
+
 e) Click on Team > Add Account
 f) A sign in pop up will appear. Sign in with your AppleID
 g) Once signed in, go back to Xcode.
