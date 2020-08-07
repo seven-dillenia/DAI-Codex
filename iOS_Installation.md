@@ -81,8 +81,6 @@ h) Click on Team, again. This time you'll see the account you had just added. Se
 > Xcode is still showing errors after adding the account. That's okay, we'll sort that out soon :)
 
 <img src="https://imgur.com/vHwR9jT.jpg" alt="new project"/>
-<br>
-<img src="https://imgur.com/ismrTDI.jpg" alt="new project"/>
 
 i) Connect your iPhone your Mac. Keep it connected until the DAI Codex app is installed.
 j) Back to Xcode, select Device button (located at the very top). 
