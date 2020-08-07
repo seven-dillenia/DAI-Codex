@@ -28,7 +28,7 @@ There are a lot of steps to follow 😓
 
 | iOS Version        | Download File                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| iOS 13.0 or higher | [dai\_codex\_os13\_v1.ipa](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_ios13_v1.ipa) |
+| iOS 13.0 or higher | [dai\_codex\_ios13\_v1.ipa](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_ios13_v1.ipa) |
 
 ### 2. Create a signing certificate and provisioning profile
 
