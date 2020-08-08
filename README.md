@@ -8,13 +8,13 @@
   - [Keeping up to date](#keeping-up-to-date)
 
 ## Demo
-|          Category Screen           | Tarot Screen - Grid View and Title |               Codex                |
+|          Category Screen           |     Tarot Screen - Grid View 1     |               Codex                |
 | :--------------------------------: | :--------------------------------: | :--------------------------------: |
 | ![](https://imgur.com/S7gJDCP.png) | ![](https://imgur.com/6IaPKcS.png) | ![](https://imgur.com/BqIytGa.png) |
 
-|           View Settings            | Tarot Screen - Grid View and No Title |             List View              |
-| :--------------------------------: | :-----------------------------------: | :--------------------------------: |
-| ![](https://imgur.com/xYxjFwe.png) |  ![](https://imgur.com/95s7I6a.png)   | ![](https://imgur.com/MhaLFmQ.png) |
+|           View Settings            |     Tarot Screen - Grid View 2     |             List View              |
+| :--------------------------------: | :--------------------------------: | :--------------------------------: |
+| ![](https://imgur.com/xYxjFwe.png) | ![](https://imgur.com/95s7I6a.png) | ![](https://imgur.com/MhaLFmQ.png) |
 
 [Video Demo](https://www.youtube.com/watch?v=G1P6coVNMHk)
 
