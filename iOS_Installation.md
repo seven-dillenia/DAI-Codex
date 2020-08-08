@@ -86,7 +86,7 @@ We will create these items by creating a dummy project in Xcode.
 <br>
 <img src="https://imgur.com/asqZJq3.jpg" alt="new project"/>
 
-**i)** Connect your iPhone your Mac. Keep it connected until the DAI Codex app is installed.
+**i)** Connect your iPhone to your Mac. Keep it connected until the DAI Codex app is installed.
 
 **j)** Back to Xcode, select `Device` button (located at the very top). 
 
