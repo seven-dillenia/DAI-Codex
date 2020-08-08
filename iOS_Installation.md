@@ -97,8 +97,6 @@ We will create a **signing certificate** and **provisioning profile** by creatin
 > Xcode will re-configure and the error should be now all gone!
 
 <img src="https://imgur.com/8U7oogj.jpg" alt="new project"/>
-<br>
-<img src="https://imgur.com/WbGzEHz.jpg" alt="new project"/>
 
 You now have a signing certificate and provisioning profile! Hang in there, almost done.
 
