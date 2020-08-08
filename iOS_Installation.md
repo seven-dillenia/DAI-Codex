@@ -148,4 +148,28 @@ By this point, you should have new copy of the DAI Codex .ipa *(e.g. `dai_codex_
 
 <img src="https://imgur.com/uuSNwMR.jpg" alt="new project"/>
 
+## Errors when opening the app
+
+<img src="https://imgur.com/XnyTDmG.jpg" alt="new project" height="500"/>
+
+If you get this message when opening the app on phone, then follow the fix below:
+
+a) Go to `Settings` > `General` > `Device Management`
+
+<img src="https://imgur.com/dmjiFNo.jpg" alt="new project" height="500"/>
+<br>
+<img src="https://imgur.com/O37vYUv.jpg" alt="new project" height="500"/>
+
+b) Select the app listed
+
+<img src="https://imgur.com/NoXSlqk.jpg" alt="new project" height="500"/>
+
+c) Tap on `Trust "Apple Developer: <your AppleID email>"`
+
+<img src="https://imgur.com/PO2fBbb.jpg" alt="new project" height="500"/>
+
+d) Tap on `Trust`
+
+<img src="https://imgur.com/L5pIaHg.jpg" alt="new project" height="500"/>
+
 **Dareth shiral!**
