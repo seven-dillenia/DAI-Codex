@@ -3,7 +3,16 @@
 **While on your Android Device, follow th steps below:**
 1. Download the `.apk` through the link below
 
-[DAI Codex App Download Link](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_app_v1.apk)
+
+Scan to the QR code to download the file:
+
+<img src="https://imgur.com/rTC14ci.jpg" alt="new project" width="300"/>
+
+**OR**
+
+Download the following to your phone:
+
+[DAI Codex App APK Download](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_app_v1.apk)
 
 1. Tap `Ok` to the popup that asks "Do you want to keep it anyway?"
 
