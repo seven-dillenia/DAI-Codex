@@ -15,9 +15,9 @@
 
 ## Installation
 
-**[Andoid Installation](android_installation.md)**
+**[Andoid Installation](https://github.com/leechuyem/DAI-Codex/blob/master/andoid_installation.md)**
 
-**[iOS Installation](iOS_Installation.md)**
+**[iOS Installation](https://github.com/leechuyem/DAI-Codex/blob/master/iOS_Installation.md)**
 
 ## Features
 🐣 View main codex entries
