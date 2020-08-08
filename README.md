@@ -1,10 +1,11 @@
 # Dragon Age Inqusition Codex Mobile App 🥚
 **Table of Contents**
-- [Demo](#Demo)
-- [Installation](#Installation)
-- [Features](#Features)
-- [Possible Future Features](#Possible-Future-Features)
-- [Keeping up to date](#Keeping-up-to-date)
+- [Dragon Age Inqusition Codex Mobile App 🥚](#dragon-age-inqusition-codex-mobile-app-)
+  - [Demo](#demo)
+  - [Installation](#installation)
+  - [Features](#features)
+  - [Possible Future Features](#possible-future-features)
+  - [Keeping up to date](#keeping-up-to-date)
 
 ## Demo
 
@@ -13,32 +14,10 @@
 [Image Gallery](https://imgur.com/a/trRVLnz)
 
 ## Installation
-🛑🛑🛑 **ONLY AVAILABLE FOR ANDROID DEVICES** 🛑🛑🛑
 
-1. Download the `.apk` through the link below
+**[Andoid Installation](android_installation.md)**
 
-**You have to be on your Android Device to download the file below**
-
-[Download Link](https://github.com/leechuyem/DAI-Codex/releases/download/v1.0/dai_codex_app_v1.apk)
-
-
-2. Tap `Ok` to the popup that asks "Do you want to keep it anyway?"
-
-![Ok](images/harm_ok.jpg)
-
-3. After the download, there may be another popup that asks you to change some settings. Tap on `Settings`
-
-![Settings](images/settings.jpg)
-
-4. Enable `Allow from this source`
-
-![allow](images/allow.jpg)
-
-5. Tap `back`
-
-![back](images/back.jpg)
-
-6. Install and open the app!
+**[iOS Installation](iOS_Installation.md)**
 
 ## Features
 🐣 View main codex entries
