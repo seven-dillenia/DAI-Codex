@@ -170,6 +170,6 @@ c) Tap on `Trust "Apple Developer: <your AppleID email>"`
 
 d) Tap on `Trust`
 
-<img src="https://imgur.com/L5pIaHg.jpg" alt="new project" height="500"/>
+<img src="https://imgur.com/x7oL9Zh.jpg" alt="new project" height="500"/>
 
 **Dareth shiral!**
