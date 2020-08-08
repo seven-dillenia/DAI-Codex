@@ -148,7 +148,7 @@ By this point, you should have new copy of the DAI Codex .ipa *(e.g. `dai_codex_
 
 <img src="https://imgur.com/uuSNwMR.jpg" alt="new project"/>
 
-## Errors when opening the app
+## Error when opening the app
 
 <img src="https://imgur.com/XnyTDmG.jpg" alt="new project" height="500"/>
 
