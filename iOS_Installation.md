@@ -128,7 +128,7 @@ You now have a signing certificate and provisioning profile! Hang in there, almo
 
 ### 4. Installing the DAI Codex to your phone
 
-By this point, you should have new copy of the DAI Codex .ipa *(e.g. dai_codex_os13_v1.ipa)* file that was created by the iOS App Signer and it is saved somewhere in your machine.
+By this point, you should have new copy of the DAI Codex .ipa *(e.g. `dai_codex_os13_v1.ipa`)* file that was created by the iOS App Signer and it is saved somewhere in your machine.
 
 **a)** Let's go back to Xcode. Click on `Window` > `Devices and Simulators`
 
@@ -136,7 +136,7 @@ By this point, you should have new copy of the DAI Codex .ipa *(e.g. dai_codex_o
 
 <img src="https://imgur.com/477lCc2.jpg" alt="new project"/>
 
-**b)** Click on the + button and select the new DAI Codex .ipa file that was created by the iOS App Signer
+**b)** Click on the `+` button and select the new DAI Codex `.ipa` file that was created by the iOS App Signer
 
 > **DO NOT select `.ipa` file that you downloaded from this page**
 
