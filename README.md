@@ -8,6 +8,11 @@
   - [Keeping up to date](#keeping-up-to-date)
 
 ## Demo
+<img src="https://imgur.com/S7gJDCP.png" alt="new project"/>
+<img src="https://imgur.com/6IaPKcS.png" alt="new project"/>
+<img src="https://imgur.com/BqIytGa.png" alt="new project"/>
+<img src="https://imgur.com/xYxjFwe.png" alt="new project"/>
+<img src="https://imgur.com/MhaLFmQ.png" alt="new project"/>
 
 [Video Demo](https://www.youtube.com/watch?v=G1P6coVNMHk)
 
