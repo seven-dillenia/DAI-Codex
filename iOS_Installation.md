@@ -4,10 +4,9 @@ There are a lot of steps to follow 😓
 
 ## Prerequisites
 
-* A Mac OS X 10.9 or higher
+* A Mac OS X 10.9 or higher with at least 14gb free storage
+  * An application called Xcode will need to be installed and its size is about 14GB. You can delete Xcode after the app installation
 * iPhone with iOS 13 or higher
-* At least 14gb free storage
-    * An application called Xcode will need to be installed and its size is about 14GB. You can delete Xcode after the app installation
 * AppleID (apple login)
     * If you have an Apple device, you most likely have an AppleID. But, just in case: [How to create an AppleID](https://support.apple.com/en-au/HT204316)
 
@@ -25,7 +24,7 @@ There are a lot of steps to follow 😓
 
 [Link to iOS App Signer Download Page](https://dantheman827.github.io/ios-app-signer)
 
-**c)** Download the DAI Codex app file (.ipa)
+**c)** Download the DAI Codex app file (`.ipa`)
 
 | iOS Version        | Download File                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +32,7 @@ There are a lot of steps to follow 😓
 
 ### 2. Create a signing certificate and provisioning profile
 
-We will create these items by creating a dummy project in Xcode.
+We will create a **signing certificate** and **provisioning profile** by creating a **dummy project** in Xcode.
 
 **a)** Open up `Xcode` > `Create A New Project` > `Single View App`
 
@@ -63,7 +62,7 @@ We will create these items by creating a dummy project in Xcode.
 
 <img src="https://imgur.com/HbXv89B.jpg" alt="new project"/>
 
-**e)** Click on Team > Add Account
+**e)** Click on `Team` > `Add Account`
 
 > Make sure that `Automatically manage signing` is ticked
 > 
@@ -79,7 +78,7 @@ We will create these items by creating a dummy project in Xcode.
 
 **g)** Once signed in, go back to Xcode.
 
-**h)** Click on Team, again. This time you'll see the account you had just added. Select that account.
+**h)** Click on `Team`, again. This time you'll see the account you had just added. Select that account.
 
 > Xcode is still showing errors after adding the account. That's okay, we'll sort that out soon :)
 
@@ -119,7 +118,7 @@ You now have a signing certificate and provisioning profile! Hang in there, almo
 
 <img src="https://imgur.com/5r6SDAt.jpg" alt="new project"/>
 
-**d)** Click on Start. The iOS App Signer will create a copy of the dai_codex `.ipa` file. It will ask you where you want to save this new `ipa` file.
+**d)** Click on `start`. The iOS App Signer will create a copy of the dai_codex `.ipa` file. It will ask you where you want to save this new `ipa` file.
 > * Save it where ever you'd like. For this guide, I had saved it in my Documents folder.
 > * Your mac may ask you to give the iOS App Signer permission to access the folder by entering your mac machine's login password.
 
