@@ -5,6 +5,7 @@ There are a lot of steps to follow 😓
 ## Prerequisites
 
 * A Mac OS X 10.9 or higher
+* iPhone with iOS 13 or higher
 * At least 14gb free storage
     * An application called Xcode will need to be installed and its size is about 14GB. You can delete Xcode after the app installation
 * AppleID (apple login)
